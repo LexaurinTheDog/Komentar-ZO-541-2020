@@ -20,15 +20,15 @@
 >
 > *- d) nakládat s odpadem tak, aby jej zabezpečil před odcizením nebo únikem nebo aby nedošlo k jeho znehodnocení, které by zhoršilo možnost nakládání s daným odpadem v souladu s hierarchií odpadového hospodářství, do okamžiku, kdy jej sám zpracuje, pokud je provozovatelem zařízení, nebo do okamžiku předání podle písmene e) a*
 >
-> *- e) odpad, který sám nezpracuje v souladu s tímto zákonem, předat […] v souladu s hierarchií odpadového hospodářství*
+> *- e) odpad, který sám nezpracuje v souladu s tímto zákonem, předat, s výjimkou předání odpadu v rámci školního sběru nebo předání nezbytného množství vzorků odpadu k rozborům, zkouškám nebo analýzám pro účely vědy, výzkumu a vývoje, zjištění přijatelnosti odpadu do zařízení určeného pro nakládání s odpady, zařazení odpadu do kategorie, hodnocení nebezpečných vlastností odpadů a dalším rozborům a zkouškám nezbytným pro zajištění nakládání s odpady v souladu s právními předpisy, v souladu s hierarchií odpadového hospodářství*
 >
->   *1. přímo nebo prostřednictvím dopravce odpadu pouze do zařízení určeného pro nakládání s daným druhem a kategorií odpadu nebo za podmínek podle § 16 odst. 3 do dopravního prostředku provozovatele takového zařízení,*
+> *- 1. přímo nebo prostřednictvím dopravce odpadu pouze do zařízení určeného pro nakládání s daným druhem a kategorií odpadu nebo za podmínek podle § 16 odst. 3 do dopravního prostředku provozovatele takového zařízení,*
 >
->   *2. obchodníkovi s odpady s povolením pro daný druh a kategorii odpadu, popřípadě dopravci odpadu určenému tímto obchodníkem, nebo*
+> *- 2. obchodníkovi s odpady s povolením pro daný druh a kategorii odpadu, popřípadě dopravci odpadu určenému tímto obchodníkem, nebo*
 >
->   *3. na místo určené obcí podle § 59 odst. 2 a 5.*
+> *- 3. na místo určené obcí podle § 59 odst. 2 a 5.*
 >
-> *(2) Převzít odpad jsou […] oprávněni*
+> *(2) Převzít odpad jsou, s výjimkou převzetí nezbytného množství vzorků odpadu k rozborům, zkouškám nebo analýzám pro účely vědy, výzkumu a vývoje, k zjištění přijatelnosti odpadu do zařízení určeného pro nakládání s odpady, k zařazení odpadu do kategorie, k hodnocení nebezpečných vlastností odpadů a dalším rozborům a zkouškám nezbytným pro zajištění nakládání s odpady v souladu s právními předpisy, oprávněni*
 >
 > *- a) provozovatel zařízení určeného pro nakládání s daným druhem a kategorií odpadu,*
 >
@@ -36,7 +36,7 @@
 >
 > *- c) obec za podmínek stanovených v § 59, nebo*
 >
-> *- d) právnická osoba vykonávající činnost školy nebo školského zařízení nebo vysoká škola (dále jen „škola") za podmínek stanovených v § 20.*
+> *- d) právnická osoba vykonávající činnost školy nebo školského zařízení nebo vysoká škola (dále jen „škola“) za podmínek stanovených v § 20.*
 >
 > *(3) Na jednotky požární ochrany a právnické a podnikající fyzické osoby, které jsou jinými právními předpisy určeny k řešení havárií a zdolávání požárů, se při této činnosti nevztahují povinnosti podle tohoto zákona, s výjimkou odstavce 1 písm. e).*
 
@@ -92,19 +92,21 @@ Krajní princip — **havárie a zdolávání požárů**. Na jednotky požárn�
 >
 > *- c) obchodníkovi s odpady s povolením pro daný druh a kategorii odpadu, s výjimkou vlastníka odpadu, který je fyzickou osobou.*
 >
-> *(2) Pokud se vlastník pozemku dozví o nezákonně soustředěném odpadu na svém pozemku, je povinen oznámit tuto skutečnost bez zbytečného odkladu obecnímu úřadu obce s rozšířenou působností […]*
+> *(2) Pokud se vlastník pozemku dozví o nezákonně soustředěném odpadu na svém pozemku, je povinen oznámit tuto skutečnost bez zbytečného odkladu obecnímu úřadu obce s rozšířenou působností, v jehož správním obvodu je odpad soustředěn.*
 >
 > *(3) Pokud se obecní úřad obce s rozšířenou působností dozví, že se v jeho správním obvodu nachází nezákonně soustředěný odpad, neprodleně se pokusí zjistit jeho vlastníka.*
 >
-> *(4) Pokud není možné zjistit osobu, která je za odpad odpovědná […], vyzve obecní úřad obce s rozšířenou působností vlastníka pozemku k odklizení odpadu […] ve lhůtě 30 dnů ode dne doručení výzvy. […]*
+> *(4) Pokud není možné zjistit osobu, která je za odpad odpovědná nebo taková osoba zemřela nebo zanikla, aniž by její povinnosti ve vztahu k tomuto odpadu přešly na jinou osobu, vyzve obecní úřad obce s rozšířenou působností vlastníka pozemku k odklizení odpadu a jeho předání do zařízení určeného pro nakládání s odpady ve lhůtě 30 dnů ode dne doručení výzvy. V odůvodněných případech může obecní úřad obce s rozšířenou působností stanovit lhůtu k odklizení odpadu a jeho předání do zařízení určeného pro nakládání s odpady delší. Obec, na jejímž území se odpad nachází, může vlastníkovi pozemku poskytnout součinnost při odklízení odpadu a jeho předání do zařízení určeného pro nakládání s odpady.*
 >
-> *(5) Pokud vlastník pozemku nezajistí odklizení odpadu […] může obecní úřad obce s rozšířenou působností*
+> *(5) Pokud vlastník pozemku nezajistí odklizení odpadu a předání odpadu do zařízení určeného pro nakládání s odpady do 30 dnů ode dne doručení výzvy nebo v delší lhůtě stanovené ve výzvě, může obecní úřad obce s rozšířenou působností*
 >
-> *- a) uložit vlastníkovi pozemku, aby na vlastní náklady zabezpečil místo […] proti dalšímu návozu odpadu,*
+> *- a) uložit vlastníkovi pozemku, aby na vlastní náklady zabezpečil místo, kde se nachází nezákonně soustředěný odpad, proti dalšímu návozu odpadu,*
 >
 > *- b) zabezpečit odpad, který ohrožuje životní prostředí, před únikem škodlivin do okolního prostředí, nebo*
 >
 > *- c) nezákonně soustředěný odpad odklidit a předat do zařízení určeného pro nakládání s odpady.*
+>
+> *(6) Vlastník pozemku nemusí splnit povinnost uloženou podle odstavce 5 písm. a), pokud odpad na vlastní náklady předá do zařízení určeného pro nakládání s odpady do 30 dnů ode dne nabytí právní moci rozhodnutí, kterým je mu taková povinnost uložena. Pokud obecní úřad obce s rozšířenou působností postupuje podle odstavce 5 písm. b) nebo c), je osoba pověřená obecním úřadem obce s rozšířenou působností oprávněna vstoupit na pozemek na dobu nezbytnou k zabezpečení nebo odklizení odpadu a vlastník nebo uživatel tohoto pozemku je povinen vstup osobě pověřené obecním úřadem obce s rozšířenou působností umožnit a strpět zabezpečení nebo odklizení odpadu.*
 
 **Výklad:**
 
@@ -142,19 +144,27 @@ Osoba pověřená obcí s rozšířenou působností má **zákonné oprávněn�
 >
 > *- a) zařadit odpad podle druhu a kategorie a nakládat s ním podle jeho skutečných vlastností,*
 >
-> *- b) prokázat orgánům provádějícím kontrolu podle tohoto zákona, že předal odpad, který produkuje, v odpovídajícím množství v souladu s § 13 odst. 1 písm. e); […]*
+> *- b) prokázat orgánům provádějícím kontrolu podle tohoto zákona, že předal odpad, který produkuje, v odpovídajícím množství v souladu s § 13 odst. 1 písm. e); v případě stavebního a demoličního odpadu se tato povinnost vztahuje i na nepodnikající fyzické osoby, s výjimkou případu, kdy množství produkovaného stavebního a demoličního odpadu odpovídá množství stavebního a demoličního odpadu, který může nepodnikající fyzická osoba předat podle § 59 obci,*
 >
-> *- c) v případě komunálního odpadu, který běžně produkuje, a stavebního a demoličního odpadu, které sám nezpracuje, mít jejich předání podle § 13 odst. 1 písm. e) v odpovídajícím množství zajištěno písemnou smlouvou před jejich vznikem; […]*
+> *- c) v případě komunálního odpadu, který běžně produkuje, a stavebního a demoličního odpadu, které sám nezpracuje, mít jejich předání podle § 13 odst. 1 písm. e) v odpovídajícím množství zajištěno písemnou smlouvou před jejich vznikem; v případě stavebních a demoličních odpadů se tato povinnost vztahuje i na nepodnikající fyzické osoby, s výjimkou případu, kdy množství produkovaných stavebních a demoličních odpadů odpovídá množství stavebních a demoličních odpadů, které může fyzická nepodnikající osoba předat podle § 59 obci,*
 >
-> *- d) s každou jednorázovou nebo první z řady opakovaných dodávek odpadu do zařízení určeného pro nakládání s odpady nebo obchodníkovi s odpady spolu s odpadem předat provozovateli zařízení nebo obchodníkovi s odpady údaje o své osobě a údaje o odpadu nezbytné pro zjištění, zda smí být s daným odpadem v zařízení nakládáno […]*
+> *- d) s každou jednorázovou nebo první z řady opakovaných dodávek odpadu do zařízení určeného pro nakládání s odpady nebo obchodníkovi s odpady spolu s odpadem předat provozovateli zařízení nebo obchodníkovi s odpady údaje o své osobě a údaje o odpadu nezbytné pro zjištění, zda smí být s daným odpadem v zařízení nakládáno nebo zda smí obchodník s odpady takový odpad převzít; tyto údaje mohou být nahrazeny základním popisem odpadu,*
 >
-> *- e) v případě odpadu určeného k uložení na skládce odpadů nebo k zasypávání předat údaje podle písmene d) formou základního popisu odpadu; […]*
+> *- e) v případě odpadu určeného k uložení na skládce odpadů nebo k zasypávání předat údaje podle písmene d) formou základního popisu odpadu; v případě první z opakovaných dodávek odpadu je součástí základního popisu odpadu stanovení kritických ukazatelů, o nichž je původce odpadu povinen v případě opakovaných dodávek předávat informace; na základě dohody s původcem odpadu může zajistit zpracování základního popisu odpadu provozovatel zařízení, do kterého je odpad předáván, nebo zprostředkovatel, za zpracování základního popisu však odpovídá původce odpadu a*
 >
 > *- f) při odstraňování stavby, provádění stavby nebo údržbě stavby dodržet postup pro nakládání s vybouranými stavebními materiály určenými pro opětovné použití, vedlejšími produkty a stavebními a demoličními odpady tak, aby byla zajištěna nejvyšší možná míra jejich opětovného použití a recyklace.*
 >
 > *(3) Původce odpadu je před ukončením činnosti provozovny povinen předat odpady soustředěné v provozovně do zařízení určeného pro nakládání s odpady.*
 >
-> *(4) Pokud původce odpadu nepředá odpad […] do 60 dnů od ukončení činnosti v provozovně, má povinnost předat odpad […] vedle původce odpadu také vlastník nemovité věci, která byla provozovnou původce odpadu, […]*
+> *(4) Pokud původce odpadu nepředá odpad soustředěný v provozovně do zařízení určeného pro nakládání s odpady do 60 dnů od ukončení činnosti v provozovně, má povinnost předat odpad do zařízení určeného pro nakládání s odpady vedle původce odpadu také vlastník nemovité věci, která byla provozovnou původce odpadu, a kde jsou odpady soustředěny. Vlastník nemovité věci je povinen splnit tuto povinnost nejpozději do 60 dnů ode dne, kdy jej k tomu vyzve inspekce, krajský úřad nebo obecní úřad obce s rozšířenou působností. Původce odpadu je povinen uhradit vlastníkovi nemovité věci účelně vynaložené náklady spojené s předáním odpadu do zařízení určeného pro nakládání s odpady.*
+>
+> *(5) Ministerstvo stanoví vyhláškou*
+>
+> *- a) rozsah údajů o původci odpadu a o odpadu předávaných podle odstavce 2 písm. d),*
+>
+> *- b) obsahové náležitosti základního popisu odpadu podle odstavce 2 písm. e) včetně požadavků na stanovování kritických ukazatelů a četnost jejich sledování a*
+>
+> *- c) postup pro nakládání s vybouranými stavebními materiály určenými pro opětovné použití, vedlejšími produkty a stavebními a demoličními odpady při odstraňování stavby, provádění stavby nebo údržbě stavby podle odstavce 2 písm. f).*
 
 **Výklad:**
 
@@ -206,9 +216,11 @@ Mechanismus **subsidiární odpovědnosti vlastníka nemovité věci**: pokud p�
 >
 > *(1) Provozovatel zařízení má od okamžiku převzetí odpadu do zařízení určeného pro nakládání s odpady podle § 17 odst. 1 písm. b) a c) ve vztahu k tomuto odpadu všechny povinnosti provozovatele zařízení stanovené tímto zákonem a stává se jeho vlastníkem.*
 >
-> *(2) Provozovatel zařízení ke skladování odpadu před využitím, úpravě před využitím nebo k využití odpadu a osoba, která předává odpad do jeho zařízení, mohou uzavřít písemnou smlouvu, že odpad zůstává ve vlastnictví této osoby. […]*
+> *(2) Provozovatel zařízení ke skladování odpadu před využitím, úpravě před využitím nebo k využití odpadu a osoba, která předává odpad do jeho zařízení, mohou uzavřít písemnou smlouvu, že odpad zůstává ve vlastnictví této osoby. Tento odpad musí být při nakládání v zařízení identifikovatelný a musí s ním být nakládáno odděleně. Na výstupu ze zařízení smí provozovatel zařízení tento odpad předat pouze do zařízení určeného pro nakládání s odpady nebo obchodníkovi s odpady, které určí vlastník odpadu.*
 >
-> *(3) V případě, že přepravu odpadu do svého zařízení zajišťuje provozovatel zařízení a při nakládce je provedeno převzetí odpadu […], může se provozovatel zařízení stát na základě smlouvy vlastníkem odpadu okamžikem zahájení přepravy.*
+> *(3) V případě, že přepravu odpadu do svého zařízení zajišťuje provozovatel zařízení a při nakládce je provedeno převzetí odpadu podle § 17 odst. 1 písm. b) a c), může se provozovatel zařízení stát na základě smlouvy vlastníkem odpadu okamžikem zahájení přepravy. V takovém případě má všechny povinnosti provozovatele zařízení ve vztahu k tomuto odpadu stanovené tímto zákonem od okamžiku zahájení přepravy.*
+>
+> *Povinnosti provozovatele zařízení*
 
 **Výklad:**
 
@@ -236,27 +248,7 @@ Pokud přepravu zajišťuje provozovatel zařízení (vlastní svozový vůz), m
 
 ### §§ 17–19 — Povinnosti provozovatele zařízení
 
-> **§ 17**
->
-> *(1) Provozovatel zařízení je povinen*
->
-> *- a) provozovat zařízení ke skladování, sběru, úpravě, využití nebo odstranění odpadu v souladu s povolením podle § 21 odst. 2,*
->
-> *- b) při převzetí odpadu […] zaznamenat údaje o odpadu a předávající osobě […] zvážit a provést jeho vizuální kontrolu, ověřit zařazení odpadu podle druhu a kategorie […] odmítnout převzetí odpadu do zařízení, není-li k převzetí oprávněn,*
->
-> *- c) při převzetí odpadu […] vydat osobě, od které odpad do zařízení převzal, potvrzení o množství, druhu a kategorii předaného odpadu, včetně uvedení identifikačního čísla zařízení,*
->
-> *- d) předat s každou jednorázovou nebo první z řady opakovaných dodávek odpad obchodníkovi s odpady nebo dalšímu provozovateli zařízení vždy s údaji o zařízení […]*
->
-> *- e) oznámit bez zbytečného odkladu příslušnému krajskému úřadu a krajské hygienické stanici nepříznivé vlivy nakládání s odpadem na zdraví lidí nebo životní prostředí […]*
->
-> *- f) pokud v zařízení nenakládá pouze s jím produkovanými odpady, zveřejnit seznam druhů odpadů, které smí být do zařízení přijaty,*
->
-> *- g) v případě mobilního zařízení k využití odpadu písemně oznámit provoz zařízení před jeho zahájením příslušnému krajskému úřadu […]*
->
-> *- h) v případě, že přebírá komunální odpady od fyzických osob, oznámit obci, na jejímž území odpad vznikl, do 15. ledna druh a množství převzatého odpadu za předchozí kalendářní rok a*
->
-> *- i) vést provozní deník.*
+> *(1) Provozovatel zařízení má od okamžiku převzetí odpadu do zařízení určeného pro nakládání s odpady podle § 17 odst. 1 písm. b) a c) ve vztahu k tomuto odpadu všechny povinnosti provozovatele zařízení stanovené tímto zákonem a stává se jeho vlastníkem.*
 
 **Výklad:**
 
@@ -319,7 +311,7 @@ Institut školního sběru má v České republice **dvojí význam**: 1) ekolog
 
 > **§ 21 (1)** *Zařízení určené pro nakládání s odpady smí provozovat právnická nebo podnikající fyzická osoba se sídlem nebo s odštěpným závodem na území České republiky.*
 >
-> **§ 21 (2)** *Zařízení ke skladování, sběru, úpravě, využití nebo odstranění odpadu smí být provozováno pouze na základě povolení provozu zařízení vydaného krajským úřadem. Obsahové náležitosti žádosti o povolení provozu zařízení a povolení provozu zařízení jsou stanoveny v příloze č. 3 k tomuto zákonu. […]*
+> **§ 21 (2)** *Zařízení ke skladování, sběru, úpravě, využití nebo odstranění odpadu smí být provozováno pouze na základě povolení provozu zařízení vydaného krajským úřadem. Obsahové náležitosti žádosti o povolení provozu zařízení a povolení provozu zařízení jsou stanoveny v příloze č. 3 k tomuto zákonu. Žádost o povolení provozu zařízení, které vyžaduje povolení podle stavebního zákona, lze podat prostřednictvím portálu stavebníka podle stavebního zákona.*
 >
 > **§ 21 (3)** *Zařízení k využití nebo skladování odpadu vymezené v příloze č. 4 k tomuto zákonu a malé zařízení smí být za splnění podmínek stanovených tímto zákonem provozována bez povolení provozu zařízení podle odstavce 2.*
 
@@ -372,9 +364,23 @@ Práva a povinnosti z povolení **přecházejí na právního nástupce** (přec
 
 ### § 26 — Povolení k obchodování s odpady
 
-> **§ 26 (1)** *Obchodovat s odpady může pouze právnická nebo podnikající fyzická osoba, která má sídlo nebo odštěpný závod na území České republiky, a to na základě a v souladu s povolením k obchodování s odpady vydaným krajským úřadem příslušným podle sídla osoby, která o vydání povolení žádá. Pokud žádá o vydání povolení osoba se sídlem mimo území České republiky, je k vydání povolení příslušný Magistrát hlavního města Prahy. […]*
+> **§ 26**
 >
-> **§ 26 (2)** *Povolení k obchodování s odpady se vydává na dobu určitou, nejdéle na dobu 6 let. […]*
+> (1) Obchodovat s odpady může pouze právnická nebo podnikající fyzická osoba, která má sídlo nebo odštěpný závod na území České republiky, a to na základě a v souladu s povolením k obchodování s odpady vydaným krajským úřadem příslušným podle sídla osoby, která o vydání povolení žádá. Pokud žádá o vydání povolení osoba se sídlem mimo území České republiky, je k vydání povolení příslušný Magistrát hlavního města Prahy. Krajský úřad může v povolení stanovit podmínky, které zajistí dostatečnou ochranu životního prostředí a zdraví lidí.
+>
+> (2) Povolení k obchodování s odpady se vydává na dobu určitou, nejdéle na dobu 6 let. Dobu platnosti povolení k obchodování s odpady krajský úřad prodlouží na základě žádosti obchodníka s odpady vždy nejdéle o dalších 6 let, pokud jsou splněny podmínky pro jeho vydání. Pokud obchodník s odpady požádá o prodloužení do 6 měsíců před uplynutím doby, na niž bylo povolení vydáno, povolení nezaniká, dokud nebude o žádosti pravomocně rozhodnuto.
+>
+> (3) Krajský úřad zruší nebo změní povolení k obchodování s odpady, pokud
+>
+> - a) dojde ke změně podmínek rozhodných pro vydání povolení,
+>
+> - b) obchodník s odpady nezajistí podmínky ochrany životního prostředí nebo zdraví lidí stanovené jinými právními předpisy,
+>
+> - c) obchodník s odpady opakovaně porušuje povinnosti stanovené tímto zákonem nebo opakovaně neplní podmínky stanovené v povolení, nebo
+>
+> - d) obchodník s odpady při kontrole plnění povinností stanovených tímto zákonem opakovaně poruší povinnost kontrolované osoby nebo povinné osoby podle kontrolního řádu.
+>
+> (4) Obsahové náležitosti žádosti o povolení k obchodování s odpady a povolení k obchodování s odpady jsou stanoveny v příloze č. 3 k tomuto zákonu.
 
 **Výklad:**
 
@@ -401,13 +407,13 @@ Toto je významný **prevenční institut proti přelévání nelegálních akti
 
 ## Hlava IV — Vzorkování a zkoušky odpadu (§§ 28–29)
 
-> **§ 28 (1)** *Vzorkování odpadu pro účely zjištění přijatelnosti odpadu do zařízení, hodnocení nebezpečných vlastností odpadu a další zkoušky pro dokladování kvality odpadu […] smí provádět pouze*
+> **§ 28 (1)** *Vzorkování odpadu pro účely zjištění přijatelnosti odpadu do zařízení, hodnocení nebezpečných vlastností odpadu a další zkoušky pro dokladování kvality odpadu pro další nakládání s ním nebo pro zjištění jeho vlastností nebo vzorkování za účelem ověření splnění kritérií pro vedlejší produkt smí provádět pouze*
 >
 > *- a) odborně způsobilá fyzická osoba pro provádění a řízení vzorkování odpadu s personálním certifikátem pro vzorkování odpadu,*
 >
-> *- b) akreditovaná zkušební laboratoř nebo akreditované odborné pracoviště […],*
+> *- b) akreditovaná zkušební laboratoř nebo akreditované odborné pracoviště, jejichž způsobilost je garantována odborně způsobilou fyzickou osobou pro provádění a řízení vzorkování odpadu, nebo*
 >
-> *- c) osoba, která je usazena v jiném členském státě Evropské unie nebo Evropského hospodářského prostoru […]*
+> *- c) osoba, která je usazena v jiném členském státě Evropské unie nebo Evropského hospodářského prostoru a která je oprávněna ke vzorkování odpadu v jiném členském státě Evropské unie nebo Evropského hospodářského prostoru a toto oprávnění je v souladu s evropskou technickou normou podle § 29 odst. 1, pokud na území České republiky vzorkuje odpady pouze dočasně nebo ojediněle a její způsobilost je garantována odborně způsobilou fyzickou osobou pro provádění a řízení vzorkování odpadu.*
 
 **Výklad:**
 
@@ -448,7 +454,7 @@ Alternativně lze uznat odbornou způsobilost podle zákona č. 18/2004 Sb., o u
 
 > **§ 30 (1)** *Každý smí soustřeďovat odpady pouze za splnění technických podmínek, které zajistí ochranu životního prostředí a zdraví lidí, stanovených vyhláškou ministerstva.*
 >
-> **§ 30 (2)** *Nebezpečné odpady nemusí být soustřeďovány odděleně, pokud jsou splněny podmínky podle § 72 odst. 2. Ostatní odpady nemusí být soustřeďovány odděleně na základě povolení místně příslušného správního orgánu k upuštění od odděleného soustřeďování odpadů […]*
+> **§ 30 (2)** *Nebezpečné odpady nemusí být soustřeďovány odděleně, pokud jsou splněny podmínky podle § 72 odst. 2. Ostatní odpady nemusí být soustřeďovány odděleně na základě povolení místně příslušného správního orgánu k upuštění od odděleného soustřeďování odpadů nebo na základě povolení provozu zařízení. Příslušný správní orgán neoddělené soustřeďování odpadů povolí pouze, pokud vzhledem k následnému způsobu využití nebo odstranění odpadů není třídění nebo oddělené soustřeďování nutné a nedojde k ohrožení povinnosti nakládat s odpadem v souladu s hierarchií odpadového hospodářství. Příslušný správní orgán může v povolení stanovit podmínky tak, aby nedošlo ke zvýšení nepříznivých dopadů na životní prostředí nebo zdraví lidí.*
 
 **Výklad:**
 
@@ -488,7 +494,7 @@ Do mobilního zařízení ke sběru smí být přebírány **odpady pouze od jej
 
 > **§ 33 (1)** *Provozovatel zařízení smí provádět úpravu odpadu pouze*
 >
-> *- a) v zařízení k úpravě odpadu určeném k tomuto účelu povolením záměru, kolaudačním rozhodnutím nebo povolením změny v užívání stavby podle stavebního zákona, nebo v mobilním zařízení k úpravě odpadu […]*
+> *- a) v zařízení k úpravě odpadu určeném k tomuto účelu povolením záměru, kolaudačním rozhodnutím nebo povolením změny v užívání stavby podle stavebního zákona, nebo v mobilním zařízení k úpravě odpadu a*
 >
 > **§ 33 (3)** *Třídění odpadu při jeho shromažďování a změna objemu odpadu u původce odpadu za účelem usnadnění dopravy nejsou považovány za úpravu odpadu.*
 
@@ -756,11 +762,37 @@ Výše a způsob stanovení záruky podle **přílohy č. 8** zákona. Záruka j
 
 #### § 59 — Obecní systém
 
-> **§ 59 (1)** *Obec je povinna přebrat veškerý komunální odpad vznikající na jejím území při činnosti nepodnikajících fyzických osob. […]*
+> **§ 59**
 >
-> **§ 59 (2)** *Obec je povinna určit místa pro oddělené soustřeďování komunálního odpadu, a to alespoň nebezpečného odpadu, papíru, plastů, skla, kovů, biologického odpadu, jedlých olejů a tuků a od 1. ledna 2025 rovněž textilu. […]*
+> (1) Obec je povinna přebrat veškerý komunální odpad vznikající na jejím území při činnosti nepodnikajících fyzických osob. Pokud obec zavedla poplatek za odkládání komunálního odpadu z nemovité věci na základě kapacity soustřeďovacích prostředků podle zákona o místních poplatcích, je povinna přebírat směsný komunální odpad vznikající na jejím území při činnosti nepodnikajících fyzických osob v množství odpovídajícím kapacitě soustřeďovacích prostředků.
 >
-> **§ 59 (3)** *Obec je povinna zajistit, aby odděleně soustřeďované recyklovatelné složky komunálního odpadu tvořily v kalendářním roce 2025 a následujících letech alespoň 60 %, v kalendářním roce 2030 a následujících letech alespoň 65 % a v kalendářním roce 2035 a následujících letech alespoň 70 % z celkového množství komunálních odpadů, kterých je v daném kalendářním roce původcem. […]*
+> (2) Obec je povinna určit místa pro oddělené soustřeďování komunálního odpadu, a to alespoň nebezpečného odpadu, papíru, plastů, skla, kovů, biologického odpadu, jedlých olejů a tuků a od 1. ledna 2025 rovněž textilu. Obec není povinna odděleně soustřeďovat odpad plastů, skla a kovů, pokud tím nedojde s ohledem na další způsob nakládání s nimi k ohrožení možnosti provedení jejich recyklace.
+>
+> (3) Obec je povinna zajistit, aby odděleně soustřeďované recyklovatelné složky komunálního odpadu tvořily v kalendářním roce 2025 a následujících letech alespoň 60 %, v kalendářním roce 2030 a následujících letech alespoň 65 % a v kalendářním roce 2035 a následujících letech alespoň 70 % z celkového množství komunálních odpadů, kterých je v daném kalendářním roce původcem. Do výpočtu podílu mohou být zahrnuty rovněž odděleně soustřeďované recyklovatelné složky komunálního odpadu vznikající na území obce při činnosti nepodnikajících fyzických osob, které nejsou předávány do obecního systému.
+>
+> (4) Ke splnění povinností podle odstavců 1 až 3 obec nastaví obecní systém odpadového hospodářství (dále jen „obecní systém“). Obecní systém může obec nastavit obecně závaznou vyhláškou.
+>
+> (5) Pokud obec nastaví obecní systém obecně závaznou vyhláškou, může touto vyhláškou zároveň určit i místa, ve kterých bude v rámci obecního systému přebírat
+>
+> - a) stavební a demoliční odpad vznikající na území obce při činnosti nepodnikajících fyzických osob,
+>
+> - b) movité věci v rámci předcházení vzniku odpadu,
+>
+> - c) komunální odpad vznikající na území obce při činnosti právnických a podnikajících fyzických osob, které se do obecního systému na základě písemné smlouvy zapojí; v takovém případě musí obec obecně závaznou vyhláškou, kterou nastaví obecní systém, stanovit alespoň druhy odpadu, které může právnická nebo podnikající fyzická osoba předávat do obecního systému, způsob určení výše úhrady za zapojení do obecního systému a způsob jejího výběru,
+>
+> - d) výrobky s ukončenou životností v případě, pokud je přebírá v rámci služby pro výrobce podle zákona o výrobcích s ukončenou životností, nebo
+>
+> - e) rostlinné zbytky z údržby zeleně, zahrad a domácností ke zpracování na kompost v rámci komunitního kompostování podle § 65.
+>
+> (6) Obec může obecně závaznou vyhláškou, kterou nastaví obecní systém, stanovit povinnosti osob související s předáváním odpadů a movitých věcí do obecního systému.
+>
+> (7) Ministerstvo stanoví vyhláškou
+>
+> - a) rozsah míst pro oddělené soustřeďování komunálního odpadu podle odstavce 2,
+>
+> - b) odpady, které se započítají do celkového množství komunálních odpadů, a odpady, které se započítají jako odděleně soustřeďované recyklovatelné složky komunálního odpadu podle odstavce 3, a
+>
+> - c) způsob výpočtu plnění cíle podle odstavce 3 a způsob doložení jeho plnění.
 
 **Výklad:**
 
@@ -937,7 +969,15 @@ Kal podrobený biologické, chemické nebo tepelné úpravě (nebo jiné vhodné
 
 #### § 71 — Balení a označování nebezpečných odpadů
 
-> **§ 71 (2)** *Původce odpadu a provozovatel zařízení, kteří nakládají s nebezpečným odpadem, jsou povinni zajistit, aby nebezpečné odpady byly označeny písemně […] a výstražným symbolem nebezpečnosti podle nařízení Evropského parlamentu a Rady (ES) č. 1272/2008 […]*
+> **§ 71**
+>
+> (1) Při balení nebezpečných odpadů se postupuje obdobně jako při balení chemických látek a směsí a nebezpečných věcí16).
+>
+> (2) Původce odpadu a provozovatel zařízení, kteří nakládají s nebezpečným odpadem, jsou povinni zajistit, aby nebezpečné odpady byly označeny písemně způsobem a v rozsahu stanoveném vyhláškou ministerstva a výstražným symbolem nebezpečnosti podle nařízení Evropského parlamentu a Rady (ES) č. 1272/200817) v rozsahu stanoveném vyhláškou ministerstva. Nebezpečný odpad s nebezpečnou vlastností uvedenou v příloze přímo použitelných předpisů Evropské unie o nebezpečných vlastnostech odpadů3) pod označením HP 9 Infekční se označuje výstražným symbolem nebezpečnosti stanoveným vyhláškou ministerstva.
+>
+> (3) Původce odpadu a provozovatel zařízení, kteří nakládají s nebezpečným odpadem, jsou povinni zpracovat identifikační list nebezpečného odpadu a místa nakládání s nebezpečným odpadem tímto listem vybavit.
+>
+> (4) Ministerstvo stanoví vyhláškou obsah identifikačního listu nebezpečného odpadu podle odstavce 3.
 
 **Výklad:**
 
@@ -957,7 +997,15 @@ Původce a provozovatel zařízení jsou povinni **zpracovat identifikační lis
 
 #### § 72 — Mísení nebezpečných odpadů
 
-> **§ 72 (1)** *Mísení nebezpečných odpadů navzájem nebo s ostatními odpady, látkami nebo materiály je zakázáno. […]*
+> **§ 72**
+>
+> (1) Mísení nebezpečných odpadů navzájem nebo s ostatními odpady, látkami nebo materiály je zakázáno. Pokud došlo ke smísení nebezpečných odpadů navzájem nebo s ostatními odpady, látkami nebo materiály, musí být provedeno jejich roztřídění, je-li to technicky proveditelné a je-li to nezbytné pro zajištění ochrany životního prostředí a zdraví lidí.
+>
+> (2) Zákaz mísení nebezpečných odpadů navzájem nebo s ostatními odpady se neuplatní v případě, že k mísení dochází v rámci úpravy odpadů v zařízení k úpravě, využití nebo odstranění odpadu, pokud to umožňuje povolení provozu takového zařízení podle § 21 odst. 2.
+>
+> (3) Krajský úřad povolí mísení nebezpečných odpadů navzájem nebo s ostatními odpady v zařízení k úpravě, využití nebo odstranění odpadu pouze, pokud je mísení nebezpečných odpadů v souladu s nejlepšími dostupnými technikami stanovenými podle zákona o integrované prevenci a nezvýší se nepříznivé dopady na životní prostředí nebo zdraví lidí.
+>
+> (4) Krajský úřad určí druh odpadu, do kterého má být zařazen smísený odpad, a to s ohledem na nejvyšší míru ochrany životního prostředí a zdraví lidí při dalším nakládání s tímto odpadem.
 
 **Výklad:**
 

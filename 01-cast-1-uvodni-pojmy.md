@@ -505,17 +505,17 @@ Pokud byla pro vedlejší produkt zpracována průvodní dokumentace, je každý
 
 > **§ 9**
 >
-> *(1) Odpad, který byl předmětem recyklace nebo jiného využití a současně je vymezený přímo použitelným předpisem Evropské unie nebo prováděcím právním předpisem, přestane být odpadem v okamžiku stanoveném přímo použitelným předpisem Evropské unie nebo prováděcím právním předpisem, pokud*
+> *(1) Odpad, který byl předmětem recyklace nebo jiného využití a současně je vymezený přímo použitelným předpisem Evropské unie9) nebo prováděcím právním předpisem, přestane být odpadem v okamžiku stanoveném přímo použitelným předpisem Evropské unie nebo prováděcím právním předpisem, pokud*
 >
-> *- a) splňuje kritéria stanovená přímo použitelným předpisem Evropské unie nebo prováděcím právním předpisem a splnění těchto kritérií je ověřeno vzorkováním a zkoušením nebo jiným způsobem stanoveným přímo použitelným předpisem Evropské unie nebo prováděcím právním předpisem,*
+> *- a) splňuje kritéria stanovená přímo použitelným předpisem Evropské unie9) nebo prováděcím právním předpisem a splnění těchto kritérií je ověřeno vzorkováním a zkoušením nebo jiným způsobem stanoveným přímo použitelným předpisem Evropské unie nebo prováděcím právním předpisem,*
 >
 > *- b) splňuje další technické požadavky pro konkrétní účely, pokud byly stanoveny jinými právními předpisy nebo technickými normami použitelnými na výrobky,*
 >
-> *- c) splňuje požadavky jiných právních předpisů a jeho využití nepovede k nepříznivým dopadům na životní prostředí nebo zdraví lidí a*
+> *- c) splňuje požadavky jiných právních předpisů7) a jeho využití nepovede k nepříznivým dopadům na životní prostředí nebo zdraví lidí a*
 >
 > *- d) byla pro něj zpracována průvodní dokumentace.*
 >
-> *(2) Odpad, který byl předmětem některého ze způsobů využití a není vymezen přímo použitelným předpisem Evropské unie nebo prováděcím právním předpisem a současně se nejedná o odpad určený k dalšímu zpracování způsobem, pro který jsou stanoveny zvláštní technické požadavky a kritéria, přestane být odpadem v okamžiku stanoveném v povolení krajského úřadu podle § 10 odst. 1, pokud splní požadavky tohoto povolení, splnění těchto požadavků je ověřeno způsobem stanoveným v povolení a byla pro něj zpracována průvodní dokumentace, jejíž náležitosti stanoví ministerstvo a Ministerstvo průmyslu a obchodu vyhláškou.*
+> *(2) Odpad, který byl předmětem některého ze způsobů využití a není vymezen přímo použitelným předpisem Evropské unie9) nebo prováděcím právním předpisem a současně se nejedná o odpad určený k dalšímu zpracování způsobem, pro který jsou stanoveny zvláštní technické požadavky a kritéria, přestane být odpadem v okamžiku stanoveném v povolení krajského úřadu podle § 10 odst. 1, pokud splní požadavky tohoto povolení, splnění těchto požadavků je ověřeno způsobem stanoveným v povolení a byla pro něj zpracována průvodní dokumentace, jejíž náležitosti stanoví ministerstvo a Ministerstvo průmyslu a obchodu vyhláškou.*
 >
 > *(3) Odpad, který byl připraven k opětovnému použití, přestane být odpadem v okamžiku, kdy*
 >
@@ -523,7 +523,7 @@ Pokud byla pro vedlejší produkt zpracována průvodní dokumentace, je každý
 >
 > *- b) splňuje technické požadavky pro konkrétní účely, pokud byly stanoveny jinými právními předpisy nebo technickými normami použitelnými na výrobky,*
 >
-> *- c) splňuje požadavky jiných právních předpisů a jeho využití nepovede k nepříznivým dopadům na životní prostředí nebo zdraví lidí a*
+> *- c) splňuje požadavky jiných právních předpisů7) a jeho využití nepovede k nepříznivým dopadům na životní prostředí nebo zdraví lidí a*
 >
 > *- d) pro něj byla zpracována průvodní dokumentace.*
 >
@@ -531,9 +531,25 @@ Pokud byla pro vedlejší produkt zpracována průvodní dokumentace, je každý
 >
 > *(5) Právnická nebo podnikající fyzická osoba, která předává movitou věc, která přestala být odpadem, s výjimkou věci, která přestala být odpadem podle odstavce 4, a věci vyrobené v zařízení vymezeném v bodě 11 přílohy č. 4 k tomuto zákonu, má povinnost předávat tuto věc s průvodní dokumentací.*
 >
-> *(6) Provozovatel zařízení určeného pro nakládání s odpady (dále jen „provozovatel zařízení"), ve kterém přestávají být movité věci odpadem, je povinen vést evidenci těchto věcí do okamžiku zahájení jejich přepravy z tohoto zařízení.*
+> *(6) Provozovatel zařízení určeného pro nakládání s odpady (dále jen „provozovatel zařízení“), ve kterém přestávají být movité věci odpadem, je povinen vést evidenci těchto věcí do okamžiku zahájení jejich přepravy z tohoto zařízení.*
 >
-> *(7) Ministerstvo a Ministerstvo průmyslu a obchodu může stanovit vyhláškou [...]*
+> *(7) Ministerstvo a Ministerstvo průmyslu a obchodu může stanovit vyhláškou*
+>
+> *- a) odpady, které přestávají být odpadem podle odstavce 1; těmito odpady mohou být pouze odpady, které mají povahu druhotné suroviny nebo výrobku, které se běžně využívají ke konkrétnímu účelu a pro které existuje trh nebo poptávka,*
+>
+> *- b) okamžik, kdy odpad podle odstavce 1 přestává být odpadem,*
+>
+> *- c) konkrétní účel, ke kterému smí být movitá věc, která přestane být odpadem podle odstavce 1, využívána,*
+>
+> *- d) požadavky na odpady vstupující do procesu recyklace nebo využití, ze kterých vznikne odpad, který přestává být odpadem podle odstavce 1,*
+>
+> *- e) postup zpracování odpadu v rámci procesu recyklace nebo využití podle odstavce 1,*
+>
+> *- f) kvalitativní kritéria, která musí odpad splnit, aby přestal být odpadem podle odstavce 1; tato kritéria musí být stanovena tak, aby zajistila, že výsledná věc je využitelná ke konkrétnímu účelu, splňuje příslušné požadavky na výrobky a jejím využitím nedojde k ohrožení životního prostředí nebo zdraví lidí,*
+>
+> *- g) požadavky na vzorkování a zkoušení nebo jiný způsob ověření splnění požadavků podle odstavce 1 písm. a) a*
+>
+> *- h) náležitosti průvodní dokumentace podle odstavce 1 písm. d), odstavce 3 písm. d) a odstavce 5.*
 
 **Výklad:**
 
@@ -603,7 +619,7 @@ Tento aspekt je často podceněn — provozovatelé zařízení EoW musí zajist
 >
 > *- c) splňuje technické požadavky pro konkrétní účely, pokud byly stanoveny jinými právními předpisy nebo technickými normami použitelnými na výrobky, a*
 >
-> *- d) splňuje požadavky jiných právních předpisů a její využití nepovede k nepříznivým dopadům na životní prostředí nebo zdraví lidí.*
+> *- d) splňuje požadavky jiných právních předpisů7) a její využití nepovede k nepříznivým dopadům na životní prostředí nebo zdraví lidí.*
 >
 > *(2) Povolení podle odstavce 1 je součástí povolení provozu zařízení k využití odpadu podle § 21 odst. 2.*
 >
@@ -625,13 +641,15 @@ Tento aspekt je často podceněn — provozovatelé zařízení EoW musí zajist
 >
 > *(4) Žadatel navrhne parametry podle odstavce 3 v žádosti podle odstavce 1 nebo v návrhu provozního řádu zařízení.*
 >
-> *(5) Žadatel připojí k žádosti podle odstavce 1 vyjádření Ministerstva průmyslu a obchodu, zda se výsledná věc běžně využívá ke konkrétnímu účelu uvedenému v jeho žádosti, zda pro ni existuje trh nebo poptávka a zda splňuje pravidla pro uvádění výrobků na trh, a závazné stanovisko krajské hygienické stanice z hlediska dopadů na zdraví lidí a hodnocení zdravotních rizik. [...]*
+> *(5) Žadatel připojí k žádosti podle odstavce 1 vyjádření Ministerstva průmyslu a obchodu, zda se výsledná věc běžně využívá ke konkrétnímu účelu uvedenému v jeho žádosti, zda pro ni existuje trh nebo poptávka a zda splňuje pravidla pro uvádění výrobků na trh, a závazné stanovisko krajské hygienické stanice z hlediska dopadů na zdraví lidí a hodnocení zdravotních rizik. Závazné stanovisko a vyjádření se nevyžadují, pokud žadatel k žádosti podle odstavce 1 připojí pravomocné rozhodnutí, jímž mu byla povolena recyklace nebo jiné využití odpadu podle odstavce 1 pro stejný druh odpadu vstupující do procesu recyklace nebo jiného využití, stejný postup zpracování, stejnou výslednou věc a stejný následný způsob využití výsledné věci.*
 >
 > *(6) Krajský úřad zruší nebo změní povolení podle odstavce 1, pokud*
 >
 > *- a) dojde ke změně podmínek rozhodných pro vydání povolení, nebo*
 >
 > *- b) výsledná věc přestane splňovat podmínky podle odstavce 1.*
+>
+> *(7) V řízení o změně nebo zrušení povolení podle odstavce 1 si krajský úřad vyžádá vyjádření Ministerstva průmyslu a obchodu, a pokud se změna povolení nebo důvod zrušení povolení týkají oblastí ochrany veřejného zdraví, také závazné stanovisko krajské hygienické stanice z hlediska dopadů na zdraví lidí a hodnocení zdravotních rizik.*
 
 **Výklad:**
 

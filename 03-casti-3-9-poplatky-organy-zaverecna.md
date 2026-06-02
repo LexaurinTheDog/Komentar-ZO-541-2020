@@ -59,17 +59,27 @@ Odst. 4 transponuje nařízení (EU) 2019/1021 o **perzistentních organických 
 
 > **§ 95**
 >
-> *(1) Provozovatel zařízení, obchodník s odpady, zprostředkovatel, s výjimkou dohodce podle zákona o komoditních burzách, a dopravce odpadu jsou povinni ohlásit údaje o zařízení určeném pro nakládání s odpady nebo o činnosti a údaje o zahájení, ukončení, přerušení nebo obnovení provozu zařízení nebo činnosti. (...)*
+> *(1) Provozovatel zařízení, obchodník s odpady, zprostředkovatel, s výjimkou dohodce podle zákona o komoditních burzách, a dopravce odpadu jsou povinni ohlásit údaje o zařízení určeném pro nakládání s odpady nebo o činnosti a údaje o zahájení, ukončení, přerušení nebo obnovení provozu zařízení nebo činnosti. Zahájení a obnovení provozu zařízení nebo činnosti jsou povinni ohlásit před jejich zahájením nebo obnovením. Přerušení nebo ukončení provozu zařízení nebo činnosti jsou povinni ohlásit do 15 dnů ode dne, kdy tato skutečnost nastala. Provozovatel zařízení podle § 21 odst. 3 je povinen ohlásit změnu údajů o zařízení vymezených vyhláškou ministerstva před zahájením provozu na základě změněných údajů.*
 >
 > *(2) Provozovatel skládky je povinen ohlásit do 28. února za předchozí kalendářní rok údaje o stavu vytvořené rezervy, doložené výpisem z účtu provozovatele skládky, údaje o volné kapacitě skládky a o poplatcích za ukládání odpadu na skládky.*
 >
-> *(3) Původce odpadu, který vyprodukoval nebo nakládal v uplynulém kalendářním roce s více než 600 kg nebezpečných odpadů, s více než 100 tunami ostatních odpadů (...), je povinen zaslat do 28. února následujícího roku hlášení souhrnných údajů z průběžné evidence za uplynulý kalendářní rok.*
+> *(3) Původce odpadu, který vyprodukoval nebo nakládal v uplynulém kalendářním roce s více než 600 kg nebezpečných odpadů, s více než 100 tunami ostatních odpadů nebo s odpadem perzistentních organických znečišťujících látek vymezeným vyhláškou ministerstva, je povinen zaslat do 28. února následujícího roku hlášení souhrnných údajů z průběžné evidence za uplynulý kalendářní rok.*
 >
-> *(4) Provozovatel zařízení (...) a obchodník s odpady je povinen zaslat do 28. února (...) hlášení souhrnných údajů z průběžné evidence za uplynulý kalendářní rok. (...)*
+> *(4) Provozovatel zařízení, s výjimkou skladu odpadu podle přílohy č. 4 k tomuto zákonu bodu 12, a obchodník s odpady je povinen zaslat do 28. února následujícího kalendářního roku hlášení souhrnných údajů z průběžné evidence za uplynulý kalendářní rok. Provozovatel zařízení je povinen zaslat toto hlášení i v případě, že v zařízení nebylo po celý uplynulý kalendářní rok nakládáno s odpady, aniž by byl provoz zařízení celoročně přerušen. Hlášení nezasílá provozovatel zařízení a obchodník s odpady, jejichž provoz nebo činnost byly přerušeny po celý uplynulý kalendářní rok.*
 >
 > *(5) Obec, která je povinna zaslat hlášení podle odstavce 3, zasílá do 28. února následujícího roku hlášení o obecním systému za uplynulý kalendářní rok.*
 >
-> *(6) Hlášení podle odstavců 1 až 5 se zasílají ministerstvu prostřednictvím integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí nebo datové schránky ministerstva (...).*
+> *(6) Hlášení podle odstavců 1 až 5 se zasílají ministerstvu prostřednictvím integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí nebo datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí podle zákona o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí.*
+>
+> *(7) Ministerstvo stanoví vyhláškou*
+>
+> *- a) rozsah ohlašování údajů o zařízení nebo o činnosti a rozsah ohlašovaných údajů o zahájení, ukončení, přerušení nebo obnovení provozu zařízení nebo činnosti podle odstavce 1,*
+>
+> *- b) rozsah ohlašování údajů o stavu vytvořené rezervy, údajů o volné kapacitě skládky a údajů o poplatcích za ukládání odpadu na skládky podle odstavce 2,*
+>
+> *- c) rozsah hlášení souhrnných údajů z průběžné evidence za kalendářní rok podle odstavců 3 a 4 a*
+>
+> *- d) rozsah hlášení o obecním systému podle odstavce 5.*
 
 **Výklad:**
 
@@ -99,13 +109,27 @@ Odst. 6 zakotvuje **digitální kanál** podávání hlášení — buď přes *
 
 > **§ 96**
 >
-> *(1) Hlášení podle § 95 odst. 1 a 2 kontroluje a zpracovává krajský úřad příslušný podle místa zařízení určeného pro nakládání s odpady (...). Krajský úřad kontroluje a zpracovává hlášení podle § 95 odst. 1 do 15 dnů od ohlášení a hlášení podle § 95 odst. 2 do 15. dubna kalendářního roku následujícího po kalendářním roce, za který je hlášení podáváno.*
+> *(1) Hlášení podle § 95 odst. 1 a 2 kontroluje a zpracovává krajský úřad příslušný podle místa zařízení určeného pro nakládání s odpady a podle sídla provozovatele mobilního zařízení, dopravce odpadu, obchodníka s odpady nebo zprostředkovatele. V případě dopravce odpadu nebo zprostředkovatele, který má sídlo mimo území České republiky, hlášení podle § 95 odst. 1 kontroluje a zpracovává Magistrát hlavního města Prahy. Krajský úřad kontroluje a zpracovává hlášení podle § 95 odst. 1 do 15 dnů od ohlášení a hlášení podle § 95 odst. 2 do 15. dubna kalendářního roku následujícího po kalendářním roce, za který je hlášení podáváno.*
 >
-> *(2) Hlášení podle § 95 odst. 3 až 5 kontroluje a zpracovává obecní úřad obce s rozšířenou působností příslušný podle místa provozovny (...). Obecní úřad obce s rozšířenou působností hlášení kontroluje a zpracovává do 30. dubna kalendářního roku následujícího po kalendářním roce, za který je hlášení podáváno.*
+> *(2) Hlášení podle § 95 odst. 3 až 5 kontroluje a zpracovává obecní úřad obce s rozšířenou působností příslušný podle místa provozovny, podle místa vzniku odpadu v případě vzniku odpadu mimo provozovnu, podle místa zařízení určeného pro nakládání s odpady, podle místa nakládání s odpadem v případě mobilních zařízení k úpravě nebo využití odpadu a podle sídla provozovatele nebo obchodníka s odpady v případě mobilních zařízení ke sběru odpadu nebo obchodníků s odpady. Obecní úřad obce s rozšířenou působností hlášení kontroluje a zpracovává do 30. dubna kalendářního roku následujícího po kalendářním roce, za který je hlášení podáváno.*
 >
 > *(3) Obecní úřad obce s rozšířenou působností a krajský úřad zasílají ministerstvu informace o každém rozhodnutí vydaném podle tohoto zákona, a to do 15 dnů ode dne nabytí jeho právní moci.*
 >
-> *(4) Pro účely plnění evidenčních a ohlašovacích povinností přiděluje krajský úřad zařízením určeným pro nakládání s odpady identifikační číslo zařízení (...). Při plnění evidenčních a ohlašovacích povinností je každý povinen přidělená identifikační čísla používat.*
+> *(4) Pro účely plnění evidenčních a ohlašovacích povinností přiděluje krajský úřad zařízením určeným pro nakládání s odpady identifikační číslo zařízení současně s vydáním povolení provozu zařízení nebo vydáním integrovaného povolení podle zákona o integrované prevenci nebo ohlášením zahájení provozu zařízení vymezených v příloze č. 4 k tomuto zákonu a malých zařízení. Obchodníkovi s odpady přiděluje krajský úřad identifikační číslo současně s vydáním povolení k obchodování s odpady. Při plnění evidenčních a ohlašovacích povinností je každý povinen přidělená identifikační čísla používat. Krajský úřad, který vydal povolení provozu mobilního zařízení, informuje krajský úřad, v jehož správním obvodu má provozovatel mobilního zařízení sídlo, o vydání tohoto povolení do 5 dnů ode dne jeho vydání. Krajský úřad, v jehož správním obvodu má provozovatel mobilního zařízení sídlo, přidělí provozovateli zařízení identifikační číslo zařízení do 5 dnů od obdržení informace podle věty čtvrté a zašle identifikační číslo mobilního zařízení na vědomí krajskému úřadu, který vydal povolení provozu.*
+>
+> *(5) Ministerstvo obrany nebo jím zřízená organizace pro správu a provoz objektů důležitých pro obranu státu ohlašují souhrnné údaje z průběžné evidence ministerstvu na elektronickém nosiči dat a provoz zařízení určených pro nakládání s odpady krajskému úřadu v listinné podobě nebo na elektronickém nosiči dat.*
+>
+> *(6) Informace o jednotlivých osobách zaslané podle § 95 odst. 1 až 5 se poskytují pouze orgánům veřejné správy a složkám integrovaného záchranného systému při řešení krizových situací nebo mimořádných událostí podle jiných právních předpisů18).*
+>
+> *(7) Ministerstvo stanoví vyhláškou*
+>
+> *- a) rozsah a způsob provádění kontroly a zpracování hlášení podle odstavců 1 a 2,*
+>
+> *- b) způsob zasílání informací o vydaných rozhodnutích a rozsah zasílaných údajů podle odstavce 3,*
+>
+> *- c) způsob přidělování identifikačních čísel zařízení a identifikačních čísel obchodníka s odpady podle odstavce 4 a*
+>
+> *- d) způsob ohlašování Ministerstvem obrany nebo jím zřízenou organizací pro správu a provoz objektů důležitých pro obranu státu podle odstavce 5.*
 
 **Výklad:**
 
@@ -162,11 +186,55 @@ POH **obecního** stupně zákon nepředepisuje (jednalo by se o nadbytečné ad
 
 > **§ 98**
 >
-> *(1) Návrh Plánu odpadového hospodářství České republiky zpracovává ministerstvo ve spolupráci s příslušnými orgány veřejné správy a veřejností podle zákona o posuzování vlivů na životní prostředí. (...)*
+> *(1) Návrh Plánu odpadového hospodářství České republiky zpracovává ministerstvo ve spolupráci s příslušnými orgány veřejné správy a veřejností podle zákona o posuzování vlivů na životní prostředí. Návrh Plánu odpadového hospodářství České republiky projedná ministerstvo s kraji. Kraj sdělí ministerstvu své připomínky k návrhu Plánu odpadového hospodářství České republiky do 30 dnů ode dne jeho obdržení.*
 >
 > *(2) Plán odpadového hospodářství České republiky se skládá z části analytické, závazné a směrné.*
 >
 > *(3) Plán odpadového hospodářství České republiky schvaluje vláda.*
+>
+> *(4) Analytická část Plánu odpadového hospodářství České republiky obsahuje vyhodnocení stavu odpadového hospodářství České republiky, které zahrnuje*
+>
+> *- a) oblast předcházení vzniku odpadu včetně vyhodnocení nástrojů a opatření, které mohou být využity k předcházení vzniku odpadu,*
+>
+> *- b) výčet druhů, množství a zdroje vznikajících odpadů a posouzení vývoje jejich produkce a nakládání, včetně přeshraničního toku odpadů,*
+>
+> *- c) vyhodnocení stávajících systémů sběru a nakládání s odpady na území České republiky přinejmenším pro komunální odpad, směsný komunální odpad, biologicky rozložitelný odpad, odpady z obalů, nebezpečný odpad, stavební a demoliční odpad, výrobky s ukončenou životností, včetně tříděného sběru materiálově využitelných složek odpadu,*
+>
+> *- d) vyhodnocení sítě zařízení určených pro nakládání s odpady na území České republiky, včetně posouzení kapacit pro jednotlivé způsoby nakládání, posouzení nezbytných změn a doplnění systémů sběru a nakládání s odpady a výrobky s ukončenou životností s ohledem na jejich zlepšení v souladu s principy soběstačnosti a blízkosti, a*
+>
+> *- e) podklady pro získání informací nezbytných pro vypracování kritérií pro umístění a kapacity zařízení určených pro nakládání s odpady podporovaných z veřejných zdrojů, pokud je to s ohledem na plnění stanovených cílů nezbytné.*
+>
+> *(5) Závazná část Plánu odpadového hospodářství České republiky stanoví cíle a opatření pro předcházení vzniku odpadu a dále cíle a zásady odpadového hospodářství, opatření k jejich dosažení včetně preferovaných způsobů nakládání s odpady a soustavu indikátorů k hodnocení plnění cílů Plánu odpadového hospodářství pro*
+>
+> *- a) nakládání s komunálním odpadem, zejména směsným komunálním odpadem, potravinovým odpadem a biologicky rozložitelným odpadem,*
+>
+> *- b) nakládání se stavebním a demoličním odpadem,*
+>
+> *- c) nakládání s odpady z obalů,*
+>
+> *- d) nakládání s výrobky s ukončenou životností,*
+>
+> *- e) nakládání s odpady obsahujícími významné množství kritických surovin,*
+>
+> *- f) nakládání s nebezpečným odpadem a s ostatním odpadem,*
+>
+> *- g) přípravu na opětovné použití, recyklaci, využití a odstranění odpadů minimalizující nepříznivé dopady na životní prostředí,*
+>
+> *- h) snižování množství odpadů ukládaných na skládky, ve vztahu k biologicky rozložitelnému odpadu a splnění cílů pro omezení ukládání komunálního odpadu na skládky,*
+>
+> *- i) snižování podílu biologicky rozložitelné složky ve směsném komunálním odpadu a*
+>
+> *- j) omezování znečištění odpady soustředěnými mimo místa k tomu určená.*
+>
+> *(6) Směrná část Plánu odpadového hospodářství České republiky obsahuje*
+>
+> *- a) výčet nástrojů pro splnění cílů Plánu odpadového hospodářství České republiky,*
+>
+> *- b) kritéria hodnocení změn podmínek, na jejichž základě byl Plán odpadového hospodářství České republiky zpracován,*
+>
+> *- c) informace nezbytné pro vypracování kritérií pro umístění a kapacity zařízení určených pro nakládání s odpady podporovaných z veřejných zdrojů, pokud je to s ohledem na plnění stanovených cílů nezbytné, a*
+>
+> *- d) návrhy na potřebná zařízení určená pro nakládání s odpady nadregionálního významu, pokud je to s ohledem na plnění stanovených cílů nezbytné.*
 
 **Výklad:**
 
@@ -207,7 +275,11 @@ POH ČR schvaluje vláda usnesením — ne zákonem ani vyhláškou, ale aktem a
 >
 > *(2) Závazná část Plánu odpadového hospodářství České republiky, včetně jejích změn, je závazným podkladem pro zpracování plánů odpadového hospodářství krajů a podkladem pro zpracovávání územně plánovací dokumentace.*
 >
-> *(3) Ministerstvo každoročně vyhodnocuje pomocí soustavy indikátorů plnění cílů Plánu odpadového hospodářství České republiky (...).*
+> *(3) Ministerstvo každoročně vyhodnocuje pomocí soustavy indikátorů plnění cílů Plánu odpadového hospodářství České republiky a do 15. prosince kalendářního roku následujícího po 2 kalendářních letech, za které je vyhodnocení prováděno, zpracuje zprávu o plnění cílů Plánu odpadového hospodářství České republiky.*
+>
+> *(4) Plán odpadového hospodářství České republiky a jeho změny ministerstvo zveřejní na portálu veřejné správy.*
+>
+> *Plán odpadového hospodářství kraje*
 
 **Výklad:**
 
@@ -269,9 +341,11 @@ Tyto zásady jsou základem **omezení dovozu odpadu k odstranění** podle § 4
 >
 > *(2) Krajský úřad je povinen zpracovat a zveřejnit návrh plánu odpadového hospodářství kraje nebo jeho změny do 18 měsíců ode dne vydání závazné části Plánu odpadového hospodářství České republiky.*
 >
-> *(3) Plán odpadového hospodářství kraje se zpracovává na dobu nejméně 10 let (...).*
+> *(3) Plán odpadového hospodářství kraje se zpracovává na dobu nejméně 10 let a musí být změněn při každé zásadní změně podmínek, na jejichž základě byl zpracován, a to nejpozději do 18 měsíců ode dne změny podmínek.*
 >
-> *(4) Krajský úřad je povinen zaslat návrh plánu odpadového hospodářství kraje (...) ministerstvu k posouzení. Ministerstvo zašle krajskému úřadu stanovisko k návrhu plánu odpadového hospodářství kraje nebo jeho změny do 2 měsíců (...).*
+> *(4) Krajský úřad je povinen zaslat návrh plánu odpadového hospodářství kraje nebo jeho změny v elektronické podobě ministerstvu k posouzení. Ministerstvo zašle krajskému úřadu stanovisko k návrhu plánu odpadového hospodářství kraje nebo jeho změny do 2 měsíců ode dne jeho obdržení. Pokud ministerstvo nezašle stanovisko ve stanovené lhůtě, lze plán odpadového hospodářství kraje zveřejnit i bez jeho stanoviska.*
+>
+> *(5) V případě, že návrh plánu odpadového hospodářství kraje neobsahuje náležitosti stanovené tímto zákonem nebo není v souladu se závaznou částí Plánu odpadového hospodářství České republiky a jeho změnou, ministerstvo v rámci stanoviska podle odstavce 4 věty druhé sdělí krajskému úřadu své připomínky, v nichž upozorní na nedostatky z uvedených hledisek. Krajský úřad plán odpadového hospodářství nebo jeho změnu podle připomínek ministerstva upraví a v elektronické podobě zašle ministerstvu. V případě, že ministerstvo sdělí připomínky, lze plán odpadového hospodářství kraje zveřejnit až na základě potvrzení ministerstva o odstranění nedostatků.*
 
 **Výklad:**
 
@@ -291,7 +365,7 @@ POH kraje není schvalován vládou ani ministerstvem — je **vydáván krajsk�
 >
 > *(1) Plán odpadového hospodářství kraje je podkladem pro zpracovávání územně plánovací dokumentace kraje a obcí.*
 >
-> *(2) Krajský úřad každoročně vyhodnocuje pomocí soustavy indikátorů plnění cílů plánu odpadového hospodářství kraje a do 31. října kalendářního roku následujícího po 2 kalendářních letech (...).*
+> *(2) Krajský úřad každoročně vyhodnocuje pomocí soustavy indikátorů plnění cílů plánu odpadového hospodářství kraje a do 31. října kalendářního roku následujícího po 2 kalendářních letech, za které je vyhodnocení prováděno, zpracuje zprávu o plnění cílů plánu odpadového hospodářství kraje a tuto zprávu zašle do 15. listopadu ministerstvu.*
 >
 > *(3) Plán odpadového hospodářství kraje a jeho změny krajský úřad zveřejní na portálu veřejné správy a zašle ho ministerstvu.*
 
@@ -398,9 +472,11 @@ Strop **25 % z celkové hmotnosti** funguje jako **antiabuzivní opatření**: p
 >
 > *- c) vybraných technologických odpadů v tunách v případě dílčího poplatku za ukládání vybraných technologických odpadů,*
 >
-> *- d) nebezpečných odpadů pocházejících z odstraňování nebo sanací ekologických zátěží (...) v případě dílčího poplatku za ukládání sanačních odpadů a*
+> *- d) nebezpečných odpadů pocházejících z odstraňování nebo sanací ekologických zátěží vzniklých kontaminací horninového prostředí, podzemních nebo povrchových vod nebo stavebních konstrukcí, k níž došlo nakládáním s nebezpečnými látkami, pokud je odstranění těchto odpadů uložením na skládku hrazeno z veřejných prostředků v souladu s podmínkami, za kterých je možné tyto veřejné prostředky k tomuto účelu použít, v případě dílčího poplatku za ukládání sanačních odpadů a*
 >
 > *- e) odpadů neuvedených pod písmeny a) až d) a azbestu v tunách v případě dílčího poplatku za ukládání zbytkových odpadů.*
+>
+> *(2) Vybraným technologickým odpadem podle odstavce 1 písm. c) je odpad z průmyslové výroby, stavebnictví nebo energetiky, jehož vzniku nelze předejít, který není možné ani po úpravě využít a který stanoví vyhláškou ministerstvo.*
 
 **Výklad:**
 
@@ -621,7 +697,23 @@ Lakonické ustanovení odkazuje na **úrok z prodlení podle § 252 daňového �
 
 > **§ 116**
 >
-> *(1) V případě, že osoba nedodržuje povinnosti stanovené nařízením Evropského parlamentu a Rady (ES) č. 1013/2006, nařízením Evropského parlamentu a Rady (EU) č. 1257/2013, ve vztahu k odpadní rtuti nařízením Evropského parlamentu a Rady (EU) 2017/852, tímto zákonem nebo na jejich základě, je správní orgán, který je podle tohoto zákona příslušný k projednání přestupků, oprávněn uložit této osobě provést v přiměřené lhůtě opatření k nápravě (...).*
+> *(1) V případě, že osoba nedodržuje povinnosti stanovené nařízením Evropského parlamentu a Rady (ES) č. 1013/2006, nařízením Evropského parlamentu a Rady (EU) č. 1257/2013, ve vztahu k odpadní rtuti nařízením Evropského parlamentu a Rady (EU) 2017/852, tímto zákonem nebo na jejich základě, je správní orgán, který je podle tohoto zákona příslušný k projednání přestupků, oprávněn uložit této osobě provést v přiměřené lhůtě opatření k nápravě spočívající v*
+>
+> *- a) zajištění odpadu proti jeho úniku, znehodnocení nebo odcizení,*
+>
+> *- b) zajištění odpadu před únikem škodlivin z tohoto odpadu do okolního prostředí, včetně stanovení povinnosti odstranit tyto škodliviny ze soustředěného odpadu, nebo odstranit z okolního prostředí již uniklé škodliviny ze soustředěného odpadu,*
+>
+> *- c) povinnosti předat odpad ve stanovené přiměřené lhůtě do zařízení určeného pro nakládání s odpady,*
+>
+> *- d) úpravě provozu zařízení určeného pro nakládání s odpady, včetně omezení jeho provozu, nebo*
+>
+> *- e) jiném vhodném opatření, které by zamezilo nepříznivým dopadům na životní prostředí nebo lidské zdraví a zajistilo náležitou ochranu životního prostředí nebo zdraví lidí nebo zajistilo možnost kontroly plnění uložených opatření.*
+>
+> *(2) Správní orgán uvedený v odstavci 1 je oprávněn uložit opatření k nápravě právnímu nástupci právnické osoby, která závadný stav způsobila, nebo osobě, která pokračuje v podnikatelské činnosti zemřelé podnikající fyzické osoby, která závadný stav způsobila.*
+>
+> *(3) Povinnosti plynoucí z opatření k nápravě uložených právnické osobě přecházejí na jejího právního nástupce. Povinnosti plynoucí z opatření k nápravě uložených podnikající fyzické osobě v případě smrti této osoby přecházejí na osobu, která pokračuje v její podnikatelské činnosti.*
+>
+> *(4) Správní orgán, který zahájí řízení o opatření k nápravě, je povinen o této skutečnosti bez zbytečného odkladu informovat ostatní správní orgány příslušné ve stejné věci k uložení opatření k nápravě nebo k uložení správního trestu za přestupek související s opatřením k nápravě a krajský úřad příslušný k rozhodování v pochybnostech.*
 
 **Výklad:**
 
@@ -736,7 +828,27 @@ Nejvyšší sazba 25 mil. Kč se aplikuje zejména na:
 >
 > *- a) v rozporu s § 59 odst. 1 nepřebere komunální odpad,*
 >
-> *- b) v rozporu s § 59 odst. 2 neurčí místa pro oddělené soustřeďování komunálního odpadu, (...)*
+> *- b) v rozporu s § 59 odst. 2 neurčí místa pro oddělené soustřeďování komunálního odpadu,*
+>
+> *- c) v rozporu s § 59 odst. 3 nezajistí splnění stanoveného podílu odděleně soustřeďované recyklovatelné složky z celkového množství komunálních odpadů,*
+>
+> *- d) nesplní některou z informačních povinností podle § 60 odst. 4,*
+>
+> *- e) v rozporu s § 65 odst. 2 využívá kompost vzniklý komunitním kompostováním jiným než stanoveným způsobem,*
+>
+> *- f) nezašle hlášení o komunitních kompostárnách provozovaných na jejím území podle § 66 odst. 2, nebo*
+>
+> *- g) v rozporu s § 95 odst. 5 nezašle ve stanovené lhůtě a ve stanoveném rozsahu hlášení o obecním systému.*
+>
+> *(2) Za přestupek obce lze uložit pokutu do*
+>
+> *- a) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. d),*
+>
+> *- b) 200 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo e) až g), nebo*
+>
+> *- c) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b).*
+>
+> *Společná ustanovení*
 
 **Výklad:**
 
@@ -754,17 +866,19 @@ Sankce za nepřebrání KO podle § 59 odst. 1 (pokuta až **10 000 000 Kč**) j
 >
 > *(1) Přestupky podle tohoto zákona projednává*
 >
-> *- a) obecní úřad obce s rozšířenou působností, (...)*
+> *- a) obecní úřad obce s rozšířenou působností, jde-li o přestupky podle § 117 odst. 1 písm. a) až j), m), n), o) a q) a § 117 odst. 2 písm. a), d) až g) a j),*
 >
-> *- b) obecní úřad, (...)*
+> *- b) obecní úřad, jde-li o přestupky podle § 117 odst. 1 písm. k), l) a t) a § 121 odst. 2 písm. o),*
 >
-> *- c) inspekce, (...)*
+> *- c) inspekce, jde-li o přestupky podle § 117 odst. 1 písm. p), r) a s), § 117 odst. 2 písm. b), c), h) a i), § 118 odst. 1 písm. a), d) a e), § 118 odst. 2, § 119 odst. 1 písm. a) až h), t) a u), § 119 odst. 2 písm. a) až k), m), n), p) a q), § 120 odst. 1 a § 121 odst. 1 písm. b) až d) a r) až u), § 121 odst. 2 písm. b) až m), t), u) a písm. v) bodu 2, § 121 odst. 3 písm. d), e), i) až l), q) a s) až u), § 121 odst. 4 písm. f) až i),*
 >
-> *- d) inspekce nebo obecní úřad obce s rozšířenou působností, (...)*
+> *- d) inspekce nebo obecní úřad obce s rozšířenou působností, jde-li o přestupky podle § 118 odst. 1 písm. f) až i), § 119 odst. 1 písm. i) až s), § 119 odst. 2 písm. l), o), r) až v), § 121 odst. 1 písm. a), e) až q) a v), § 121 odst. 2 písm. a), n), p), q), r) a s), § 121 odst. 3 písm. a), b), c), f), g), h), m) až p), r) a v), § 121 odst. 4 písm. a) až e) a j) a § 122 odst. 1,*
 >
-> *- e) inspekce, obecní úřad nebo obecní úřad obce s rozšířenou působností, (...)*
+> *- e) inspekce, obecní úřad nebo obecní úřad obce s rozšířenou působností, jde-li o přestupky podle § 118 odst. 1 písm. b) a c), a*
 >
-> *- f) Ústřední kontrolní a zkušební ústav zemědělský, (...)*
+> *- f) Ústřední kontrolní a zkušební ústav zemědělský, jde-li o přestupky podle § 121 odst. 2 písm. v) bodů 1 a 3 a písm. w) až z).*
+>
+> *(2) Správní orgán, který zahájí řízení, informuje o této skutečnosti ostatní příslušné správní orgány a krajský úřad příslušný k rozhodování v pochybnostech.*
 
 **Výklad:**
 
@@ -785,9 +899,11 @@ V některých případech (písm. d, e) je dána **alternativní příslušnost*
 >
 > *(1) Ústřední kontrolní a zkušební ústav zemědělský vybírá pokutu, kterou uložil.*
 >
-> *(2) Pokuty uložené inspekcí jsou z 50 % příjmem rozpočtu obce, na jejímž území došlo k porušení povinnosti, a z 50 % příjmem rozpočtu Státního fondu životního prostředí České republiky. (...)*
+> *(2) Pokuty uložené inspekcí jsou z 50 % příjmem rozpočtu obce, na jejímž území došlo k porušení povinnosti, a z 50 % příjmem rozpočtu Státního fondu životního prostředí České republiky. Pokud došlo k porušení povinnosti na území více obcí, podíl na pokutě se mezi jednotlivé obce rozdělí stejným dílem. Pokuta uložená inspekcí obci, která na svém území porušila povinnost, je příjmem rozpočtu Státního fondu životního prostředí České republiky.*
 >
-> *(3) Pokuty uložené obecním úřadem obce s rozšířenou působností jsou z 50 % příjmem rozpočtu obce, na jejímž území došlo k porušení povinnosti, a z 50 % příjmem obce s rozšířenou působností (...).*
+> *(3) Pokuty uložené obecním úřadem obce s rozšířenou působností jsou z 50 % příjmem rozpočtu obce, na jejímž území došlo k porušení povinnosti, a z 50 % příjmem obce s rozšířenou působností, jejíž úřad pokutu uložil. Pokud došlo k porušení povinnosti na území více obcí, podíl na pokutě se mezi jednotlivé obce rozdělí stejným dílem. Pokuta uložená obecním úřadem obce s rozšířenou působností obci, která na svém území porušila povinnost, je z 50 % příjmem rozpočtu Státního fondu životního prostředí České republiky a z 50 % příjmem rozpočtu obce s rozšířenou působností, jejíž úřad pokutu uložil.*
+>
+> *(4) Pokuty uložené Ústředním kontrolním a zkušebním ústavem zemědělským jsou příjmem rozpočtu Státního fondu životního prostředí České republiky.*
 
 **Výklad:**
 
@@ -847,7 +963,45 @@ MŽP je **gesčním ministerstvem**: vykonává kontrolu nad výkonem státní s
 
 > **§ 128**
 >
-> *(1) Informační systém odpadového hospodářství je informačním systémem veřejné správy, který spravuje a provozuje ministerstvo. (...)*
+> *(1) Informační systém odpadového hospodářství je informačním systémem veřejné správy, který spravuje a provozuje ministerstvo.*
+>
+> *(2) V Informačním systému odpadového hospodářství se shromažďují údaje*
+>
+> *- a) o ohlašovaných odpadech a způsobech nakládání s nimi,*
+>
+> *- b) o přepravě nebezpečných odpadů,*
+>
+> *- c) o zařízeních určených pro nakládání s odpady,*
+>
+> *- d) o osobách, které podávají hlášení podle tohoto zákona, a o původcích odpadu,*
+>
+> *- e) o obchodnících s odpady, zprostředkovatelích a dopravcích odpadu,*
+>
+> *- f) o evidenci polychlorovaných bifenylů, odpadů polychlorovaných bifenylů, zařízení obsahujících polychlorované bifenyly a podléhajících evidenci, zařízeních, která mohou obsahovat polychlorované bifenyly a podléhají evidenci, a odpadů perzistentních organických znečišťujících látek,*
+>
+> *- g) o stavu rezervy, volné kapacitě skládek, poplatcích za ukládání odpadů na skládky včetně vyúčtování,*
+>
+> *- h) o přeshraniční přepravě odpadů,*
+>
+> *- i) o rozhodnutích vydaných krajskými úřady a obecními úřady obcí s rozšířenou působností podle tohoto zákona,*
+>
+> *- j) podle zákona o výrobcích s ukončenou životností a*
+>
+> *- k) o provedených hodnoceních nebezpečných vlastností odpadů.*
+>
+> *(3) Informační systém odpadového hospodářství je veřejně přístupný, pokud jde o*
+>
+> *- a) souhrnné informace o odpadech a způsobech nakládání s nimi,*
+>
+> *- b) seznam zařízení určených pro nakládání s odpady, obchodníků s odpady, zprostředkovatelů a dopravců odpadu,*
+>
+> *- c) aktuální informace o provozu zařízení určených pro nakládání s odpady a činnosti obchodníků s odpady, zprostředkovatelů a dopravců odpadu,*
+>
+> *- d) informace podle zákona o výrobcích s ukončenou životností a*
+>
+> *- e) seznam osob pověřených k hodnocení nebezpečných vlastností odpadů.*
+>
+> *(4) Informace shromažďované v Informačním systému odpadového hospodářství slouží jako podklad k vyhodnocování odpadového hospodářství v České republice a k výkonu kontrolní činnosti a s výjimkou údajů podle odstavce 3 se poskytují pouze orgánům veřejné správy a složkám integrovaného záchranného systému při řešení krizových situací nebo mimořádných událostí podle jiných právních předpisů18).*
 
 **Výklad:**
 
@@ -896,7 +1050,21 @@ MZ kontroluje hygienické aspekty odpadové správy. **KHS** vydává **závazn�
 >
 > *(1) Inspekce*
 >
-> *- a) kontroluje, jak jsou právnickými osobami, podnikajícími fyzickými osobami a obcemi dodržována ustanovení právních předpisů včetně přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů ve všech oblastech působnosti tohoto zákona (...)*
+> *- a) kontroluje, jak jsou právnickými osobami, podnikajícími fyzickými osobami a obcemi dodržována ustanovení právních předpisů včetně přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů ve všech oblastech působnosti tohoto zákona, s výjimkou oblastí, v nichž je podle § 147 odst. 1 písm. a) ke kontrole příslušný obecní úřad, a zda pověřené osoby dodržují stanovený způsob hodnocení nebezpečných vlastností odpadů,*
+>
+> *- b) nejméně jednou ročně kontroluje, jak původce odpadu z výroby oxidu titaničitého dodržuje ustanovení právních předpisů a rozhodnutí ministerstva a jiných správních orgánů v oblasti odpadového hospodářství,*
+>
+> *- c) zpracovává plány kontrol přepravy odpadů podle nařízení Evropského parlamentu a Rady (ES) č. 1013/2006,*
+>
+> *- d) kontroluje, zda je s odpady perzistentních organických znečišťujících látek nakládáno v souladu s nařízením Evropského parlamentu a Rady (EU) 2019/1021 a tímto zákonem,*
+>
+> *- e) kontroluje, zda jsou zařízení na recyklaci lodí provozována v souladu s nařízením Evropského parlamentu a Rady (EU) č. 1257/2013 a tímto zákonem, a*
+>
+> *- f) kontroluje dodržování podmínek při přeshraniční přepravě odpadů stanovených nařízením Evropského parlamentu a Rady (ES) č. 1013/2006 a tímto zákonem.*
+>
+> *(2) V rámci přeshraniční přepravy odpadů inspekce může provádět kontroly na místě vzniku odpadu, u oznamovatele a příjemce a během přepravy ve spolupráci s celními úřady nebo Policií České republiky. Inspekce může též provádět kontrolu dokladů podle nařízení Evropského parlamentu a Rady (ES) č. 1013/2006 a podle tohoto zákona, fyzickou kontrolu odpadů a odebírat a analyzovat vzorky. Inspekce může ke kontrole prováděné v rámci přeshraniční přepravy odpadů přizvat ministerstvo.*
+>
+> *(3) Inspekce spolupracuje s obecními úřady, orgány ochrany veřejného zdraví, celními úřady, Státním fondem životního prostředí České republiky, Hasičským záchranným sborem České republiky a Policií České republiky, popřípadě dalšími správními úřady, kraji a obcemi a poskytuje jim odbornou pomoc.*
 
 **Výklad:**
 
@@ -969,7 +1137,21 @@ Policie **zaznamenává a dokumentuje** podezřelé jevy nasvědčující nedovo
 >
 > *(1) Krajský úřad*
 >
-> *- a) kontroluje (...), b) zpracovává a průběžně vede evidenci jím vydaných povolení (...), c) může zastavit nebo omezit provoz zařízení (...), d) může omezit nebo zakázat provoz zařízení určeného pro nakládání s odpady z výroby oxidu titaničitého (...), e) vydává stanovisko k zásadám územního rozvoje (...), f) rozhoduje podle čl. 7 odst. 4 písm. b) nařízení (ES) č. 850/2004 (...), g) schvaluje plán recyklace lodi (...).*
+> *- a) kontroluje, jak jsou právnickými osobami a podnikajícími fyzickými osobami dodržována ustanovení právních předpisů a rozhodnutí správních orgánů ve všech oblastech působnosti tohoto zákona, s výjimkou oblastí, v nichž je podle § 147 odst. 1 písm. a) ke kontrole příslušný obecní úřad, a zda pověřené osoby dodržují stanovený způsob hodnocení nebezpečných vlastností odpadů,*
+>
+> *- b) zpracovává a průběžně vede evidenci jím vydaných povolení a dalších rozhodnutí podle tohoto zákona,*
+>
+> *- c) může zastavit nebo omezit provoz zařízení ke skladování, sběru, úpravě, využití nebo odstranění odpadů, pokud provozovatel tohoto zařízení neplní povinnosti stanovené tímto zákonem nebo rozhodnutím vydaným na základě tohoto zákona, a mohlo-li by v důsledku toho dojít k závažným nepříznivým dopadům na životní prostředí nebo zdraví lidí,*
+>
+> *- d) může omezit nebo zakázat provoz zařízení určeného pro nakládání s odpady z výroby oxidu titaničitého, pokud monitorování složek životního prostředí prokáže akutní toxicitu přesahující mezní hodnoty stanovené prováděcím právním předpisem nebo jiné, stejně závažné zhoršení stavu životního prostředí,*
+>
+> *- e) vydává stanovisko k zásadám územního rozvoje podle stavebního zákona z hlediska odpadového hospodářství,*
+>
+> *- f) rozhoduje podle čl. 7 odst. 4 písm. b) nařízení Evropského parlamentu a Rady (ES) č. 850/2004, v rozhodnutí může stanovit podmínky; o vydaných rozhodnutích informuje ministerstvo každoročně do 30. dubna následujícího kalendářního roku, a*
+>
+> *- g) schvaluje plán recyklace lodi podle čl. 7 nařízení Evropského parlamentu a Rady (EU) č. 1257/2013.*
+>
+> *(2) Pokud tímto zákonem nebo jiným právním předpisem není stanoveno jinak, je k rozhodování, provádění kontroly a vydávání stanoviska podle odstavce 1 místně příslušný krajský úřad, v jehož správním obvodu je provozováno zařízení nebo činnost nebo se nachází movitá věc, které se rozhodnutí týká. V případě mobilního zařízení je k vedení řízení o vydání povolení provozu zařízení, jeho změně nebo zrušení příslušný krajský úřad, v jehož správním obvodu má sídlo provozovatel zařízení v okamžiku podání žádosti o povolení provozu zařízení.*
 
 **Výklad:**
 
@@ -995,7 +1177,29 @@ Místní příslušnost se řídí **místem zařízení/činnosti** nebo míste
 >
 > *(1) Obecní úřad obce s rozšířenou působností*
 >
-> *- a) vede a zpracovává evidenci (...), b) kontroluje, jak jsou dodržována ustanovení (...), c) může zabezpečit odpad, který ohrožuje nebo poškozuje zdraví lidí nebo životní prostředí (...), d) může zakázat původci odpadů činnost (...), e) vydává stanovisko k územním plánům a regulačním plánům (...).*
+> *- a) vede a zpracovává evidenci jím vydaných souhlasů a dalších rozhodnutí podle tohoto zákona,*
+>
+> *- b) kontroluje, jak jsou dodržována ustanovení právních předpisů a rozhodnutí správních orgánů ve všech oblastech působnosti tohoto zákona, s výjimkou oblastí, v nichž je podle § 147 odst. 1 písm. a) ke kontrole příslušný obecní úřad, a zda pověřené osoby dodržují stanovený způsob hodnocení nebezpečných vlastností odpadů,*
+>
+> *- c) může zabezpečit odpad, který ohrožuje nebo poškozuje zdraví lidí nebo životní prostředí, před únikem škodlivin do okolního prostředí nebo zajistit odklizení takového odpadu včetně jeho předání do zařízení určeného pro nakládání s odpady, a to na náklady odpovědné osoby; při správě placení těchto nákladů se postupuje podle daňového řádu,*
+>
+> *- d) může zakázat původci odpadů činnost, která způsobuje vznik odpadů, pokud původce odpadu nemá zajištěno převzetí odpadů, které produkuje, osobou oprávněnou k převzetí daného druhu a kategorie odpadu, a pokud by odpady vzniklé v důsledku pokračování této činnosti mohly způsobit škodu na životním prostředí nebo zdraví lidí, a*
+>
+> *- e) vydává stanovisko k územním plánům a regulačním plánům podle stavebního zákona z hlediska odpadového hospodářství.*
+>
+> *(2) Pokud tímto zákonem nebo jiným právním předpisem není stanoveno jinak, je k rozhodování podle odstavce 1 místně příslušný obecní úřad obce s rozšířenou působností, v jehož správním obvodu je provozována činnost nebo se nachází movitá věc, které se rozhodnutí týká.*
+>
+> *(3) Obecní úřad obce s rozšířenou působností vydává*
+>
+> *- a) závazné stanovisko k terénním úpravám a k odstranění stavby podléhajícím povolení podle stavebního zákona z hlediska nakládání s odpady, vedlejšími produkty, stavebními výrobky, které přestaly být odpadem, nebo stavebními výrobky určenými k opětovnému použití; v závazném stanovisku může stanovit podmínky, které zajistí ochranu zdraví a životního prostředí a dodržení hierarchie odpadového hospodářství,*
+>
+> *- b) vyjádření ke změně dokončené stavby podléhající povolení podle stavebního zákona z hlediska nakládání s odpady, vedlejšími produkty, stavebními výrobky, které přestaly být odpadem, nebo stavebními výrobky určenými k opětovnému použití,*
+>
+> *- c) vyjádření ke zřízení zařízení určeného pro nakládání s odpady a k zavedení nebo rozšíření výroby oxidu titaničitého.*
+>
+> *(4) Závazné stanovisko a vyjádření podle odstavce 3 obsahuje posouzení žádosti z hlediska jejího souladu s povinnostmi vyplývajícími z tohoto zákona a prováděcích právních předpisů.*
+>
+> *(5) Vyjádření a závazné stanovisko podle odstavce 3 vydává obecní úřad obce s rozšířenou působností, v jehož správním obvodu má být realizován příslušný záměr.*
 
 **Výklad:**
 
@@ -1053,9 +1257,9 @@ Pověření zaměstnanci a inspektoři se prokazují **průkazem** vydaným př�
 
 > **§ 151**
 >
-> *(1) Povolení podle § 21 odst. 2 a § 30 odst. 2 a souhlas podle § 42 odst. 3 a § 43 odst. 1 se nevydají podle tohoto zákona, pokud je jejich vydání nahrazeno postupem v řízení o vydání integrovaného povolení podle zákona o integrované prevenci. (...)*
+> *(1) Povolení podle § 21 odst. 2 a § 30 odst. 2 a souhlas podle § 42 odst. 3 a § 43 odst. 1 se nevydají podle tohoto zákona, pokud je jejich vydání nahrazeno postupem v řízení o vydání integrovaného povolení podle zákona o integrované prevenci. Ustanovení § 23 se nepoužije na zařízení, která mají integrované povolení.*
 >
-> *(2) Jedná-li se o záměr vyžadující jednotné environmentální stanovisko, závazné stanovisko podle § 146 odst. 3 písm. a) a vyjádření podle § 146 odst. 3 písm. b) a c) se nevydávají.*
+> *(2) Jedná-li se o záměr vyžadující jednotné environmentální stanovisko26), závazné stanovisko podle § 146 odst. 3 písm. a) a vyjádření podle § 146 odst. 3 písm. b) a c) se nevydávají.*
 
 **Výklad:**
 
@@ -1076,7 +1280,9 @@ Tato integrace odpovídá **principu „one stop shop"** v environmentálním po
 >
 > *(1) Působnosti stanovené krajskému úřadu, obecnímu úřadu obce s rozšířenou působností nebo obecnímu úřadu podle tohoto zákona jsou výkonem přenesené působnosti.*
 >
-> *(2) Výkon působnosti celních úřadů a Generálního ředitelství cel podle tohoto zákona se považuje za výkon správy daní. (...)*
+> *(2) Výkon působnosti celních úřadů a Generálního ředitelství cel podle tohoto zákona se považuje za výkon správy daní. Poskytnutí informací získaných při výkonu působnosti podle tohoto zákona jinému orgánu veřejné moci pro účely výkonu jeho působnosti podle tohoto zákona není porušením mlčenlivosti podle daňového řádu.*
+>
+> *Přechodná ustanovení*
 
 **Výklad:**
 
@@ -1098,7 +1304,17 @@ Pravomoc celních úřadů a GŘC se považuje za **výkon správy daní** ve sm
 
 > **§ 153**
 >
-> *(1) Řízení zahájená podle zákona č. 185/2001 Sb. (...), která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, se dokončí podle zákona č. 185/2001 Sb. (...).*
+> *(1) Řízení zahájená podle zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, se dokončí podle zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona.*
+>
+> *(2) Zařízení k využití, odstranění, sběru nebo výkupu odpadů provozovaná přede dnem nabytí účinnosti tohoto zákona na základě souhlasu krajského úřadu podle § 14 odst. 1 zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považují za zařízení určená pro nakládání s odpady podle tohoto zákona, a to do uplynutí doby platnosti souhlasu, na základě kterého jsou provozována, nejdéle však do 1 roku ode dne nabytí účinnosti tohoto zákona v případě mobilních zařízení ke sběru a výkupu odpadu, do 2 let ode dne nabytí účinnosti tohoto zákona v případě ostatních zařízení ke sběru nebo výkupu odpadu a do 3 let ode dne nabytí účinnosti tohoto zákona v případě zařízení k využití nebo odstranění odpadu. Pokud provozovatel takového zařízení požádá o vydání povolení podle § 21 odst. 2 nejpozději 6 měsíců před uplynutím doby platnosti souhlasu podle § 14 odst. 1 zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, nejdéle však 6 měsíců před uplynutím lhůt podle věty první, smí být zařízení provozováno na základě tohoto souhlasu do dne, kdy bude o jeho žádosti pravomocně rozhodnuto.*
+>
+> *(3) Zařízení, která přede dnem nabytí účinnosti tohoto zákona nebyla určena pro nakládání s odpady, přijímala odpady na základě § 14 odst. 2 zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, a nesplňují podmínky uvedené v § 21 odst. 3, smí přijímat odpady bez povolení podle § 21 odst. 2 po dobu 1 roku ode dne nabytí účinnosti tohoto zákona. Pokud provozovatel takového zařízení požádá o vydání povolení podle § 21 odst. 2 do 6 měsíců ode dne nabytí účinnosti tohoto zákona, smí přijímat odpady bez povolení podle § 21 odst. 2 do dne, kdy bude o jeho žádosti pravomocně rozhodnuto. Po dobu, kdy lze podle věty první nebo druhé přijímat do zařízení odpady bez povolení podle § 21 odst. 2, se použije obdobně § 9 odst. 4.*
+>
+> *(4) Sklady odpadu provozované přede dnem nabytí účinnosti tohoto zákona bez souhlasu podle § 14 odst. 1 zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, smí být provozovány bez povolení podle § 21 odst. 2 po dobu 1 roku ode dne nabytí účinnosti tohoto zákona. Pokud provozovatel takového skladu požádá o vydání povolení podle § 21 odst. 2 do 6 měsíců ode dne nabytí účinnosti tohoto zákona, smí být sklad odpadu provozován bez povolení podle § 21 odst. 2 do dne, kdy bude o jeho žádosti pravomocně rozhodnuto.*
+>
+> *(5) Zařízení provozované přede dnem nabytí účinnosti tohoto zákona jako malé zařízení podle § 33b odst. 1 písm. a) zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považuje za malé zařízení provozované na základě souhlasu podle § 64 odst. 2, a to do uplynutí doby platnosti kladného vyjádření podle § 79 odst. 4 písm. d) zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, na základě kterého jsou provozována, nejdéle však 2 roky ode dne nabytí účinnosti tohoto zákona. Pokud provozovatel takového zařízení požádá o souhlas s provozem zařízení podle § 64 odst. 2 nejpozději 6 měsíců před koncem platnosti kladného vyjádření podle § 79 odst. 4 písm. d) zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, nejdéle však 2 roky ode dne nabytí účinnosti tohoto zákona, smí být zařízení provozováno na základě tohoto vyjádření do dne, kdy rozhodnutí o jeho žádosti nabude právní moci.*
+>
+> *(6) Komunitní kompostárna provozovaná přede dnem nabytí účinnosti tohoto zákona podle § 10a zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, nemusí po dobu 1 roku ode dne nabytí účinnosti tohoto zákona splňovat technické požadavky na vybavení a provoz zařízení komunitní kompostárny, technologické požadavky na úpravu rostlinných zbytků z údržby zeleně, zahrad a domácností v komunitní kompostárně stanovené podle § 66 odst. 1 písm. a), pokud splňuje ostatní požadavky § 65 a 66.*
 
 **Výklad:**
 
@@ -1164,9 +1380,15 @@ Obec mohla **za poplatkové období 2021** vybírat poplatek podle staré úprav
 
 > **§ 157**
 >
-> *(1) V poplatkovém období do roku 2029 se komunální odpad splňující podmínky podle § 40 odst. 1 s výjimkou nebezpečných odpadů, jehož původcem je obec, zahrne namísto dílčího základu poplatku za ukládání využitelných odpadů do dílčího základu poplatku za ukládání komunálního odpadu, pokud celková hmotnost takového odpadu uloženého na libovolnou skládku od prvního dne kalendářního roku, ve kterém nastane toto poplatkové období, ve vztahu ke kterému uplatní obec nárok podle odstavce 2, nepřesáhne množství vypočtené podle přílohy č. 12 k tomuto zákonu. (...)*
+> *(1) V poplatkovém období do roku 2029 se komunální odpad splňující podmínky podle § 40 odst. 1 s výjimkou nebezpečných odpadů, jehož původcem je obec, zahrne namísto dílčího základu poplatku za ukládání využitelných odpadů do dílčího základu poplatku za ukládání komunálního odpadu, pokud celková hmotnost takového odpadu uloženého na libovolnou skládku od prvního dne kalendářního roku, ve kterém nastane toto poplatkové období, ve vztahu ke kterému uplatní obec nárok podle odstavce 2, nepřesáhne množství vypočtené podle přílohy č. 12 k tomuto zákonu. Pokud se v poplatkovém období toto množství přesáhne, zahrne se do dílčího základu poplatku za ukládání komunálního odpadu pouze část odpadu do jeho dosažení.*
+>
+> *(2) Plátce poplatku zahrne odpad do dílčího základu poplatku za ukládání komunálního odpadu pouze tehdy, pokud u něj obec uplatní nárok na toto zahrnutí a současně mu sdělí rozhodné údaje, ze kterých vyplývá, zda jí na toto zahrnutí vznikl nárok. Plátce poplatku vede evidenci o uplatněných nárocích na zahrnutí odpadu do dílčího základu poplatku za ukládání komunálního odpadu, ve které současně uchovává tyto sdělené údaje.*
+>
+> *(3) Dílčí základ poplatku za ukládání komunálního odpadu je dílčím základem poplatku za ukládání odpadů na skládku.*
 >
 > *(4) Sazba poplatku za ukládání odpadů na skládku pro dílčí základ poplatku za ukládání komunálního odpadu činí 500 Kč za tunu.*
+>
+> *(5) Pro dílčí poplatek za ukládání komunálního odpadu se použijí obdobně ustanovení o rozpočtovém určení dílčího poplatku za ukládání zbytkového odpadu.*
 
 **Výklad:**
 
