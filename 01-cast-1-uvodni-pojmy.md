@@ -55,6 +55,43 @@ Návětí odst. 2 obsahuje dvojí evropský odkaz:
 
 > **Vztah k IRZ:** Integrovaný registr znečišťování (zákon č. 25/2008 Sb.) ukládá provozovatelům zařízení k nakládání s odpady ohlašovat úniky a přenosy znečišťujících látek (nařízení (ES) č. 166/2006 o E-PRTR). Provozovatelé zařízení definovaní v § 11 odst. 1 písm. r) ZO jsou typickými ohlašovateli do IRZ — zejména pokud provozují skládky, spalovny nebo zařízení k nakládání s nebezpečným odpadem nad kapacitními prahy přílohy I nařízení E-PRTR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad vydává společnosti EKOTERM a.s. povolení provozu zařízení k energetickému využití odpadu (§ 21 ZO). Do povolení vloží podmínku, že zařízení smí přijímat výhradně odpad vzniklý na území okresu, a dále uloží kontinuální monitoring nad rámec BAT závěrů, který zvyšuje provozní náklady o 18 %. Provozovatel namítá, že podmínky nemají environmentální přínos a jsou ekonomicky neúnosné; krajský úřad je odůvodňuje pouze obecným odkazem na „vysokou úroveň ochrany životního prostředí". Důkazy: text povolení a jeho odůvodnění, ekonomická analýza dopadů podmínek, srovnání s BAT závěry pro spalování odpadu, odborné posouzení environmentálního přínosu podmínek.
+
+**2. Právní otázka.** Je sociálně-ekonomický korektiv § 1 odst. 1 ZO („sociální únosnost a ekonomická přijatelnost") přímo použitelným kritériem zákonnosti podmínek povolení, tj. lze pro rozpor s ním podmínku povolení zrušit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 odst. 1 ZO — pět účelových cílů v aktivní rovnováze; účelové ustanovení s přímou výkladovou závazností.
+- *Související ustanovení téhož zákona:* § 3 odst. 3 a odst. 4 písm. c) a d) (technická proveditelnost, hospodářská udržitelnost a socio-ekonomické dopady při aplikaci hierarchie); § 21 (povolení provozu zařízení).
+- *Související předpisy:* čl. 191 odst. 2 SFEU (vysoká úroveň ochrany jako unijní cíl); čl. 1 WFD; § 2 odst. 3 a § 68 odst. 3 správního řádu (přiměřenost zásahu, přezkoumatelnost odůvodnění).
+- *Judikatura:* ustálená judikatura NSS k teleologickému výkladu a k požadavku, aby podmínky správních aktů měly zákonný podklad a byly přezkoumatelně odůvodněny; judikatura SDEU, podle níž „vysoká úroveň ochrany" neznamená nejvyšší technicky myslitelnou, nýbrž proporcionální úroveň.
+
+**4. Subsumpce.** Účelové ustanovení § 1 odst. 1 není deklarací — je zákonným kritériem výkladu každého institutu ZO (viz výklad výše). Podmínka teritoriálního omezení původu odpadu nemá doložený environmentální přínos (naplnění prvního cíle není prokázáno) a současně zasahuje do hospodaření provozovatele (rozpor se čtvrtým cílem — ekonomická přijatelnost). Monitoring nad rámec BAT může obstát, jen je-li odůvodněn konkrétním rizikem. Sporné zůstává prokázání skutečné ekonomické neúnosnosti — pouhé zvýšení nákladů korektiv neaktivuje, je třeba kvantifikace.
+
+**5. Řešení.** Provozovatel podá odvolání a následně správní žalobu (§ 65 s. ř. s.). Soud poměří podmínky testem proporcionality, jehož zákonné ukotvení představuje právě § 1 odst. 1 ve spojení s § 3 odst. 4 písm. c). Pravděpodobný výsledek: zrušení teritoriální podmínky (chybí environmentální přínos i kompetenční opora), zachování monitoringu v rozsahu odůvodněném konkrétním rizikem. Prakticky je nutné argumentaci § 1 vždy propojit s konkrétním kompetenčním ustanovením (§ 21) — samotný odkaz na účel zákona nestačí.
+
+**6. Varianty.** (i) Plyne-li omezení přímo ze zákona (např. zákaz skládkování využitelných odpadů podle § 40), korektiv sociální únosnosti se neuplatní contra legem — účel nemůže přebít výslovné pravidlo. (ii) Doloží-li krajský úřad LCA analýzou, že podmínka přináší měřitelný environmentální přínos při únosných nákladech, podmínka obstojí — rovnováha pěti cílů se přikloní k cíli prvnímu.
+
+#### G. Protiargumenty a rizika
+
+- **„Účelová ustanovení nejsou normativní a nelze z nich dovozovat práva."** Neutralizace: § 1 odst. 1 je formulován normativně a § 3 odst. 3 výslovně přikazuje výklad zákona v souladu s hierarchií, na niž § 1 odkazuje; teleologický výklad je standardní metodou NSS i Ústavního soudu.
+- **„Sociálně-ekonomický korektiv je adresován zákonodárci, nikoliv aplikační praxi."** Neutralizace: text zákona takové omezení neobsahuje a tentýž korektiv se opakuje v § 3 odst. 4 písm. c) a d) jako výslovně aplikační kritérium.
+- **Slabé místo:** k § 1 ZO 541/2020 dosud chybí specifická judikatura; argumentace se opírá o obecné principy proporcionality a o judikaturu k předchozímu zákonu č. 185/2001 Sb., jejíž přenositelnost je nutno vždy ověřit.
+
+#### H. Praktický závěr
+
+§ 1 odst. 1 je závazným výkladovým vodítkem: každý orgán aplikující ZO musí svá rozhodnutí poměřovat pěticí cílů (ochrana ŽP a zdraví, udržitelné zdroje, hierarchie, sociálně-ekonomická únosnost, oběhové hospodářství) a adresáti norem se mohou nepřiměřeným podmínkám bránit argumentem nerovnováhy těchto cílů.
+
+**Checklist (advokát / správní orgán / provozovatel):**
+- [ ] Identifikoval jsem, kterému z pěti cílů § 1 odst. 1 sporné opatření slouží a který poškozuje?
+- [ ] Je podmínka povolení opřena o konkrétní kompetenční ustanovení ZO (nejen o účel zákona)?
+- [ ] Mám kvantifikaci ekonomických dopadů pro aktivaci korektivu sociální únosnosti?
+- [ ] Zohlednil jsem kvantifikované cíle přílohy č. 1 a POH ČR jako rámec rozhodování?
+- [ ] U materiálů po konci odpadového režimu: prověřil jsem navazující povinnosti REACH/CLP?
+
+**Typicky rozhodné důkazy / podklady:** odůvodnění správního aktu, BAT závěry, LCA či odborné posouzení environmentálního přínosu, ekonomická analýza nákladů, POH ČR a krajský POH.
+
 ---
 
 ### § 2 — Působnost zákona (negativní vymezení)
@@ -126,6 +163,43 @@ Toto členění odpovídá čl. 2 WFD. Logika je následující: u absolutních 
 - **Písm. d) a e) vedlejší produkty živočišného původu (VPŽP)** — nařízení (ES) č. 1069/2009. **Důležitá vnitřní výjimka v písm. e):** spalování, skládkování nebo využití VPŽP v bioplynce či kompostárně se naopak řídí ZO. Tím se zajišťuje, že koncové zpracování VPŽP probíhá v zařízeních autorizovaných podle odpadové legislativy a podléhá pravidlům povolování, evidence a kontroly podle ZO.
 - **Písm. f) krmné suroviny** — nařízení (ES) č. 767/2009 o uvádění krmiv na trh.
 - **Písm. g) výrobky s ukončenou životností** — zákon č. 542/2020 Sb. o výrobcích s ukončenou životností („**ZVUŽ**"). Toto je nejvýznamnější relativní výluka. ZVUŽ pokrývá pneumatiky, baterie a akumulátory, elektrozařízení (OEEZ), vozidla s ukončenou životností (autovraky). Tyto výrobky podléhají speciálnímu režimu **rozšířené odpovědnosti výrobce** (Extended Producer Responsibility — EPR), zpětného odběru a využití. ZO se uplatní subsidiárně — typicky v fázi, kdy je výrobek s ukončenou životností odevzdán do zařízení k nakládání s odpady a dále zpracováván (drcení, demontáž, recyklace).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zhotovitel stavby bytového domu (STAVBY JIH s.r.o.) vytěží při zakládání 5 000 m³ zeminy. 3 000 m³ použije na terénní úpravy v rámci téhož staveniště; 2 000 m³ odveze na 300 m vzdálený pozemek jiného vlastníka, kde jimi se souhlasem vlastníka vyrovná terén. ČIŽP kvalifikuje odvezenou zeminu jako odpad (kód 17 05 04) a vytýká nakládání s odpadem mimo zařízení určené pro nakládání s odpady. Důkazy: stavební deník, situační výkresy staveniště podle stavebního povolení, akreditované rozbory zeminy (vyloučení kontaminace), přepravní doklady, smlouva s vlastníkem sousedního pozemku.
+
+**2. Právní otázka.** Dopadá absolutní výluka § 2 odst. 1 písm. e) ZO i na nekontaminovanou vytěženou zeminu použitou v přirozeném stavu na jiném pozemku, než na kterém byla vytěžena?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 písm. e) — absolutní výluka pro nekontaminovanou zeminu; kumulativně: přirozený stav + účely stavby + místo vytěžení.
+- *Související ustanovení téhož zákona:* § 4 odst. 1 (definice odpadu); § 4 odst. 4 (rozhodnutí o pochybnostech); § 11 odst. 1 písm. v) (zasypávání jako využití); § 11 odst. 2 písm. j) (stavební a demoliční odpad).
+- *Související předpisy:* čl. 2 odst. 1 písm. c) WFD; vyhláška č. 8/2021 Sb. (zrcadlové položky 17 05 03*/17 05 04); vyhláška č. 273/2021 Sb. (podmínky využití odpadu k zasypávání).
+- *Judikatura:* SDEU C-9/00 Palin Granit (zbytkový materiál bez jistého využití je odpadem); C-457/02 Niselli (výluky z pojmu odpadu nelze vykládat extenzivně).
+
+**4. Subsumpce.** U 3 000 m³ jsou splněny všechny tři kumulativní podmínky výluky (nekontaminovanost + přirozený stav + místo vytěžení) — ZO se neaplikuje. U 2 000 m³ je splněna nekontaminovanost i přirozený stav, avšak podmínka „pro účely stavby na místě, na kterém byl vytěžen" splněna není — sousední pozemek jiného vlastníka není místem vytěžení ani součástí téhož staveniště podle stavebního povolení. Výluka jako výjimka z unijního pojmu odpadu se vykládá restriktivně; odvezená zemina je tedy odpadem.
+
+**5. Řešení.** Odvezená zemina podléhá ZO: správně měla být využita v režimu zasypávání (§ 11 odst. 1 písm. v) za podmínek vyhlášky č. 273/2021 Sb., v zařízení či povoleném režimu), nebo měl zhotovitel před zahájením prací iniciovat rozhodnutí o pochybnostech podle § 4 odst. 4 (to však nelze podat, běží-li již sankční řízení). Pravděpodobný výsledek kontroly: přestupek za nakládání s odpadem mimo zařízení; polehčující je nekontaminovanost a souhlas vlastníka pozemku. Preventivní krok: vymezit v projektové dokumentaci bilanci zemin a místa jejich užití uvnitř staveniště.
+
+**6. Varianty.** (i) Bude-li sousední pozemek zahrnut do téhož staveniště (jediné stavební povolení, jediný záměr), lze hájit splnění podmínky „na místě" — výluka dopadne. (ii) Prokáže-li rozbor kontaminaci nad limity, je vytěžená zemina odpadem 17 05 03* bez ohledu na místo užití; nevytěžená kontaminovaná zemina naopak zůstává mimo ZO jako půda in situ podle § 2 odst. 1 písm. g).
+
+#### G. Protiargumenty a rizika
+
+- **„Zemina má hodnotu a jisté využití, proto není odpadem již podle § 4."** Neutralizace: obchodní hodnota ani užitečnost odpadovost nevylučují (SDEU C-188/07 Commune de Mesquer); rozhodné je zbavování se věci a restriktivní výklad výluk (Niselli).
+- **„Místem vytěžení je třeba rozumět celý stavební záměr, nikoli parcelu."** Neutralizace: tento výklad je obhajitelný jen tehdy, je-li „místo" vymezeno jednotnou projektovou dokumentací a povolením; přesun na pozemek třetí osoby mimo záměr kritérium nesplní.
+- **Slabé místo:** zákon nedefinuje „místo, na kterém byl vytěžen" (parcela vs. staveniště vs. záměr) a chybí sjednocující česká judikatura — výsledky kontrol se mohou regionálně lišit.
+
+#### H. Praktický závěr
+
+Před jakýmkoli přesunem vytěžené zeminy mimo hranice staveniště je nutné vyřešit její právní režim: buď doložit všechny tři podmínky výluky § 2 odst. 1 písm. e), nebo zeminu vést jako odpad a využít ji v povoleném režimu (zasypávání, zařízení), případně si předem opatřit rozhodnutí o pochybnostech. U relativních výluk odst. 2 vždy ověřit, v jakém rozsahu věc skutečně pokrývá zvláštní předpis — mezery vyplňuje ZO.
+
+**Checklist (zhotovitel / investor / správní orgán):**
+- [ ] Mám akreditované rozbory prokazující nekontaminovanost zeminy?
+- [ ] Je místo užití zeminy součástí téhož staveniště (stavebního záměru) jako místo vytěžení?
+- [ ] Nedochází k úpravě zeminy (drcení, prosévání) vylučující „přirozený stav"?
+- [ ] U relativních výluk (odst. 2): existuje zvláštní předpis skutečně pokrývající dané nakládání?
+- [ ] Zvážil jsem rozhodnutí o pochybnostech podle § 4 odst. 4 před zahájením prací?
+
+**Typicky rozhodné důkazy / podklady:** stavební povolení a projektová dokumentace, bilance zemin, laboratorní rozbory, přepravní doklady, smlouvy s vlastníky dotčených pozemků.
 
 ---
 
@@ -203,6 +277,43 @@ Hierarchie není absolutní — odst. 4 transponuje čl. 4 odst. 2 WFD a uvádí
 
 Odst. 5 implementuje koncept čl. 4 odst. 2 WFD: od hierarchie je možné se odchýlit, je-li to při zohlednění **celého životního cyklu** lepší řešení z hlediska ochrany ŽP a zdraví. Příklad z praxe: u některých kontaminovaných obalů od nebezpečných chemikálií může být energetické využití v cementárně environmentálně preferovatelnější než recyklace (pro riziko sekundárního znečištění materiálového toku). Odchylka musí být **podložená LCA analýzou** a je předmětem kontroly orgánu veřejné správy (typicky krajského úřadu při povolování provozu zařízení).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cementárna žádá krajský úřad o povolení provozu zařízení (§ 21) k energetickému využití (R1) výmětů z dotřiďovací linky i části směsných plastů z odděleného sběru obcí, tedy materiálu zčásti materiálově recyklovatelného. Ekologický spolek jako účastník řízení namítá rozpor s hierarchií: recyklace (3. stupeň) má přednost před energetickým využitím (4. stupeň). Cementárna předkládá LCA studii, podle níž je u znečištěných směsných plastů energetické využití environmentálně výhodnější než nákladné dotřídění a praní. Důkazy: LCA studie (ČSN EN ISO 14040), analýza složení odpadu, údaje o dostupných recyklačních kapacitách v regionu, POH kraje.
+
+**2. Právní otázka.** Za jakých podmínek se může krajský úřad při povolování zařízení odchýlit od pořadí hierarchie podle § 3 odst. 5 a povolit energetické využití odpadu, který je zčásti recyklovatelný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 2 (pětistupňová hierarchie), odst. 3 (závazná výkladová síla), odst. 4 (kritéria aplikace včetně LCA a proveditelnosti), odst. 5 (odchylka pro nejlepší výsledek z hlediska ŽP).
+- *Související ustanovení téhož zákona:* § 1 odst. 1 (hierarchie jako účelové kritérium); § 21 (povolení provozu); § 40 (zákaz skládkování využitelných odpadů); § 11 odst. 1 písm. j) a l) (energetické využití vs. recyklace).
+- *Související předpisy:* čl. 4 WFD; POH ČR (závazná část — § 3 odst. 4 písm. e)); ČSN EN ISO 14040/14044 (metodika LCA).
+- *Judikatura:* SDEU C-228/00 Komise proti Německu (spoluspalování odpadu v cementárně jako využití — kritérium hlavního účelu operace); ustálená judikatura NSS k přezkoumatelnosti odůvodnění správních rozhodnutí.
+
+**4. Subsumpce.** Hierarchie přikazuje preferovat recyklaci; povolení R1 pro recyklovatelnou frakci je proto odchylkou, kterou § 3 odst. 5 podmiňuje (i) zohledněním celkových dopadů životního cyklu a (ii) doložením, že odchylka vede k nejlepšímu výsledku pro ŽP a zdraví lidí. LCA studie žadatele tyto podmínky prima facie naplňuje; sporná je její nestrannost (zadavatelem je žadatel) a skutečná nedostupnost recyklačních kapacit. U výmětů z třídění o odchylku vůbec nejde — recyklace u nich není reálně možná a R1 je s hierarchií v souladu.
+
+**5. Řešení.** Krajský úřad může povolení vydat, pokud v odůvodnění přezkoumatelně vyhodnotí LCA, kritéria § 3 odst. 4 (technická proveditelnost, hospodářská udržitelnost, soulad s POH) a omezí vstupy podmínkami (přednost výmětů a prokazatelně nerecyklovatelných frakcí). Bez takového odůvodnění je rozhodnutí zrušitelné pro nepřezkoumatelnost. Procesně: spolek může podat odvolání a žalobu; soud zkoumá, zda odchylka byla podložena a odůvodněna, nikoli vlastní environmentální preference.
+
+**6. Varianty.** (i) Šlo by výlučně o výměty z dotřiďovací linky — odchylka se neaktivuje, povolení R1 hierarchii vyhovuje. (ii) Alternativou by bylo skládkování — pak hierarchie naopak velí energetické využití upřednostnit (srov. § 40 — zákaz skládkování využitelných odpadů) a námitka spolku neobstojí.
+
+#### G. Protiargumenty a rizika
+
+- **„Hierarchie je pouze programový princip bez přímé závaznosti."** Neutralizace: § 3 odst. 3 výslovně podmiňuje výklad a použití celého zákona souladem s hierarchií; její pominutí je vadou rozhodnutí způsobující nezákonnost.
+- **„LCA předložená žadatelem je účelová."** Neutralizace: správní orgán hodnotí důkazy volně, může vyžádat oponentní posouzení; rozhodná je metodická korektnost (ISO 14040), nikoli osoba zadavatele.
+- **Slabé místo:** zákon nestanoví formální požadavky na LCA ani proceduru „schválení" odchylky podle § 3 odst. 5 — hrozí nejednotná praxe krajských úřadů a obtížná soudní přezkoumatelnost čistě odborných závěrů.
+
+#### H. Praktický závěr
+
+Každé rozhodnutí i výkladová volba podle ZO musí obstát v testu hierarchie: nejprve určit, do kterého stupně činnost patří, poté ověřit, zda nižší stupeň není volen místo dostupného vyššího, a případnou odchylku podložit LCA argumentací podle § 3 odst. 5 a výslovně ji odůvodnit.
+
+**Checklist (žadatel / krajský úřad / účastníci řízení):**
+- [ ] Zařadil jsem posuzovanou činnost do správného stupně hierarchie (§ 3 odst. 2 ve spojení s definicemi § 11)?
+- [ ] Je reálně dostupný vyšší stupeň (kapacity, technická proveditelnost, náklady — § 3 odst. 4 písm. c))?
+- [ ] Je odchylka podle § 3 odst. 5 podložena LCA zohledňující celý životní cyklus?
+- [ ] Je rozhodnutí v souladu s POH ČR a krajským POH (§ 3 odst. 4 písm. e))?
+- [ ] Je úvaha o hierarchii výslovně a přezkoumatelně zachycena v odůvodnění?
+
+**Typicky rozhodné důkazy / podklady:** LCA studie, rozbory složení odpadu, údaje o regionálních kapacitách zařízení, POH ČR a krajský POH, návrh provozního řádu zařízení.
+
 ---
 
 ## Hlava (systematická) III — Pojem odpadu a jeho zařazování
@@ -271,6 +382,43 @@ Odst. 4 zavádí **deklaratorní rozhodnutí krajského úřadu o pochybnostech*
 
 > **Procesní rozdíl:** Rozhodnutí podle § 4 odst. 4 vydává **krajský úřad** v přenesené působnosti, ne ČIŽP. Probíhá v režimu správního řádu (zákon č. 500/2004 Sb.), s opravnými prostředky podle § 81 a násl. SŘ (rozklad/odvolání k MŽP). Soudní přezkum je možný správní žalobou ke krajskému soudu (§ 65 s.ř.s.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kovovýrobní společnost KOVOLIS s.r.o. skladuje čtvrtým rokem na nezpevněné ploše svého areálu 80 tun vyřazených ocelových lisovacích forem z ukončených zakázek. Formy jsou zčásti zkorodované, nekonzervované; jednatel při kontrole ČIŽP uvádí, že je společnost „možná použije pro budoucí zakázky, nebo prodá". ČIŽP formy kvalifikuje jako odpad a vytýká soustřeďování odpadu mimo zařízení. Důkazy: fotodokumentace stavu forem, doba a způsob uložení, doklady o údržbě/konzervaci, evidence zakázek, korespondence s potenciálními kupci, znalecké posouzení funkční způsobilosti.
+
+**2. Právní otázka.** Jsou vyřazené formy odpadem podle § 4 odst. 1, ačkoli vlastník deklaruje úmysl je v budoucnu znovu použít či prodat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 (movitá věc + zbavuje se / úmysl / povinnost zbavit se), odst. 2 (vyvratitelná domněnka úmyslu při nepoužitelnosti k původnímu účelu), odst. 4 (rozhodnutí o pochybnostech).
+- *Související ustanovení téhož zákona:* § 5 (původce), § 13 a násl. (povinnosti při nakládání), § 12 odst. 4 (předání k opětovnému použití věc z odpadového režimu vyjímá).
+- *Související předpisy:* čl. 3 bod 1 WFD; § 489 a 498 OZ (movitá věc).
+- *Judikatura:* SDEU C-129/96 Inter-Environnement Wallonie (široký výklad pojmu „zbavování se"); C-9/00 Palin Granit (rozhodující je jistota, nikoli pouhá možnost dalšího využití); C-188/07 Commune de Mesquer (ekonomická hodnota odpadovost nevylučuje).
+
+**4. Subsumpce.** Věcný znak je splněn (movité věci). Aktuální zbavování se neprobíhá; klíčová je domněnka odst. 2: zkorodované, neudržované formy nelze bez opravy používat k původnímu účelu, presumuje se tedy úmysl se jich zbavit. Vyvrácení domněnky vyžaduje objektivní důkazy funkční způsobilosti a jistoty dalšího užití (konzervace, plán nasazení, konkrétní poptávka) — čtyřleté pasivní skladování venku svědčí o opaku. Povinnost zbavit se podle odst. 3 písm. a) by nastoupila až při prokázaném ohrožení ŽP (koroze, úkapy kontaminující půdu) — to je zatím neprokázané.
+
+**5. Řešení.** Formy budou s vysokou pravděpodobností posouzeny jako odpad; společnost je povinna je zařadit (§ 6), evidovat a předat oprávněné osobě, nevyvrátí-li domněnku. Obranou je žádost o rozhodnutí o pochybnostech podle § 4 odst. 4 u krajského úřadu — pozor na negativní podmínku: žádost nelze podat, je-li již vedeno přestupkové řízení nebo řízení o uložení opatření k nápravě (ČIŽP/ORP); je proto třeba ji podat dříve, než kontrola přeroste v sankční řízení. Rizikem zůstává i kvalifikace podle § 4 odst. 3 písm. a), prokáže-li se ohrožení ŽP.
+
+**6. Varianty.** (i) Formy pravidelně konzervované, skladované v hale, s doloženými případy opětovného nasazení u opakovaných zakázek — domněnka odst. 2 je vyvrácena, o odpad nejde. (ii) Prodej funkčních forem jiné lisovně k témuž účelu — věc se podle § 12 odst. 4 nestává odpadem (opětovné použití); naopak prodej „do šrotu" je zbavováním se a věc je odpadem již u prodávajícího.
+
+#### G. Protiargumenty a rizika
+
+- **„Kvalifikace věci jako odpadu proti vůli vlastníka zasahuje do vlastnického práva."** Neutralizace: odpadový režim vlastnictví neodnímá, pouze veřejnoprávně reguluje nakládání; jde o ústavně aprobované omezení (čl. 11 odst. 3, čl. 35 Listiny) sledující ochranu ŽP a zdraví.
+- **„Deklarovaný záměr prodeje vylučuje úmysl zbavit se věci."** Neutralizace: test odst. 2 je objektivní (funkční stav věci); subjektivní deklarace bez doložených kroků jistotu dalšího využití nezakládá (Palin Granit).
+- **Slabé místo:** hranice mezi legitimním skladováním funkční věci a faktickým odkládáním je čistě skutková; rozhodnutí o pochybnostech je pouze deklaratorní, řízení trvá a po dobu sporu přetrvává právní nejistota držitele.
+
+#### H. Praktický závěr
+
+Držitel nepoužívaných věcí musí být schopen kdykoli doložit jejich funkční způsobilost a konkrétní, jistou perspektivu dalšího užití; jinak se uplatní domněnka úmyslu zbavit se věci a věc podléhá plnému odpadovému režimu (zařazení, evidence, předání oprávněné osobě).
+
+**Checklist (držitel věci / advokát / ČIŽP / krajský úřad):**
+- [ ] Je věc fakticky použitelná k původnímu účelu (znalecký posudek, servisní protokol)?
+- [ ] Existují objektivní doklady jistoty dalšího využití (smlouva, objednávka, plán nasazení)?
+- [ ] Nenastala některá ze situací povinnosti zbavit se věci podle § 4 odst. 3 (ohrožení ŽP, stažení z trhu, výrobní zbytek mimo § 8)?
+- [ ] Není dána překážka podání žádosti o rozhodnutí o pochybnostech (běžící sankční řízení)?
+- [ ] Zvážil jsem režim opětovného použití podle § 12 odst. 4 namísto likvidace?
+
+**Typicky rozhodné důkazy / podklady:** fotodokumentace, doklady o údržbě a způsobu skladování, obchodní korespondence a smlouvy, znalecké posouzení funkčnosti, rozbory půdy při podezření na ohrožení ŽP.
+
 ---
 
 ### § 5 — Původce odpadu
@@ -331,6 +479,43 @@ Odst. 3 zavádí zvláštní pravidlo pro **komunální odpad a odpady z obalů*
 
 Pojem „**držitel odpadu**" (waste holder — čl. 3 bod 6 WFD) zahrnuje původce odpadu i každou jinou osobu, která má odpad ve své držbě. ZO pracuje s pojmem **„původce"** úžeji a „**oprávněná osoba**" pro pozdější držitele (zpracovatele). Pro účely **odpovědnosti** a **smluvních povinností** podle § 13 a násl. ZO jsou však oba pojmy v zásadě konzistentní s unijním pojmem držitele.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Developer DOMOV a.s. (objednatel) si u společnosti DEMOLICE s.r.o. (zhotovitel) objedná demolici výrobní haly. Smlouva o dílo obsahuje ujednání: „Původcem veškerých odpadů vzniklých při provádění díla je objednatel." Zhotovitel část suti předá oprávněné osobě, 400 t však odveze bez povolení na pozemek třetí osoby. ČIŽP zahájí řízení: vůči objednateli pro neplnění povinností původce (evidence, zajištění předání oprávněné osobě), vůči zhotoviteli pro nezákonné soustředění odpadu. Objednatel namítá, že s odpadem fakticky nenakládal. Důkazy: písemná smlouva o dílo, stavební deník, průběžná evidence odpadů, vážní lístky a doklady o předání, fotodokumentace pozemku.
+
+**2. Právní otázka.** Má smluvní určení objednatele jako původce odpadu podle § 5 odst. 2 věty druhé veřejnoprávní účinky, a kdo pak odpovídá za nezákonné naložení s odpadem zhotovitelem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 2 — defaultním původcem je osoba fyzicky provádějící činnost; písemnou smlouvou lze určit osobu jinou; původce nabývá vlastnictví odpadu nejpozději okamžikem jeho vzniku.
+- *Související ustanovení téhož zákona:* § 5 odst. 1 písm. a); § 6 (zařazování); § 13 a § 15 (povinnost předat odpad oprávněné osobě); § 11 odst. 2 písm. l) (nezákonně soustředěný odpad).
+- *Související předpisy:* čl. 3 body 5 a 6 WFD (waste producer / waste holder); § 2586 a násl. OZ (smlouva o dílo); § 21 zákona č. 250/2016 Sb. (liberace právnické osoby).
+- *Judikatura:* rozhodovací praxe správních soudů k odpovědnosti původce stavebních a demoličních odpadů; nosný závěr, že pouhé ujednání o „zajištění likvidace" veřejnoprávní postavení původce nepřenáší (srov. praktickou poznámku ve výkladu výše).
+
+**4. Subsumpce.** Defaultně by původcem byl zhotovitel (fyzicky provádí demolici). Smlouva však výslovně a písemně určuje původcem objednatele — atribuce podle § 5 odst. 2 věty druhé je naplněna; objednatel se stal původcem se všemi veřejnoprávními povinnostmi (zařazení, evidence, ohlašování, zajištění předání oprávněné osobě) a vlastníkem odpadu od jeho vzniku. Námitka faktického nenakládání je nerozhodná — postavení původce je kategorie právní, nikoli faktická. Zhotovitel souběžně odpovídá za vlastní protiprávní jednání (nezákonné soustředění odpadu mimo zařízení).
+
+**5. Řešení.** Odpovědnost se štěpí: objednatel odpovídá za nesplnění původcovských povinností (nezajistil kontrolu toku odpadu), zhotovitel za nezákonné nakládání. Objednatel se může vůči zhotoviteli hojit regresem ze smlouvy (porušení povinnosti provést dílo řádně), veřejnoprávní sankci to však neodvrací; liberace vyžaduje prokázání vynaložení veškerého úsilí, které bylo možno požadovat. Praktická prevence: převzetí původcovství spojit s kontrolními mechanismy (předávací protokoly, povinnost dokládat vážní lístky a identifikaci zařízení, smluvní pokuty).
+
+**6. Varianty.** (i) Smlouva by obsahovala jen formulaci „zhotovitel zajistí likvidaci odpadů" — nejde o určení jiného původce; původcem zůstává zhotovitel (default) a objednatel veřejnoprávně neodpovídá. (ii) Šlo by o komunální odpad podnikatelů v kancelářské budově — podle § 5 odst. 3 lze písemnou smlouvou učinit původcem vlastníka nemovité věci, což je praktické pro obchodní centra a komplexy s mnoha nájemci.
+
+#### G. Protiargumenty a rizika
+
+- **„Smluvní přesun původcovství je nepřípustnou dispozicí s veřejnoprávní povinností."** Neutralizace: § 5 odst. 2 věta druhá tuto atribuci výslovně dovoluje; nejde o obcházení zákona, ale o zákonem předvídanou konstrukci — vyžaduje však výslovné a určité ujednání o postavení původce, nikoli jen o „odpovědnosti za likvidaci".
+- **„Objednatel nemohl protiprávnímu jednání zhotovitele zabránit."** Neutralizace: převzetím původcovství přebírá i riziko výběru a kontroly smluvního partnera; liberace podle § 21 zákona č. 250/2016 Sb. přichází v úvahu jen při doloženém aktivním dohledu.
+- **Slabé místo:** zákon neřeší časový okamžik uzavření smlouvy — dodatečně (po vzniku odpadu) uzavřená smlouva původcovství zpětně změnit nemůže; v praxi bývá sporná i dostatečná určitost klauzulí.
+
+#### H. Praktický závěr
+
+Ve vícestranných vztazích (stavby, demolice, údržba, outsourcing) vždy výslovně a písemně určete, kdo je původcem odpadu; bez takového ujednání je jím ten, kdo činnost fyzicky provádí. Převzetí původcovství znamená převzetí kompletního balíku veřejnoprávních povinností i vlastnictví odpadu od okamžiku jeho vzniku.
+
+**Checklist (objednatel / zhotovitel / advokát):**
+- [ ] Obsahuje smlouva výslovné určení původce odpadu (nikoli jen „zajištění likvidace")?
+- [ ] Je smlouva písemná a uzavřená před vznikem odpadu?
+- [ ] Má určený původce nastaveno zařazování, evidenci a ohlašování (ISPOP) pro vznikající odpady?
+- [ ] Jsou sjednány kontrolní mechanismy toku odpadu (vážní lístky, identifikace zařízení, protokoly)?
+- [ ] U komunálního odpadu a odpadů z obalů v pronajímaných nemovitostech: je využit režim § 5 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dílo, průběžná evidence odpadů, doklady o předání oprávněné osobě, stavební deník, fakturace a vážní lístky.
+
 ---
 
 ### § 6 — Zařazování odpadu
@@ -369,6 +554,43 @@ Katalog odpadů je stanoven **vyhláškou MŽP** (vyhláška č. 8/2021 Sb. o Ka
 - **Šestiznaková položka** (např. 17 05 04) — konkrétní druh odpadu.
 
 **Hvězdička (*)** za kódem označuje **absolutně nebezpečný odpad** (např. 17 05 03* zemina a kamení obsahující nebezpečné látky). **Zrcadlové položky** (mirror entries) jsou dvojice ostatního a nebezpečného odpadu odlišujícího se obsahem nebezpečných látek (17 05 03* a 17 05 04).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební společnost provádí výkopy v bývalém areálu strojírenského podniku (historicky doložené úniky ropných látek). Vytěženou zeminu (500 t) bez provedení rozborů zařadí jako ostatní odpad 17 05 04 a předá k terénním úpravám. Kontrolní rozbory ČIŽP následně prokáží obsah ropných uhlovodíků nad limitem — zemina měla být zařazena jako 17 05 03* (nebezpečný odpad). Důkazy: historické zprávy o areálu (ekologický audit), protokoly o odběru vzorků, akreditované laboratorní rozbory, průběžná evidence odpadů, doklady o předání.
+
+**2. Právní otázka.** Kdo odpovídá za správné zařazení odpadu do kategorie a druhu u tzv. zrcadlových položek a jaké důsledky má chybné zařazení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 a 2 — povinné dvojí zařazení (kategorie + druh podle Katalogu odpadů).
+- *Související ustanovení téhož zákona:* § 5 (původce, který zařazení provádí), § 7 (kritéria nebezpečnosti, zrcadlové položky), § 76 (hodnocení nebezpečných vlastností).
+- *Související předpisy:* vyhláška č. 8/2021 Sb. (Katalog odpadů a postup zařazování); rozhodnutí Komise 2014/955/EU (evropský seznam odpadů); nařízení (EU) č. 1357/2014 (nebezpečné vlastnosti).
+- *Judikatura:* SDEU ve spojených věcech C-487/17 až C-489/17 Verlezza (u zrcadlových položek je držitel povinen zjistit složení odpadu a relevantní nebezpečné vlastnosti; při neodstranitelné nejistotě se uplatní zásada předběžné opatrnosti a odpad se zařadí jako nebezpečný).
+
+**4. Subsumpce.** Zařazení provádí původce v okamžiku vzniku odpadu — zde stavební společnost. Dvojice 17 05 03*/17 05 04 je zrcadlovou položkou: zařazení závisí na obsahu nebezpečných látek, který u zeminy z historicky kontaminovaného areálu nelze určit bez vzorkování a rozborů. Zařazení do ostatního odpadu „od stolu" je proto vadné; indicie kontaminace (historie areálu) zakládaly povinnost analytického ověření před předáním.
+
+**5. Řešení.** Správní orgán kvalifikuje jednání jako přestupek (nesprávné zařazení a navazující nakládání s nebezpečným odpadem v režimu, který tomu neodpovídá); v úvahu připadá i opatření k nápravě (odstranění zeminy z místa užití). Správný postup: před předáním provést reprezentativní vzorkování a rozbory podle vyhlášky č. 273/2021 Sb., v pochybnostech zařadit odpad jako nebezpečný, případně nechat provést hodnocení nebezpečných vlastností podle § 76.
+
+**6. Varianty.** (i) Areál bez historie kontaminace a negativní rozbory — zařazení 17 05 04 obstojí. (ii) Rozbory prokáží hraniční hodnoty s kolísáním mezi vzorky — zásada předběžné opatrnosti (Verlezza) velí zařadit jako 17 05 03*, dokud hodnocení podle § 76 neprokáže opak.
+
+#### G. Protiargumenty a rizika
+
+- **„Původce o kontaminaci nevěděl, jednal v dobré víře."** Neutralizace: odpovědnost právnické osoby za přestupek je objektivní; liberace vyžaduje vynaložení veškerého možného úsilí — u areálu se známou historií to znamená provést rozbory ještě před zařazením.
+- **„Katalogové zařazení je formalita bez materiálního dopadu."** Neutralizace: na zařazení navazuje výběr zařízení, evidence, ohlašování i poplatky za skládkování — chybný kód deformuje celý navazující řetězec a kontaminuje i evidenci přejímajících zařízení.
+- **Slabé místo:** reprezentativnost vzorkování heterogenních materiálů (zemina, suť) je odborně i důkazně citlivá; obrana se v praxi často vede právě přes zpochybnění metodiky odběru vzorků.
+
+#### H. Praktický závěr
+
+Zařazení odpadu je první a determinující krok nakládání: u zrcadlových položek nikdy nezařazovat bez znalosti složení odpadu; v trvající pochybnosti platí přednost kategorie nebezpečný odpad do doby průkazu opaku.
+
+**Checklist (původce / provozovatel zařízení):**
+- [ ] Znám původ a historii materiálu (ekologický audit, pasport stavby)?
+- [ ] Jde o zrcadlovou položku Katalogu? Mám rozbory pro rozhodnutí mezi kódem s hvězdičkou a bez ní?
+- [ ] Odpovídá vzorkování požadavkům vyhlášky (reprezentativnost, akreditovaná laboratoř)?
+- [ ] Je kód odpadu konzistentní v evidenci, ohlášení i dokladech o předání?
+- [ ] V trvající pochybnosti: zvážil jsem hodnocení nebezpečných vlastností podle § 76?
+
+**Typicky rozhodné důkazy / podklady:** protokoly o vzorkování, laboratorní rozbory, historická dokumentace areálu, evidence odpadů, doklady o předání odpadu.
 
 ---
 
@@ -435,6 +657,43 @@ Odpady zařazené jako nebezpečné podle písm. b) (katalogové zařazení) neb
 
 > **Praktický význam:** Klasifikace odpadu jako nebezpečného má závažné ekonomické důsledky — vyšší poplatky za uložení na skládku (§ 102 ZO), užší okruh povolených zařízení, povinnost evidence v SEPNO (Systém evidence přepravy nebezpečných odpadů), povinnost dokumentace ADR pro přepravu, povinnost identifikace, balení a označování. Z tohoto důvodu je institut § 7 odst. 4 (přeřazení) ekonomicky cenný a v praxi předmětem intenzivního využití zpracovateli odpadů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel recyklační linky na stavební suť převezme od demoliční firmy 200 t směsné suti. Při přejímce zjistí, že dodávka obsahuje úlomky eternitu (azbestocementové krytiny). Provozovatel hodlá suť přetřídit, viditelné kusy eternitu ručně vybrat a zbytek zařadit jako ostatní odpad 17 01 07 a recyklovat. Důkazy: záznam o přejímce a fotodokumentace, základní popis odpadu od dodavatele, protokoly o vzorkování po vytřídění, posudek pověřené osoby k hodnocení nebezpečných vlastností.
+
+**2. Právní otázka.** Lze odpad, který byl znečištěn nebezpečným odpadem (azbestem), po mechanickém vytřídění zařadit jako ostatní odpad, a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 1 písm. c) (smísení/znečištění nebezpečným odpadem činí odpad nebezpečným), odst. 4 (přeřazení do ostatního odpadu jen po hodnocení nebezpečných vlastností podle § 76).
+- *Související ustanovení téhož zákona:* § 6 (zařazování), § 76 (hodnocení nebezpečných vlastností pověřenou osobou); zvláštní pravidla ZO a vyhlášky č. 273/2021 Sb. pro nakládání s odpadem obsahujícím azbest.
+- *Související předpisy:* nařízení (EU) č. 1357/2014 (HP 7 karcinogenita); vyhláška č. 8/2021 Sb. (kódy 17 06 05* — stavební materiály obsahující azbest, 17 01 07); čl. 7 WFD.
+- *Judikatura:* SDEU C-487/17 až C-489/17 Verlezza (povinnost držitele zjistit relevantní nebezpečné vlastnosti; zásada předběžné opatrnosti při neodstranitelné nejistotě).
+
+**4. Subsumpce.** Znečištěním suti azbestem se podle § 7 odst. 1 písm. c) stala nebezpečným odpadem celá kontaminovaná dodávka — pravidlo brání „diluci nebezpečnosti". Ruční vytřídění viditelných úlomků kategorii samo o sobě nemění: přeřazení do ostatního odpadu připouští § 7 odst. 4 výhradně na základě hodnocení nebezpečných vlastností podle § 76, které musí vyloučit všechny HP vlastnosti (u azbestu zejména respirabilní vlákna, jejichž přítomnost vizuální kontrola neodhalí). Do té doby je nutno se sutí nakládat jako s nebezpečným odpadem (evidence SEPNO, ADR, zařízení s odpovídajícím povolením).
+
+**5. Řešení.** Správný postup: oddělit azbestovou frakci (17 06 05*) a odstranit ji v režimu pro azbest (zabalení, uložení na vymezené skládce), zbylou suť podrobit vzorkování a hodnocení pověřenou osobou; teprve poté ji lze jako 17 01 07 recyklovat. Riziko opačného postupu: přestupek, nemožnost uvedení recyklátu na trh, odpovědnost vůči odběratelům recyklátu a náklady zpětného stažení. Vůči dodavateli lze uplatnit odpovědnost za nesprávný základní popis odpadu.
+
+**6. Varianty.** (i) Šlo by o směsný komunální odpad s obsahem jednotlivých nebezpečných složek (baterie, barvy) — podle § 7 odst. 3 věty druhé zůstává ze zákona ostatním odpadem; povinnost odděleného sběru nebezpečných složek tím není dotčena. (ii) Odpad by vykazoval nebezpečnou vlastnost přímo podle § 7 odst. 1 písm. a) (např. naměřená ekotoxicita HP 14) — přeřazení je pojmově vyloučeno; dokud vlastnost trvá, odpad je nebezpečný per definitionem.
+
+#### G. Protiargumenty a rizika
+
+- **„Vytříděním kontaminace zanikla, hodnocení podle § 76 je zbytečný formalismus."** Neutralizace: § 7 odst. 4 je kogentní a jde o jedinou cestu k přeřazení; u azbestu vizuální kontrola nemůže vyloučit vlákna — bez analytického průkazu hrozí ohrožení zdraví pracovníků i odběratelů recyklátu.
+- **„Pravidlo smísení je nepřiměřené u stopového znečištění."** Neutralizace: ratio legis je zabránit účelovému ředění nebezpečných odpadů; korektivem nepřiměřenosti je právě hodnocení § 76, jež umožní prokázat skutečnou nezávadnost konkrétní dávky.
+- **Slabé místo:** hodnocení nebezpečných vlastností je nákladné a časově náročné; u odpadů s nízkou hodnotou může recyklaci ekonomicky vyloučit a fakticky směřovat odpad k odstranění — v napětí s hierarchií (§ 3).
+
+#### H. Praktický závěr
+
+Jakýkoli kontakt odpadu s nebezpečným odpadem „infikuje" celou dávku: provozovatel musí mít nastavenu vstupní kontrolu, kontaminované dodávky řešit odděleně a přeřazení do ostatního odpadu opírat výlučně o hodnocení podle § 76.
+
+**Checklist (původce / provozovatel zařízení / ČIŽP):**
+- [ ] Obsahuje přejímka vstupní kontrolu a porovnání se základním popisem odpadu?
+- [ ] Je kontaminovaná dávka oddělena a vedena jako nebezpečný odpad (SEPNO, označení, ADR)?
+- [ ] Proběhlo u zamýšleného přeřazení hodnocení nebezpečných vlastností pověřenou osobou (§ 76)?
+- [ ] Není odpad nebezpečný přímo podle HP vlastností (pak je přeřazení vyloučeno)?
+- [ ] U směsného komunálního odpadu: je zajištěn oddělený sběr nebezpečných složek?
+
+**Typicky rozhodné důkazy / podklady:** záznamy o přejímce, základní popis odpadu, protokoly o vzorkování, posudek pověřené osoby podle § 76, evidence SEPNO.
+
 ---
 
 ## Hlava (systematická) IV — Vynětí z odpadového režimu a jeho ukončení
@@ -498,6 +757,43 @@ Odst. 2 zmocňuje MŽP a MPO k vydání společné vyhlášky stanovící krité
 #### Průvodní dokumentace (odst. 3) — povinnost předávání
 
 Pokud byla pro vedlejší produkt zpracována průvodní dokumentace, je každý jeho **držitel povinen** ji předávat s vedlejším produktem dalším osobám. Toto pravidlo zajišťuje **dohledatelnost a kontrolovatelnost** vedlejšího produktu po celém řetězci. Nesplnění této povinnosti je přestupkem podle § 117 a násl. ZO.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pivovar produkuje ročně cca 3 000 t mláta. Na základě rámcové smlouvy je průběžně (denně) odebírá sousední zemědělské družstvo jako krmivo pro skot; mláto se nijak neupravuje, pouze se krátkodobě skladuje v hygienicky vyhovujícím silu. Při kontrole ČIŽP požaduje odpadovou evidenci a doklady o předávání odpadu oprávněné osobě; pivovar tvrdí, že mláto není odpadem, nýbrž vedlejším produktem. Důkazy: rámcová smlouva a evidence odběrů, technologické schéma výroby, doklady o plnění krmivářské legislativy (registrace provozu), doklady o způsobu skladování.
+
+**2. Právní otázka.** Splňuje pivovarské mláto pět kumulativních podmínek § 8 odst. 1, takže nikdy nevstoupilo do odpadového režimu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 písm. a)–e) — nedílná součást výroby, zajištěné další využití, využití bez zpracování nad běžnou výrobní praxi, soulad s právem a nezávadnost, splnění případných materiálových kritérií.
+- *Související ustanovení téhož zákona:* § 4 odst. 3 písm. c) (výrobní zbytek, který není vedlejším produktem, je odpadem — fail-safe); § 4 odst. 4 (rozhodnutí o pochybnostech); § 2 odst. 2 písm. f) (relativní výluka pro krmné suroviny).
+- *Související předpisy:* čl. 5 WFD; nařízení (ES) č. 767/2009 (krmné suroviny); zákon č. 91/1996 Sb., o krmivech; nařízení REACH (uvádění látek na trh).
+- *Judikatura:* SDEU C-9/00 Palin Granit (nutná jistota, nikoli pouhá možnost dalšího využití); C-114/01 AvestaPolarit Chrome (integrální součást výrobního procesu jako znak vedlejšího produktu).
+
+**4. Subsumpce.** (a) Mláto vzniká strukturálně při rmutování — nedílná součást výroby: splněno. (b) Jistota využití: rámcová smlouva + nepřetržitá denní praxe odběrů + stabilní trh krmiv = „certainty of further use" podle Palin Granit: splněno. (c) Využití bez dalšího zpracování (pouhé skladování): splněno. (d) Soulad s krmivářskou legislativou a nezávadnost: doloženo registrací a evidencí. (e) Materiálová kritéria vyhláškou dosud stanovena nejsou — posuzuje se case-by-case (stav k 2025). Souběžně lze argumentovat relativní výlukou § 2 odst. 2 písm. f): mláto rostlinného původu určené jako krmná surovina je v rozsahu krmivářské úpravy z působnosti ZO vyňato zcela.
+
+**5. Řešení.** Mláto není odpadem; odpadová evidence se na ně nevede. Pivovaru lze doporučit: udržovat průkaznou dokumentaci odběrů, pro právní jistotu zvážit rozhodnutí o pochybnostech podle § 4 odst. 4 (deklaratorní potvrzení statusu) a hlídat kontinuitu odběru — přerušení odběru a hromadění mláta jistotu využití ruší a aktivuje fail-safe § 4 odst. 3 písm. c).
+
+**6. Varianty.** (i) Odběry jsou nahodilé, část mláta se kazí a likviduje — chybí jistota využití (písm. b)), mláto je odpadem podle § 4 odst. 3 písm. c). (ii) Mláto je dodáváno do bioplynové stanice — výluka pro krmiva nedopadá; status vedlejšího produktu nutno posoudit samostatně podle § 8 odst. 1 písm. b)–d) (zajištěnost a nezávadnost energetického využití), jinak jde o odpad předávaný do zařízení.
+
+#### G. Protiargumenty a rizika
+
+- **„Mláto je výrobní zbytek, tedy odpad podle § 4 odst. 3 písm. c)."** Neutralizace: písm. c) se výslovně neuplatní, je-li věc vedlejším produktem podle § 8 odst. 1; obě normy tvoří spojené nádoby a rozhoduje splnění pěti podmínek, nikoli samotný charakter rezidua.
+- **„Vypověditelná rámcová smlouva nezakládá jistotu využití."** Neutralizace: jistota se posuzuje materiálně — dlouhodobá nepřetržitá praxe odběrů a existence likvidního trhu s krmivy ji zakládají i při právní vypověditelnosti smlouvy; klíčová je průběžná dokumentace.
+- **Slabé místo:** absence prováděcí vyhlášky s materiálovými kritérii (§ 8 odst. 2) znamená case-by-case posuzování s rizikem nejednotné praxe krajských úřadů; stanovisko jednoho úřadu neváže úřad jiný ani ČIŽP.
+
+#### H. Praktický závěr
+
+Kdo chce výrobní reziduum vyvést z odpadového režimu jako vedlejší produkt, musí být schopen kdykoli doložit všech pět podmínek § 8 odst. 1 — zejména jistotu odbytu a absenci zpracování nad běžnou výrobní praxi; jinak se uplatní fail-safe § 4 odst. 3 písm. c) a věc je odpadem se všemi povinnostmi.
+
+**Checklist (výrobce / odběratel / krajský úřad):**
+- [ ] Vzniká věc jako nedílná součást výrobního procesu (technologické schéma)?
+- [ ] Mám doloženu jistotu dalšího využití (smlouvy, evidence odběrů, existence trhu)?
+- [ ] Obejde se využití bez zpracování přesahujícího běžnou výrobní praxi?
+- [ ] Je využití v souladu se sektorovými předpisy (krmiva, hnojiva, REACH) a nezávadné pro ŽP a zdraví?
+- [ ] Existují materiálová kritéria vyhláškou/předpisem EU? Pokud ano: vzorkování, zkoušení a průvodní dokumentace (včetně jejího předávání podle § 8 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** rámcové smlouvy a evidence odběrů, technologická dokumentace, doklady o souladu s krmivářskou/hnojivářskou legislativou, případná průvodní dokumentace, stanovisko či rozhodnutí krajského úřadu.
 
 ---
 
@@ -605,6 +901,43 @@ Tento aspekt je často podceněn — provozovatelé zařízení EoW musí zajist
 
 > **Praktická poznámka — průmyslová symbioza:** Institut konce stavu odpadu je klíčovým enablerem **industriální symbiózy** (využívání vedlejších toků jednoho podniku jako vstupů jiného). Bez něj by mezi podniky musely být uskutečňovány převody odpadu se všemi formalitami (smlouva s oprávněnou osobou, evidence, hlášení, omezení pohybu materiálu). S využitím § 9 lze materiály cirkulovat jako standardní výrobky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost METALREC s.r.o. provozuje zařízení na úpravu železného šrotu; šrot třídí, stříhá a dodává hutím jako „výrobek — ocelový šrot" s odvoláním na nařízení (EU) č. 333/2011. Kontrola ČIŽP zjistí, že společnost nemá funkční systém řízení jakosti podle čl. 5 a 6 nařízení (chybí vstupní kontroly a monitorování kritérií) a část dodávek vykazuje nadlimitní znečištění oleji. Důkazy: dokumentace systému řízení jakosti, prohlášení o shodě k jednotlivým dodávkám, záznamy vstupní kontroly, protokoly o vzorkování výstupů, evidence podle § 9 odst. 6.
+
+**2. Právní otázka.** Nastal u dodávaného šrotu konec stavu odpadu podle § 9 odst. 1 ve spojení s nařízením (EU) č. 333/2011, a jaké důsledky má nesplnění unijních kritérií?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 (EoW při splnění kritérií předpisu EU + ověření + technické požadavky + nezávadnost + průvodní dokumentace), odst. 5 (předávání s průvodní dokumentací), odst. 6 (evidence v zařízení).
+- *Související ustanovení téhož zákona:* § 10 (povolení KÚ pro materiály bez unijních kritérií), § 11 odst. 1 písm. i) (využití), § 21 (povolení provozu zařízení), příloha č. 4 body 1–3 (zpracování do výrobku).
+- *Související předpisy:* nařízení (EU) č. 333/2011 (kritéria EoW pro železný, ocelový a hliníkový šrot — kvalita vstupů a výstupů, prohlášení o shodě, systém řízení); čl. 6 WFD; nařízení REACH (registrace látky po konci odpadového režimu); nařízení (ES) č. 1013/2006 (přeprava odpadů).
+- *Judikatura:* SDEU C-60/18 Tallinna Vesi (bez stanovených kritérií či individuálního aktu nelze konec stavu odpadu nárokovat; stát má prostor pro uvážení); C-629/19 Sappi Austria (odpad přestává být odpadem až úplným splněním podmínek využití a nezávadnosti).
+
+**4. Subsumpce.** Konec stavu odpadu podle § 9 odst. 1 nastává jen při kumulativním splnění všech kritérií nařízení č. 333/2011 — včetně formálních složek (systém řízení jakosti, prohlášení o shodě) a kvalitativních limitů (cizorodé látky). Chybí-li funkční systém řízení, není splnění kritérií průkazně ověřeno a EoW nenastává; nadlimitně znečištěné šarže nesplňují kritéria ani materiálně. Dodávky tedy byly právně předáváním odpadu: huť musela být zařízením oprávněným odpad přijmout, přeprava podléhala odpadové evidenci a u přeshraničních dodávek nařízení č. 1013/2006.
+
+**5. Řešení.** Posouzení se provádí po šaržích: u šarží bez prokázaného splnění kritérií platí plný odpadový režim se zpětnými důsledky (evidence, riziko nedovolené přepravy). Provozovatel musí obnovit systém řízení, doložit vzorkování výstupů a vystavovat prohlášení o shodě; do té doby dodávat šrot pouze zařízením s odpovídajícím oprávněním (u huti dle přílohy č. 4 pak odpad zaniká zpracováním do výrobku podle § 9 odst. 4). Souběžně prověřit povinnost registrace REACH pro období, kdy EoW nastával řádně.
+
+**6. Varianty.** (i) Šrot je dodáván přímo do hutního zařízení uvedeného v bodech 1–3 přílohy č. 4 — odpadem přestává být automaticky zpracováním do výrobku (odst. 4); prohlášení o shodě podle nařízení pak není podmínkou. (ii) Materiál bez unijních kritérií (např. betonový recyklát) — cesta vede přes § 9 odst. 2 a individuální povolení krajského úřadu podle § 10; bez něj recyklát zůstává odpadem.
+
+#### G. Protiargumenty a rizika
+
+- **„Faktická kvalita šrotu byla vyhovující; formální nedostatky systému řízení nemohou založit odpadovost."** Neutralizace: kritéria nařízení č. 333/2011 jsou kumulativní a systém řízení je konstitutivní podmínkou — bez něj nelze splnění kritérií průkazně ověřit; SDEU (Tallinna Vesi, Sappi Austria) zdůrazňuje, že EoW bez naplnění stanovených podmínek nenastává.
+- **„Huť šrot stejně přetavila, výsledek je týž."** Neutralizace: rozhodný je právní režim materiálového toku (oprávněnost zařízení, evidence, přeprava); následné zpracování protiprávnost předchozích předání nezhojí.
+- **Slabé místo:** zpětné dokazování kvality jednotlivých šarží je obtížné; správní orgán nese důkazní břemeno nadlimitního znečištění, provozovatel naopak břemeno průkazu splnění kritérií — výsledek často závisí na kvalitě archivované dokumentace.
+
+#### H. Praktický závěr
+
+Konec stavu odpadu je podmíněný právní stav, nikoli obchodní deklarace: provozovatel jej musí být schopen doložit pro každou šarži (kritéria, ověření, průvodní dokumentace) a počítat s tím, že po EoW přebírá povinnosti výrobkové a chemické legislativy (REACH, CLP).
+
+**Checklist (provozovatel zařízení / odběratel / ČIŽP):**
+- [ ] Existují pro daný materiál unijní či národní EoW kritéria (odst. 1), nebo je nutné povolení KÚ (odst. 2 + § 10)?
+- [ ] Jsou kritéria plněna a ověřována (vstupní kontrola, vzorkování, zkoušení) u každé šarže?
+- [ ] Je vystavována a předávána průvodní dokumentace (odst. 5) a vedena evidence (odst. 6)?
+- [ ] Je zajištěna registrace REACH / klasifikace CLP a bezpečnostní listy po výstupu z odpadového režimu?
+- [ ] U dodávek do zahraničí: je vyloučeno riziko nedovolené přepravy odpadů podle nařízení č. 1013/2006?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace systému řízení jakosti, prohlášení o shodě, protokoly o vzorkování a zkouškách, evidence zařízení, smlouvy s odběrateli, registrační dokumentace REACH.
+
 ---
 
 ### § 10 — Povolení krajského úřadu k ukončení odpadového režimu
@@ -682,6 +1015,43 @@ Tato dvojí konzultační procedura zajišťuje meziresortní koordinaci (MŽP /
 #### Zrušení a změna povolení (odst. 6) — flexibilita ex post
 
 Povolení je revokovatelné při změně rozhodných okolností nebo při ztrátě podmínek splnění. Mechanizmus odpovídá charakteru povolení k využití odpadu (§ 21 a násl.) — nejde o statický akt, ale o dynamicky kontrolované oprávnění.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost RECYBET s.r.o. žádá krajský úřad o povolení provozu zařízení k využití odpadu (§ 21 odst. 2) spojené s povolením podle § 10, aby betonový recyklát z čisté betonové suti přestával být odpadem a mohl být prodáván jako kamenivo do podkladních vrstev komunikací. K žádosti doloží navržené parametry (§ 10 odst. 3 a 4), smlouvy s odběrateli, prohlášení o shodě s technickými normami pro kamenivo a výluhové testy. Krajská hygienická stanice však vydá negativní závazné stanovisko pro obavu z vyluhování kontaminantů. Důkazy: žádost s návrhem parametrů, vyjádření MPO, závazné stanovisko KHS, protokoly o výluhových testech, doklady o poptávce.
+
+**2. Právní otázka.** Jaké podmínky musí žadatel prokázat pro vydání povolení podle § 10 odst. 1 a jak se procesně vypořádat s negativním závazným stanoviskem krajské hygienické stanice?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 písm. a)–d) (běžné využití, trh/poptávka, technické požadavky, soulad s právem a nezávadnost), odst. 3 (sedm povinných náležitostí rozhodnutí), odst. 5 (vyjádření MPO + závazné stanovisko KHS), odst. 6–7 (změna a zrušení povolení).
+- *Související ustanovení téhož zákona:* § 9 odst. 2 (case-by-case EoW), § 21 odst. 2 (povolení provozu zařízení, jehož je EoW povolení součástí).
+- *Související předpisy:* § 149 správního řádu (závazná stanoviska a jejich přezkum); s. ř. s. (žaloba proti rozhodnutí); technické normy pro kamenivo (řada ČSN EN 13242).
+- *Judikatura:* rozšířený senát NSS k přezkumu závazných stanovisek (přezkoumávají se v rámci žaloby proti konečnému rozhodnutí); SDEU C-60/18 Tallinna Vesi (na přiznání konce stavu odpadu není bez splnění podmínek právní nárok, stát disponuje uvážením).
+
+**4. Subsumpce.** Podmínky písm. a) a b) jsou doloženy zavedenou praxí trhu se stavebními recykláty a smlouvami; písm. c) prohlášením o shodě s normami pro kamenivo. Spornou zůstává podmínka písm. d) (nezávadnost) — negativní stanovisko KHS je pro krajský úřad závazné, takže povolení nelze vydat, dokud stanovisko není změněno nebo zrušeno v přezkumu podle § 149 správního řádu. Klíčovým skutkovým bodem jsou výluhové testy a vymezení účelu užití (zakrytá konstrukce vozovky vs. volné rozprostření).
+
+**5. Řešení.** Žadatel: (i) doplní výluhové testy a zúží navržený účel (např. jen podkladní vrstvy pod zpevněným krytem), (ii) iniciuje nové posouzení KHS, případně podnět k přezkumu závazného stanoviska nadřízeným orgánem, (iii) proti zamítavému rozhodnutí podá odvolání a správní žalobu, v níž soud přezkoumá i zákonnost stanoviska KHS. Alternativně lze provozovat zařízení bez EoW — recyklát zůstane odpadem a jeho užití proběhne v režimu využití odpadu (zasypávání podle vyhlášky č. 273/2021 Sb.), což však omezuje okruh odběratelů.
+
+**6. Varianty.** (i) Žadatel doloží dřívější pravomocné povolení pro týž vstupní odpad, postup, výslednou věc i způsob využití — vyjádření MPO ani stanovisko KHS se podle odst. 5 věty druhé nevyžadují. (ii) Po vydání povolení se změní složení vstupní suti (příměsi) — krajský úřad povolení změní nebo zruší podle odst. 6; provozovatel, který změnu zamlčí, riskuje, že jeho výstup je nadále odpadem se všemi důsledky.
+
+#### G. Protiargumenty a rizika
+
+- **„Podmínky § 10 odst. 1 lze doložit prostým prohlášením žadatele."** Neutralizace: důkazní břemeno nese žadatel a podmínky jsou objektivní (existence trhu, technické normy, nezávadnost); bez ověřitelných podkladů (testy, smlouvy, vyjádření MPO) je žádost nedoložená.
+- **„Vázanost negativním stanoviskem KHS činí řízení nespravedlivým."** Neutralizace: závazné stanovisko podléhá přezkumu (§ 149 SŘ) i následnému soudnímu přezkumu v rámci žaloby proti rozhodnutí; obrana existuje, je jen procesně zprostředkovaná.
+- **Slabé místo:** chybí celostátní metodika kvalitativních kritérií pro stavební recykláty — praxe krajských úřadů je nejednotná a povolení vázané na jedno zařízení nezakládá precedens pro jiné žadatele (riziko nerovnosti v hospodářské soutěži).
+
+#### H. Praktický závěr
+
+Povolení podle § 10 je klíčovým nástrojem zhodnocení recyklátů: úspěch žádosti stojí na kvalitě navržených parametrů podle odst. 3 (navrhuje je sám žadatel — odst. 4) a na předjednání podkladů (MPO, KHS); provozovatel musí počítat s průběžnou kontrolou plnění a s revokovatelností povolení podle odst. 6.
+
+**Checklist (žadatel / krajský úřad):**
+- [ ] Navrhl jsem všech sedm parametrů rozhodnutí podle § 10 odst. 3 (vstupy, postup, kvalitativní kritéria, ověřování, okamžik EoW)?
+- [ ] Mám doloženo běžné využití a trh/poptávku (smlouvy, analýzy trhu, vyjádření MPO)?
+- [ ] Splňuje výsledná věc technické normy pro daný účel a mám výluhové/kvalitativní testy?
+- [ ] Je vyřešeno závazné stanovisko KHS (případně jeho přezkum podle § 149 SŘ)?
+- [ ] Mohu využít dřívější obdobné pravomocné povolení (odst. 5 věta druhá) k úspoře podkladů?
+
+**Typicky rozhodné důkazy / podklady:** návrh provozního řádu s parametry, výluhové a kvalitativní testy, smlouvy s odběrateli, vyjádření MPO, závazné stanovisko KHS, dřívější povolení.
 
 ---
 
@@ -839,6 +1209,43 @@ Odst. 3 definuje **shromažďování** jako zvláštní úkon nakládání s odp
 
 > **Oprávněná osoba — pojem implicitně užívaný:** ZO 541/2020 nedefinuje pojem „**oprávněné osoby**" výslovně v § 11, používá ho však průběžně (zejména § 13 a násl.) ve smyslu **provozovatele zařízení určeného pro nakládání s odpady** nebo **obchodníka/dopravce** podle vymezení v § 11 odst. 1 písm. f), p), r), s), t). Oprávněnou osobou je tedy souhrnně každá osoba s veřejnoprávním oprávněním (povolení/výjimka/souhlas) převzít odpad od původce a dále s ním nakládat v souladu s povolenými způsoby. Předání oprávněné osobě je centrální povinností původce (§ 15 ZO).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost PELETA s.r.o. vyrábí z odpadních směsných plastů (výmětů z dotřiďovací linky) pelety označované jako „alternativní palivo" pro cementárnu. V ročním hlášení vykazuje tuto činnost jako „recyklaci odpadu" a vstupní odpad skladuje v areálu zařízení po dobu až dvou a půl roku. Krajský úřad a ČIŽP prověřují správnost kvalifikace činnosti i dobu skladování. Důkazy: technologická dokumentace výroby pelet, smlouvy s cementárnou (určení výstupu ke spálení), provozní deník a evidence dob uskladnění, roční hlášení do ISPOP.
+
+**2. Právní otázka.** Je výroba pelet z odpadních plastů určených ke spálení v cementárně „recyklací odpadu" ve smyslu § 11 odst. 1 písm. l), a je skladování vstupního odpadu po dobu 2,5 roku v souladu s písm. n)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 písm. l) (recyklace — nezahrnuje energetické využití ani přepracování na palivo), písm. j) (energetické využití), písm. i) (využití), písm. n) (skladování nejdéle 1 rok před odstraněním / 3 roky před využitím), písm. q) a r) (zařízení).
+- *Související ustanovení téhož zákona:* § 3 odst. 2 (hierarchie — recyklace výše než energetické využití), § 21 (povolení zařízení a povolené činnosti), § 11 odst. 2 písm. l) (nezákonně soustředěný odpad).
+- *Související předpisy:* čl. 3 bod 17 WFD (definice recyklace); přílohy ZO s kódy způsobů využití (R1 energetické využití, R3 recyklace organických/plastových materiálů, R12 úprava).
+- *Judikatura:* SDEU C-228/00 Komise proti Německu (spoluspalování odpadu jako paliva v cementárně je využitím — kritérium hlavního účelu operace); pojmová judikatura SDEU k rozlišování využití a odstranění.
+
+**4. Subsumpce.** Výstup (pelety) je podle smluv určen ke spálení — definice recyklace v písm. l) výslovně vylučuje energetické využití i přepracování na materiály, které mají být použity jako palivo. Výroba pelet je proto úpravou odpadu (R12) předcházející energetickému využití (R1 v cementárně), nikoli recyklací (R3). Vykazování činnosti jako recyklace je nesprávné a zkresluje evidenci i statistiku plnění recyklačních cílů. Skladování 2,5 roku před využitím je v limitu 3 let podle písm. n) — ovšem jen probíhá-li v zařízení k tomu určeném a povoleném (písm. r)).
+
+**5. Řešení.** Provozovatel musí opravit kvalifikaci činnosti v hlášeních (úprava + následné energetické využití), uvést provozní řád do souladu s § 21 a hlídat maximální doby skladování. Pro plnění recyklačních cílů obcí či systémů nelze pelety vykazovat jako recyklát. Riziko: přestupek za nesprávnou evidenci a ohlašování; při překročení časových limitů by již nešlo o skladování, nýbrž o nezákonné soustředění odpadu s navazujícími opatřeními k nápravě.
+
+**6. Varianty.** (i) Z plastů se vyrábí regranulát vstupující do výroby nových výrobků — jde o recyklaci (R3) se všemi statistickými konsekvencemi a vyšším postavením v hierarchii. (ii) Pelety by byly skladovány před odstraněním — limit činí pouze 1 rok (písm. n)); po jeho marném uplynutí jde o nezákonné nakládání, nikoli skladování.
+
+#### G. Protiargumenty a rizika
+
+- **„Spálení v cementárně nahrazuje fosilní paliva a popel se stává součástí slínku — materiál se tedy zčásti recykluje."** Neutralizace: definice § 11 odst. 1 písm. l) přepracování na palivo z recyklace výslovně vylučuje; částečné materiálové využití popela nemění hlavní (energetický) účel operace — rozhodující je kritérium hlavního účelu.
+- **„Definice § 11 jsou jen technické názvosloví bez sankčních důsledků."** Neutralizace: na definice navazují povolení (§ 21), evidence, ohlašování, poplatky i plnění závazných cílů — chybná kvalifikace se přímo promítá do přestupkové odpovědnosti.
+- **Slabé místo:** u hraničních technologií (chemická recyklace, pyrolýza plastů) je kvalifikace sporná — je-li výstupem palivo, jde o energetické využití; je-li výstupem chemická surovina pro výrobu, lze hájit recyklaci; ustálená správní praxe zatím chybí.
+
+#### H. Praktický závěr
+
+Před zahájením i vykazováním činnosti vždy přiřaďte činnost přesnému pojmu § 11 (a odpovídajícímu R/D kódu): rozdíl mezi recyklací, energetickým využitím a úpravou determinuje povolení, evidenci, statistiku i poplatky; současně hlídejte časové limity skladování (1 rok před odstraněním, 3 roky před využitím) a režim zařízení.
+
+**Checklist (provozovatel / původce / krajský úřad):**
+- [ ] Odpovídá kvalifikace činnosti definicím § 11 odst. 1 (recyklace vs. energetické využití vs. úprava)?
+- [ ] Je určení výstupu (výrobek vs. palivo) doloženo smlouvami a technologií?
+- [ ] Jsou dodrženy limity skladování odpadu (1 rok / 3 roky) a status zařízení podle písm. q) a r)?
+- [ ] Je činnost správně promítnuta do evidence a ročního hlášení (R/D kódy)?
+- [ ] U komunálního odpadu: odpovídá vymezení toku definici § 11 odst. 2 písm. a) (vyloučení odpadu z výroby a stavebního odpadu)?
+
+**Typicky rozhodné důkazy / podklady:** provozní řád a povolení zařízení, technologická dokumentace, smlouvy o odbytu výstupů, evidence a hlášení ISPOP, záznamy o dobách uskladnění.
+
 ---
 
 ### § 12 — Předcházení vzniku odpadu
@@ -904,6 +1311,43 @@ Odst. 4 a 5 zavádějí **dvě situace**, kdy věc **se nestává odpadem**, jel
 Tato dvě ustanovení odlišují **systém opětovného použití** od systému nakládání s odpadem a vytvářejí právní prostor pro fungování re-use center, second-hand shopů, charitativních systémů (Diakonie, Charita, Emaus apod.) a darovacích portálů. Klíčová podmínka: věc musí být **fakticky použitelná k původnímu účelu** v souladu s jinými právními předpisy (typicky: u elektrospotřebičů a hraček vyhláška o bezpečnosti výrobků; u textilu, oděvů, nábytku obecné zákonné požadavky).
 
 > **Výkladová poznámka — vztah § 12 odst. 4–5 a § 11 odst. 1 písm. b):** Pojem **„opětovné použití"** (§ 11 odst. 1 písm. b) předpokládá, že věc **není odpadem**. § 12 odst. 4 a 5 normativně potvrzují tento status: věc předaná k opětovnému použití nikdy nevstoupí do odpadového režimu. Tím se opětovné použití zásadně odlišuje od „**přípravy k opětovnému použití**" (§ 11 odst. 1 písm. m), která je naopak způsobem využití odpadu — věc je nejprve odpadem a teprve po kontrole/čištění/opravě přestává být odpadem (§ 9 odst. 3).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Restaurace (podnikající fyzická osoba) kompostuje v kompostéru na svém dvoře rostlinné odřezky z přípravy jídel a kompost používá na vlastní bylinkové záhony. Do kompostéru však ukládá i zbytky uvařených pokrmů obsahující maso. Soused si stěžuje na zápach; kontrolu zahájí obecní úřad obce s rozšířenou působností. Důkazy: složení ukládaného materiálu (fotodokumentace, svědectví), technologie a vedení kompostování (aerace, překopávání), doklady o použití kompostu, případná registrace podle zákona o hnojivech (při předávání kompostu).
+
+**2. Právní otázka.** Za jakých podmínek je kompostování kuchyňských zbytků restaurace předcházením vzniku odpadu podle § 12 odst. 3, a kdy se ukládaný materiál či výsledný kompost stávají odpadem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 3 — podmínky prevenční výjimky (vlastní materiál, použití či předání podle zákona o hnojivech, bez ohrožení ŽP a zdraví, řízený aerobní rozklad bez zápachu a emisí metanu u PO/PFO, živočišný materiál jen ve schváleném zařízení) + pravidlo „kompost neuplatněný = odpad".
+- *Související ustanovení téhož zákona:* § 12 odst. 1 (obecná prevenční povinnost), § 11 odst. 2 písm. d) (biologický odpad), § 3 odst. 2 (prevence jako první stupeň hierarchie), § 2 odst. 2 písm. e) (relativní výluka pro VPŽP).
+- *Související předpisy:* nařízení (ES) č. 1069/2009 (vedlejší produkty živočišného původu — kuchyňský odpad kat. 3 a požadavky na zpracovatelská zařízení); zákon č. 156/1998 Sb., o hnojivech.
+- *Judikatura:* SDEU C-121/03 Komise proti Španělsku (zemědělské biomateriály unikají odpadovému režimu jen při jistém a řádném využití v souladu s praxí); obecný závěr o restriktivním výkladu výjimek z odpadového režimu.
+
+**4. Subsumpce.** Rostlinné odřezky jsou vlastním biologicky rozložitelným materiálem z činnosti restaurace; jejich kompostování s použitím kompostu na vlastních záhonech podmínky odst. 3 splňuje. Sporné body: (i) zápach indikuje porušení povinnosti PFO řídit proces jako aerobní rozklad „bez vzniku zápachu" — tím padá jedna z podmínek výjimky; (ii) zbytky pokrmů s masem jsou biologickým materiálem živočišného původu, jehož kompostování je dovoleno pouze v zařízení splňujícím požadavky nařízení č. 1069/2009 — dvorní kompostér je nesplňuje, tato frakce je tedy odpadem (biologicky rozložitelný odpad z kuchyní a stravoven, kód 20 01 08) a musí být předána oprávněné osobě.
+
+**5. Řešení.** Restaurace musí oddělit toky: rostlinné odřezky smí kompostovat (při řízené aeraci bez zápachu), gastroodpad se živočišnou složkou předávat do schváleného zařízení (kompostárna či bioplynová stanice splňující požadavky na VPŽP). Při zjištěném porušení hrozí přestupek a nápravná opatření; zápach je třeba odstranit úpravou technologie (poměr materiálů, překopávání, vlhkost). Kompost nepoužitý ve vlastní činnosti ani nepředaný v režimu zákona o hnojivech je odpadem; jiné výstupy z kompostování (výluh, nedokompostovaný zbytek) jsou odpadem vždy.
+
+**6. Varianty.** (i) Tytéž zbytky kompostuje nepodnikající domácnost — povinnost řízené aerace podle věty druhé na ni nedopadá (platí jen pro PO/PFO); obecné podmínky (nezávadnost, vlastní použití kompostu) však platí i pro ni. (ii) Restaurace začne kompost prodávat zákazníkům — předání mimo vlastní činnost vyžaduje soulad se zákonem o hnojivech (registrace); bez něj se kompost stává odpadem.
+
+#### G. Protiargumenty a rizika
+
+- **„Kompostování je vždy environmentálně prospěšné, podmínky odst. 3 jsou přepjatý formalismus."** Neutralizace: podmínky brání tomu, aby se pod záminkou „kompostování" legalizovalo faktické hromadění a anaerobní rozklad bioodpadu se zápachem, emisemi metanu a hygienickými riziky; bez nich by prevenční výjimka prolamovala celý odpadový režim.
+- **„Zbytky jídel jsou biologicky rozložitelný materiál z vlastní činnosti, tedy kryté výjimkou."** Neutralizace: pro materiál živočišného původu obsahuje odst. 3 zvláštní přísnější pravidlo (jen zařízení splňující požadavky nařízení č. 1069/2009) — jde o lex specialis, který obecnou výjimku zužuje.
+- **Slabé místo:** pojmy „ohrožení životního prostředí nebo zdraví lidí" a „bez vzniku zápachu" jsou neurčité a důkazně závislé na měřeních či svědectvích; chybí metodika odlišení běžného pachu kompostu od závadného stavu.
+
+#### H. Praktický závěr
+
+§ 12 staví prevenci na první místo hierarchie: podnikatelé mohou bioodpadu předcházet vlastním kompostováním a dále použitelné věci předávat k opětovnému použití (odst. 4 a 5), vždy ale jen v mezích kumulativních podmínek — jinak materiál právně „spadne" do odpadového režimu se všemi povinnostmi (zařazení, evidence, předání oprávněné osobě).
+
+**Checklist (provozovatel / obec / kontrolní orgán):**
+- [ ] Pochází kompostovaný materiál výhradně z vlastní činnosti osoby?
+- [ ] Je vyloučena (nebo oddělena) složka živočišného původu, případně zajištěno schválené zařízení podle nařízení č. 1069/2009?
+- [ ] Je proces u PO/PFO řízen aerobně, bez zápachu a emisí metanu (doložitelná technologie)?
+- [ ] Je kompost použit ve vlastní činnosti, nebo předáván v souladu se zákonem o hnojivech?
+- [ ] U opětovného použití (odst. 4–5): je věc fakticky použitelná k původnímu účelu a je předání doložitelné?
+
+**Typicky rozhodné důkazy / podklady:** evidence vstupů do kompostování, technologický postup a záznamy o překopávání/teplotách, doklady o použití či předání kompostu, registrace podle zákona o hnojivech, doklady o předávání gastroodpadu oprávněné osobě.
 
 ---
 
