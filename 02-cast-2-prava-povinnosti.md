@@ -42,6 +42,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 131/2019 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699159) — 10. 2. 2022
+  > „Taková právnická osoba musí nakládat s odpady pouze v zařízeních, která jsou k nakládání s odpady podle zákona o odpadech určena [viz § 12 odst. 2 zákona o odpadech, obdobně též § 13 odst. 1 písm. b) zákona č. 541/2020 Sb., o odpadech]. Zákon o odpadech … předpokládá, že s odpady bude nakládat pouze vymezený okruh kvalifikovaných osob, jejichž výběr má zajistit příslušný správní úřad prostřednictvím vydávání povolení k provozu vhodných zařízení k nakládání s odpady"
+- *NSS* [3 As 48/2021 - 51](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/711410) — 30. 5. 2023
+  > „z textu obou zákonných ustanovení je zřejmé, že vyjetý motorový olej lze považovat za olej odpadní, se kterým lze nakládat jen v zařízeních k tomu určených (§ 12 odst. 2 zákona o odpadech a § 13 odst. 1 písm. b) nového zákona o odpadech). … Vyjetý motorový olej tedy byl a je kontinuálně považován za odpad, jehož další zpracování či využití podléhá zákonu o odpadech a další právní úpravě"
+
 #### Adresát „každý" — univerzální působnost (odst. 1)
 
 § 13 je **klíčovým a vstupním ustanovením** věcné regulace odpadového hospodářství. Volba formulace „**každý je povinen**" má normativně významný dopad: povinnosti nejsou adresovány toliko podnikatelům, provozovatelům či původcům odpadu v technickém smyslu, nýbrž jakékoliv fyzické či právnické osobě, která se s odpadem v jakékoliv fázi nakládání ocitne. Tato univerzální působnost přesahuje rozsah definice „původce odpadu" podle § 4 a v praxi pokrývá i osoby, které nejsou ani provozovatelem zařízení, ani profesionálním nakladatelem (například nepodnikající fyzickou osobu při domácím nakládání).
@@ -1071,6 +1078,11 @@ Provozovatel skládky je povinen ověřovat splnění podmínek výhřevnosti a 
 - Případy, kdy zařízení na využití odpadu (smluvní partner původce) je z technických důvodů mimo provoz nebo jeho provoz je omezen.
 
 **Zákaz ukládání nebezpečných odpadů**, které lze technicky zpracovat ve spalovnách nebezpečného odpadu nebo v jiných českých zařízeních pro materiálové nebo energetické využití (§ 40 odst. 4).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [37 A 73/2024 - 103](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743313) — 18. 6. 2025
+  > „Soud souhlasí s žalovaným, že rozšiřování ZEVO na území ČR je logickým krokem, neboť česká i evropská legislativa do budoucna (od 1. 1. 2030) zakazují ukládání některých druhů odpadů na skládky (viz § 40 zákona o odpadech …). Odpady je potřeba vhodným způsobem likvidovat nebo (lépe) využívat. Nelze-li totiž vzniku odpadu předejít, pak je prioritou odpadového hospodářství jeho příprava k opětovnému použití, recyklace, jiné využití, včetně energetického využití, a není-li možné ani to, jeho odstranění …"
 
 ##### F. Kazuistika
 

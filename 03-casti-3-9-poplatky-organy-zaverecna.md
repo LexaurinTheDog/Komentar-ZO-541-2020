@@ -119,6 +119,11 @@ Průběžná evidence se vede odděleně za každý druh odpadu, každé zaříz
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 61/2020 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/706251) — 12. 10. 2022
+  > „…byla stejná skutková podstata [povinnost provozovatele zařízení zaslat hlášení z evidence za uplynulý kalendářní rok do určitého dne následujícího kalendářního roku] upravena v § 95 odst. 4 zákona č. 541/2020 Sb., o odpadech … a její porušení bylo dle 121 odst. 4 písm. e), odst. 5 písm. b) … sankcionováno pokutou až do výše 1 000 000 Kč, tj. ve stejné výši jako v případě zrušeného zákona o odpadech. Z uvedeného je tak zřejmé, že skutkové podstaty, kterými byl žalobce shledán vinným, nebyly nikterak obsahově změněny"
+
 #### Architektura ohlašovacích povinností — pětistupňová
 
 § 95 vytváří **vícevrstvou strukturu** ohlašovacích povinností, která má zajistit ucelenou datovou základnu odpadového hospodářství:
@@ -1152,6 +1157,11 @@ Poplatkové období je kalendářní čtvrtletí: určuje rámec vyúčtování 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [141 A 9/2024 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740650) — 10. 3. 2025
+  > „Soud souhlasí s citovaným názorem žalovaného v tom směru, že samotná skutečnost, že žalobce je příjemcem poplatku za ukládání odpadů na skládku, nezakládá jeho účastenství ve správním řízení o uložení opatření k nápravě dle § 27 odst. 2 správního řádu, protože se nejedná o přímé dotčení práv žalobce. … Dle názoru soudu obdobně stanoví § 110 odst. 1 zákona o odpadech, že část výnosu z poplatku za ukládání odpadů na skládku připadá obci, z čehož však nelze dovozovat přímé dotčení práv obce"
+
 #### Sdílení výnosu — SFŽP + obec
 
 Poplatek je **sdíleným příjmem** dvou rozpočtů:
@@ -1790,6 +1800,11 @@ Nejvyšší sazba 25 mil. Kč se aplikuje zejména na:
 - nepovolené mísení NO (odst. 3 písm. c)),
 - nakládání s POPs bez splnění požadavků (odst. 3 písm. q)),
 - nedovolenou přeshraniční přepravu odpadu podle nařízení (ES) č. 1013/2006 (odst. 4 písm. g), h), i)).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 158/2024 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739549) — 4. 3. 2025
+  > „V případě skutku, kterým došlo k naplnění skutkové podstaty přestupku podle zákona o odpadech je podstatné, že stěžovatelka porušila obecnou povinnost stanovenou v § 13 odst. 1 písm. b) zákona o odpadech… Právně významným následkem je v daném případě nedodržování stanovených pravidel při nakládání s odpady a nedostatečné zajištění pořádku na úseku nakládání s odpady. … což konstituuje existenci dvou samostatných skutků, o nichž je možné vést samostatná řízení a samostatně je postihnout"
 
 #### F. Kazuistika
 
@@ -2435,6 +2450,11 @@ Hygienická větev vstupuje do povolování zařízení závaznými stanovisky K
 > *(3) Inspekce spolupracuje s obecními úřady, orgány ochrany veřejného zdraví, celními úřady, Státním fondem životního prostředí České republiky, Hasičským záchranným sborem České republiky a Policií České republiky, popřípadě dalšími správními úřady, kraji a obcemi a poskytuje jim odbornou pomoc.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 116/2025 - 86](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769619) — 29. 1. 2026
+  > „Kompetenční ustanovení § 134 odst. 1 písm. a) zákona o odpadech poté zmocňuje žalovanou inspekci mj. ke kontrole podnikajících fyzických osob. … inspekce je oprávněna ke kontrole mnohem širší kategorie fyzických osob, než pouze „podnikajících fyzických osob podle živnostenského zákona“. … Ani samotné zrušení živnostenského (podnikatelského) oprávnění či přerušení jeho výkonu tak nemá vliv na posouzení činnosti osoby za podnikání (byť neoprávněného), pokud fakticky tyto znaky její činnost splňuje"
 
 #### ČIŽP jako odborná kontrolní instituce
 
@@ -3223,6 +3243,11 @@ Veškerá rozhodovací a kontrolní agenda obcí a krajů podle tohoto zákona j
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 324/2022 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720971) — 26. 4. 2024
+  > „Podle § 153 odst. 1 zákona č. 541/2020 Sb., o odpadech (který nahradil zákon č. 185/2001 Sb.), platí, že řízení zahájená podle zákona č. 185/2001 Sb. … se dokončí podle zákona č. 185/2001 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona. Jelikož bylo posuzované správní řízení zahájeno za účinnosti zákona č. 185/2001 Sb., ze shora uvedené citace přechodného ustanovení je patrné, že správní orgány (potažmo krajský soud) postupovaly správně, pokud na věc aplikovaly aktuálně již neúčinný zákon č. 185/2001 Sb"
+
 #### Pravidlo „tempus regit actum" — staré řízení podle starého zákona
 
 Klasická intertemporální klauzule: **probíhající řízení** se dokončí podle **starého zákona** (185/2001), aby nedošlo k překvapivému zhoršení procesního postavení účastníka. Toto pravidlo je **slabší** než pravidlo zákazu retroaktivity hmotného práva — týká se jen procesu.
@@ -3325,6 +3350,11 @@ Princip: evidence a hlášení „za starý rok postaru" — nový režim § 95 
 ---
 
 ### § 155 — Přechodná ustanovení k poplatkům a opuštěným zařízením
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [43 Af 9/2022 - 175](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745011) — 4. 8. 2025
+  > „Ústavní soud sice po vydání prvního rozsudku ve věci nálezem ze dne 12. 3. 2025, sp. zn. Pl. ÚS 21/21, zrušil § 155 odst. 4 nového zákona o odpadech, jde-li o základní složku poplatku za ukládání odpadu podle § 45 odst. 1 zákona o odpadech. … § 155 odst. 4 nového zákona o odpadech hovoří o odpadech využitých v první fázi skládky, a v daném případě tedy na věc nijak nedopadá…"
 
 #### Klíčové pravidlo odst. 3 — staré poplatky se řídí starým zákonem
 

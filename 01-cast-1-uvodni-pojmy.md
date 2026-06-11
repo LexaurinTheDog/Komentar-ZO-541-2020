@@ -338,6 +338,11 @@ Každé rozhodnutí i výkladová volba podle ZO musí obstát v testu hierarchi
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [141 A 30/2024 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741741) — 24. 3. 2025
+  > „…rozhodování v pochybnostech o odpadovém režimu se má týkat movité věci v době rozhodování aktuálně existující, a to při zohlednění kvalit či vlastností, kterými je v době rozhodování movitá věc již nadána. Naproti tomu není smyslem řízení v pochybnostech dle § 4 odst. 4 zákona o odpadech, aby v jeho rámci bylo spekulováno o povaze movité věci dosud neexistující či aby v něm byl odpadový režim posuzován na základě vlastností a kvalit, jichž může věc v budoucnu teprve nabýt"
+
 #### Trojice znaků pojmu odpadu (odst. 1) — věcný, behaviorální a kvalifikační znak
 
 Legální definice odpadu je **doslovnou transpozicí čl. 3 bodu 1 WFD** a obsahuje tři kumulativní znaky:
@@ -615,6 +620,11 @@ Zařazení odpadu je první a determinující krok nakládání: u zrcadlových 
 > *(5) Ministerstvo a Ministerstvo zdravotnictví stanoví vyhláškou doplňující limitní hodnoty a kritéria pro nebezpečné vlastnosti odpadu uvedené v příloze přímo použitelných předpisů Evropské unie o nebezpečných vlastnostech odpadů pod označeními HP 9, HP 14 a HP 15.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 200/2024 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737997) — 7. 1. 2025
+  > „Pokud by se totiž na skládce nacházel nebezpečný odpad, byla by stavba změnou zařízení na odstraňování nebezpečného odpadu skládkováním, která by, jak již bylo uvedeno výše, podléhala posouzení vlivů na životní prostředí. Skutečnost, zda se na skládce nachází nebezpečný odpad ve smyslu § 7 zákona o odpadech či nikoliv, je tedy zásadní pro posouzení, zda stavba podléhá posuzování vlivů na životní prostředí"
 
 #### Trojí způsob kvalifikace nebezpečného odpadu (odst. 1)
 
@@ -1119,6 +1129,11 @@ Povolení podle § 10 je klíčovým nástrojem zhodnocení recyklátů: úspěc
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 35/2022 - 103](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712497) — 8. 6. 2023
+  > „Výklad pojmů provozního řádu a integrovaného povolení s účinností od 1. 1. 2021 poskytuje ustanovení § 11 odst. 1 zákona č. 541/2020 Sb., o odpadech (pozn. městského soudu obdobně pojaté definice obsahoval § 4 odst. 1 předchozího zákona č. 185/2001 Sb., o odpadech): - podle písm. n) je skladováním odpadu uložení odpadů v zařízení k tomu určeném po dobu nejdéle 1 roku před jejich odstraněním nebo po dobu nejdéle 3 let před jejich využitím…"
+
 #### Systematika definičního ustanovení
 
 § 11 je **definiční norma** (legální definice) v rozsahu více než 30 pojmů; vytváří **interní glosář** ZO. Definice mají charakter **operacionálních pojmů** — pro účely zákona (a navazujících vyhlášek) jsou platné výhradně v rozsahu, v jakém je vymezuje § 11; mimo ZO mohou mít odlišný význam (např. pojem „obchodování" má v ZO odpadovou specifikaci, mimo ZO obecně-obchodní význam).
@@ -1263,6 +1278,11 @@ Před zahájením i vykazováním činnosti vždy přiřaďte činnost přesném
 > *(5) Platí, že movitá věc, kterou osoba předala na místo určené obcí a kterou je možné v souladu s jinými právními předpisy používat k původnímu účelu, se nestala odpadem, pokud byla předána k opětovnému použití.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 34/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-34-23_1) — nález, 28. 2. 2024
+  > „Podle § 12 odst. 1 zákona o odpadech totiž platí, že každý je povinen při své činnosti předcházet vzniku odpadu, omezovat jeho množství a nebezpečné vlastnosti. Vyhláška však tuto povinnost nestanoví, nesnaží se provádět samostatnou regulaci proti zákonu či vedle zákona, ale jen dává úlevu na poplatku těm, kteří v listině čestně prohlásí, že budou tuto povinnost (již beztak v zákoně stanovenou) plnit"
 
 #### Univerzální povinnost předcházení vzniku odpadu (odst. 1)
 
