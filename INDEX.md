@@ -17,3 +17,7 @@
 - **WSR 1013/2006** — přeshraniční přeprava odpadů
 - **ČIŽP** — dozor, sankce až 25 mil. Kč
 - **Účinnost 1. 1. 2021** (nahradil 185/2001 Sb.)
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
