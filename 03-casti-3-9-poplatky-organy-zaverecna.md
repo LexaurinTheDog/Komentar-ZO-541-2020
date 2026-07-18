@@ -91,6 +91,58 @@ Průběžná evidence se vede odděleně za každý druh odpadu, každé zaříz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0ebdc267f912948e3e6f generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 94
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Původce odpadu, provozovatel zařízení a obchodník s odpady jsou povinni vést průběžnou evidenci. Průběžná evidence se vede samostatně za každý druh odpadu, za každé zařízení určené pro nakládání s odpady, za každého obchodníka s odpady a za každou provozovnu, kde odpad vzniká. V případě vzniku odpadu mimo provozovnu a nakládání s odpady v mobilním zařízení k úpravě, využití nebo odstranění odpadu se průběžná evidence vede samostatně za každý správní obvod obce s rozšířenou působností a hlavního města Prahy.
+>
+> (2) Průběžná evidence je vedena způsobem, s četností záznamů a v rozsahu stanoveném vyhláškou ministerstva. Součástí průběžné evidence jsou alespoň údaje o osobě, zařízení nebo provozovně, za které je průběžná evidence vedena, druhu a kategorii odpadu, údaje o množství odpadu, způsobech nakládání s odpady, původcích odpadu, zařízeních určených pro nakládání s odpady nebo obchodnících s odpady, od kterých je odpad přebírán, a zařízeních určených pro nakládání s odpady nebo obchodnících s odpady, kterým je odpad předáván.
+>
+> (3) Původce odpadu, provozovatel zařízení a obchodník s odpady jsou povinni uchovávat průběžnou evidenci po dobu 5 let od provedení záznamu do evidence.
+>
+> (4) U odpadu perzistentních organických látek vymezeného vyhláškou ministerstva je součástí průběžné evidence rovněž údaj o obsahu perzistentních organických látek podle přílohy IV nařízení Evropského parlamentu a Rady (EU) [[2019/1021|2019/1021]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2019/1021 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ebdc267f912948e3e6f -->
+
 ### § 95 — Ohlašovací povinnost (roční hlášení)
 
 > **§ 95**
@@ -183,6 +235,72 @@ Limity 600 kg NO / 100 t OO se posuzují souhrnně za původce (IČO) a kalendá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0fe938351d1b4db66ffd generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 95
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel zařízení, obchodník s odpady, zprostředkovatel, s výjimkou dohodce podle zákona [[o komoditních burzách|o komoditních burzách]], a dopravce odpadu jsou povinni ohlásit údaje o zařízení určeném pro nakládání s odpady nebo o činnosti a údaje o zahájení, ukončení, přerušení nebo obnovení provozu zařízení nebo činnosti. Zahájení a obnovení provozu zařízení nebo činnosti jsou povinni ohlásit před jejich zahájením nebo obnovením. Přerušení nebo ukončení provozu zařízení nebo činnosti jsou povinni ohlásit do 15 dnů ode dne, kdy tato skutečnost nastala. Provozovatel zařízení podle § 21 odst. 3 je povinen ohlásit změnu údajů o zařízení vymezených vyhláškou ministerstva před zahájením provozu na základě změněných údajů.
+>
+> (2) Provozovatel skládky je povinen ohlásit do 28. února za předchozí kalendářní rok údaje o stavu vytvořené rezervy, doložené výpisem z účtu provozovatele skládky, údaje o volné kapacitě skládky a o poplatcích za ukládání odpadu na skládky.
+>
+> (3) Původce odpadu, který vyprodukoval nebo nakládal v uplynulém kalendářním roce s více než 600 kg nebezpečných odpadů, s více než 100 tunami ostatních odpadů nebo s odpadem perzistentních organických znečišťujících látek vymezeným vyhláškou ministerstva, je povinen zaslat do 28. února následujícího roku hlášení souhrnných údajů z průběžné evidence za uplynulý kalendářní rok.
+>
+> (4) Provozovatel zařízení, s výjimkou skladu odpadu podle přílohy č. 4 k tomuto zákonu bodu 12, a obchodník s odpady je povinen zaslat do 28. února následujícího kalendářního roku hlášení souhrnných údajů z průběžné evidence za uplynulý kalendářní rok. Provozovatel zařízení je povinen zaslat toto hlášení i v případě, že v zařízení nebylo po celý uplynulý kalendářní rok nakládáno s odpady, aniž by byl provoz zařízení celoročně přerušen. Hlášení nezasílá provozovatel zařízení a obchodník s odpady, jejichž provoz nebo činnost byly přerušeny po celý uplynulý kalendářní rok.
+>
+> (5) Obec, která je povinna zaslat hlášení podle odstavce 3, zasílá do 28. února následujícího roku hlášení o obecním systému za uplynulý kalendářní rok.
+>
+> (6) Hlášení podle odstavců 1 až 5 se zasílají ministerstvu prostřednictvím integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí nebo datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí podle zákona [[o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí|o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí]].
+>
+> (7) Ministerstvo stanoví vyhláškou
+>
+> - a) rozsah ohlašování údajů o zařízení nebo o činnosti a rozsah ohlašovaných údajů o zahájení, ukončení, přerušení nebo obnovení provozu zařízení nebo činnosti podle odstavce 1,
+>
+> - b) rozsah ohlašování údajů o stavu vytvořené rezervy, údajů o volné kapacitě skládky a údajů o poplatcích za ukládání odpadu na skládky podle odstavce 2,
+>
+> - c) rozsah hlášení souhrnných údajů z průběžné evidence za kalendářní rok podle odstavců 3 a [[#§ 4|4]] a
+>
+> - d) rozsah hlášení o obecním systému podle odstavce 5.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0fe938351d1b4db66ffd -->
+
 ### § 96 — Kontrola a zpracování hlášení; identifikační čísla zařízení (IČZ)
 
 > **§ 96**
@@ -273,6 +391,72 @@ Hlášení provozovatelů zařízení a skládek kontroluje krajský úřad (lh�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=44a930aa78e80fd84f1f generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 96
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Hlášení podle § 95 odst. 1 a [[#§ 2|2]] kontroluje a zpracovává krajský úřad příslušný podle místa zařízení určeného pro nakládání s odpady a podle sídla provozovatele mobilního zařízení, dopravce odpadu, obchodníka s odpady nebo zprostředkovatele. V případě dopravce odpadu nebo zprostředkovatele, který má sídlo mimo území České republiky, hlášení podle § 95 odst. 1 kontroluje a zpracovává Magistrát hlavního města Prahy. Krajský úřad kontroluje a zpracovává hlášení podle § 95 odst. 1 do 15 dnů od ohlášení a hlášení podle § 95 odst. 2 do 15. dubna kalendářního roku následujícího po kalendářním roce, za který je hlášení podáváno.
+>
+> (2) Hlášení podle § 95 odst. 3 až 5 kontroluje a zpracovává obecní úřad obce s rozšířenou působností příslušný podle místa provozovny, podle místa vzniku odpadu v případě vzniku odpadu mimo provozovnu, podle místa zařízení určeného pro nakládání s odpady, podle místa nakládání s odpadem v případě mobilních zařízení k úpravě nebo využití odpadu a podle sídla provozovatele nebo obchodníka s odpady v případě mobilních zařízení ke sběru odpadu nebo obchodníků s odpady. Obecní úřad obce s rozšířenou působností hlášení kontroluje a zpracovává do 30. dubna kalendářního roku následujícího po kalendářním roce, za který je hlášení podáváno.
+>
+> (3) Obecní úřad obce s rozšířenou působností a krajský úřad zasílají ministerstvu informace o každém rozhodnutí vydaném podle tohoto zákona, a to do 15 dnů ode dne nabytí jeho právní moci.
+>
+> (4) Pro účely plnění evidenčních a ohlašovacích povinností přiděluje krajský úřad zařízením určeným pro nakládání s odpady identifikační číslo zařízení současně s vydáním povolení provozu zařízení nebo vydáním integrovaného povolení podle zákona [[o integrované prevenci|o integrované prevenci]] nebo ohlášením zahájení provozu zařízení vymezených v příloze č. 4 k tomuto zákonu a malých zařízení. Obchodníkovi s odpady přiděluje krajský úřad identifikační číslo současně s vydáním povolení k obchodování s odpady. Při plnění evidenčních a ohlašovacích povinností je každý povinen přidělená identifikační čísla používat. Krajský úřad, který vydal povolení provozu mobilního zařízení, informuje krajský úřad, v jehož správním obvodu má provozovatel mobilního zařízení sídlo, o vydání tohoto povolení do 5 dnů ode dne jeho vydání. Krajský úřad, v jehož správním obvodu má provozovatel mobilního zařízení sídlo, přidělí provozovateli zařízení identifikační číslo zařízení do 5 dnů od obdržení informace podle věty čtvrté a zašle identifikační číslo mobilního zařízení na vědomí krajskému úřadu, který vydal povolení provozu.
+>
+> (5) Ministerstvo obrany nebo jím zřízená organizace pro správu a provoz objektů důležitých pro obranu státu ohlašují souhrnné údaje z průběžné evidence ministerstvu na elektronickém nosiči dat a provoz zařízení určených pro nakládání s odpady krajskému úřadu v listinné podobě nebo na elektronickém nosiči dat.
+>
+> (6) Informace o jednotlivých osobách zaslané podle § 95 odst. 1 až 5 se poskytují pouze orgánům veřejné správy a složkám integrovaného záchranného systému při řešení krizových situací nebo mimořádných událostí podle jiných právních předpisů18).
+>
+> (7) Ministerstvo stanoví vyhláškou
+>
+> - a) rozsah a způsob provádění kontroly a zpracování hlášení podle odstavců 1 a [[#§ 2|2]],
+>
+> - b) způsob zasílání informací o vydaných rozhodnutích a rozsah zasílaných údajů podle odstavce 3,
+>
+> - c) způsob přidělování identifikačních čísel zařízení a identifikačních čísel obchodníka s odpady podle odstavce 4 a
+>
+> - d) způsob ohlašování Ministerstvem obrany nebo jím zřízenou organizací pro správu a provoz objektů důležitých pro obranu státu podle odstavce 5.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 95, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=44a930aa78e80fd84f1f -->
+
 ## ČÁST ČTVRTÁ — Plány odpadového hospodářství (§§ 97–102)
 
 ### § 97 — Společná ustanovení
@@ -330,6 +514,54 @@ POH zpracovávají výhradně ministerstvo (POH ČR) a kraje (POH kraje); účel
 **Typicky rozhodné důkazy / podklady:** text OZV a usnesení zastupitelstva, POH kraje, stanoviska dozorových orgánů (MV, MŽP).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=588102b55dcb4d3f4eed generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 97 — Společná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Plán odpadového hospodářství v rozsahu stanoveném tímto zákonem zpracovávají ministerstvo a kraj.
+>
+> (2) Plán odpadového hospodářství se zpracovává za účelem vytváření podmínek pro předcházení vzniku odpadu a nakládání s ním podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=588102b55dcb4d3f4eed -->
 
 ### § 98 — Plán odpadového hospodářství ČR — obsah
 
@@ -452,6 +684,100 @@ POH ČR je strategický dokument: analytická část diagnostikuje stav, závazn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f908910511a5ed27cc84 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 98
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Návrh Plánu odpadového hospodářství České republiky zpracovává ministerstvo ve spolupráci s příslušnými orgány veřejné správy a veřejností podle zákona [[o posuzování vlivů na životní prostředí|o posuzování vlivů na životní prostředí]]. Návrh Plánu odpadového hospodářství České republiky projedná ministerstvo s kraji. Kraj sdělí ministerstvu své připomínky k návrhu Plánu odpadového hospodářství České republiky do 30 dnů ode dne jeho obdržení.
+>
+> (2) Plán odpadového hospodářství České republiky se skládá z části analytické, závazné a směrné.
+>
+> (3) Plán odpadového hospodářství České republiky schvaluje vláda.
+>
+> (4) Analytická část Plánu odpadového hospodářství České republiky obsahuje vyhodnocení stavu odpadového hospodářství České republiky, které zahrnuje
+>
+> - a) oblast předcházení vzniku odpadu včetně vyhodnocení nástrojů a opatření, které mohou být využity k předcházení vzniku odpadu,
+>
+> - b) výčet druhů, množství a zdroje vznikajících odpadů a posouzení vývoje jejich produkce a nakládání, včetně přeshraničního toku odpadů,
+>
+> - c) vyhodnocení stávajících systémů sběru a nakládání s odpady na území České republiky přinejmenším pro komunální odpad, směsný komunální odpad, biologicky rozložitelný odpad, odpady z obalů, nebezpečný odpad, stavební a demoliční odpad, výrobky s ukončenou životností, včetně tříděného sběru materiálově využitelných složek odpadu,
+>
+> - d) vyhodnocení sítě zařízení určených pro nakládání s odpady na území České republiky, včetně posouzení kapacit pro jednotlivé způsoby nakládání, posouzení nezbytných změn a doplnění systémů sběru a nakládání s odpady a výrobky s ukončenou životností s ohledem na jejich zlepšení v souladu s principy soběstačnosti a blízkosti, a
+>
+> - e) podklady pro získání informací nezbytných pro vypracování kritérií pro umístění a kapacity zařízení určených pro nakládání s odpady podporovaných z veřejných zdrojů, pokud je to s ohledem na plnění stanovených cílů nezbytné.
+>
+> (5) Závazná část Plánu odpadového hospodářství České republiky stanoví cíle a opatření pro předcházení vzniku odpadu a dále cíle a zásady odpadového hospodářství, opatření k jejich dosažení včetně preferovaných způsobů nakládání s odpady a soustavu indikátorů k hodnocení plnění cílů Plánu odpadového hospodářství pro
+>
+> - a) nakládání s komunálním odpadem, zejména směsným komunálním odpadem, potravinovým odpadem a biologicky rozložitelným odpadem,
+>
+> - b) nakládání se stavebním a demoličním odpadem,
+>
+> - c) nakládání s odpady z obalů,
+>
+> - d) nakládání s výrobky s ukončenou životností,
+>
+> - e) nakládání s odpady obsahujícími významné množství kritických surovin,
+>
+> - f) nakládání s nebezpečným odpadem a s ostatním odpadem,
+>
+> - g) přípravu na opětovné použití, recyklaci, využití a odstranění odpadů minimalizující nepříznivé dopady na životní prostředí,
+>
+> - h) snižování množství odpadů ukládaných na skládky, ve vztahu k biologicky rozložitelnému odpadu a splnění cílů pro omezení ukládání komunálního odpadu na skládky,
+>
+> - i) snižování podílu biologicky rozložitelné složky ve směsném komunálním odpadu a
+>
+> - j) omezování znečištění odpady soustředěnými mimo místa k tomu určená.
+>
+> (6) Směrná část Plánu odpadového hospodářství České republiky obsahuje
+>
+> - a) výčet nástrojů pro splnění cílů Plánu odpadového hospodářství České republiky,
+>
+> - b) kritéria hodnocení změn podmínek, na jejichž základě byl Plán odpadového hospodářství České republiky zpracován,
+>
+> - c) informace nezbytné pro vypracování kritérií pro umístění a kapacity zařízení určených pro nakládání s odpady podporovaných z veřejných zdrojů, pokud je to s ohledem na plnění stanovených cílů nezbytné, a
+>
+> - d) návrhy na potřebná zařízení určená pro nakládání s odpady nadregionálního významu, pokud je to s ohledem na plnění stanovených cílů nezbytné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f908910511a5ed27cc84 -->
+
 ### § 99 — Doba platnosti, hodnocení, zveřejnění POH ČR
 
 > **§ 99**
@@ -523,6 +849,58 @@ POH ČR se zpracovává nejméně na 10 let, každoročně se vyhodnocuje indik�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=55d7572a9442ddee7468 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 99
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Plán odpadového hospodářství České republiky se zpracovává na dobu nejméně 10 let a musí být změněn bezprostředně po každé zásadní změně podmínek, na jejichž základě byl zpracován.
+>
+> (2) Závazná část Plánu odpadového hospodářství České republiky, včetně jejích změn, je závazným podkladem pro zpracování plánů odpadového hospodářství krajů a podkladem pro zpracovávání územně plánovací dokumentace.
+>
+> (3) Ministerstvo každoročně vyhodnocuje pomocí soustavy indikátorů plnění cílů Plánu odpadového hospodářství České republiky a do 15. prosince kalendářního roku následujícího po 2 kalendářních letech, za které je vyhodnocení prováděno, zpracuje zprávu o plnění cílů Plánu odpadového hospodářství České republiky.
+>
+> (4) Plán odpadového hospodářství České republiky a jeho změny ministerstvo zveřejní na portálu veřejné správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=55d7572a9442ddee7468 -->
+
 ### § 100 — Plán odpadového hospodářství kraje — obsah
 
 > **§ 100**
@@ -590,6 +968,102 @@ POH kraje je regionální transpozicí POH ČR: cíle nesmí podkročit, struktu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=756abffc75ae70694dcf generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 100
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Krajský úřad zpracovává ve spolupráci s příslušnými orgány veřejné správy a veřejností podle zákona [[o posuzování vlivů na životní prostředí|o posuzování vlivů na životní prostředí]] plán odpadového hospodářství kraje pro území kraje a jeho změny.
+>
+> (2) Plán odpadového hospodářství kraje musí být v souladu se závaznou částí plánu odpadového hospodářství České republiky a jejími změnami.
+>
+> (3) Plán odpadového hospodářství kraje se skládá z části analytické, koncepční a směrné.
+>
+> (4) Analytická část plánu odpadového hospodářství kraje obsahuje vyhodnocení stavu odpadového hospodářství kraje, které zahrnuje
+>
+> - a) oblast předcházení vzniku odpadu včetně vyhodnocení nástrojů a opatření, které mohou být využity k předcházení vzniku odpadu,
+>
+> - b) výčet druhů, množství a zdroje vznikajících odpadů a posouzení vývoje jejich produkce a nakládání,
+>
+> - c) vyhodnocení stávajících systémů sběru a nakládání s odpady na území kraje přinejmenším pro komunální odpad, směsný komunální odpad, biologicky rozložitelný odpad, odpady z obalů, nebezpečný odpad, stavební a demoliční odpad, výrobky s ukončenou životností, včetně tříděného sběru materiálově využitelných složek odpadů,
+>
+> - d) vyhodnocení sítě zařízení určených pro nakládání s odpady na území kraje včetně posouzení kapacit pro jednotlivé způsoby nakládání, posouzení nezbytných změn a doplnění systémů sběru a nakládání s odpady a výrobky s ukončenou životností s ohledem na jejich zlepšení v souladu s principy soběstačnosti a blízkosti,
+>
+> - e) podklady pro získání informací nezbytných pro vypracování kritérií pro umístění a kapacity zařízení určených pro nakládání s odpady podporovaných z veřejných zdrojů, pokud je to s ohledem na plnění stanovených cílů nezbytné.
+>
+> (5) Koncepční část plánu odpadového hospodářství kraje obsahuje cíle a opatření pro předcházení vzniku odpadu a dále cíle, zásady a opatření k jejich dosažení včetně preferovaných způsobů nakládání a soustavu indikátorů k hodnocení plnění cílů plánu odpadového hospodářství kraje pro
+>
+> - a) nakládání s komunálním odpadem, zejména směsným komunálním odpadem a biologicky rozložitelnými odpady,
+>
+> - b) nakládání se stavebním a demoličním odpadem,
+>
+> - c) nakládání s odpady z obalů,
+>
+> - d) nakládání s výrobky s ukončenou životností,
+>
+> - e) nakládání s odpady obsahujícími významné množství kritických surovin,
+>
+> - f) nakládání s nebezpečným odpadem a s ostatním odpadem,
+>
+> - g) přípravu na opětovné použití, recyklaci, využití a odstranění odpadů minimalizující nepříznivé dopady na životní prostředí,
+>
+> - h) snižování množství odpadů ukládaných na skládky, zejména ve vztahu k biologicky rozložitelnému odpadu a splnění cílů pro omezení ukládání komunálního odpadu na skládky,
+>
+> - i) snižování podílu biologicky rozložitelné složky ve směsném komunálním odpadu a
+>
+> - j) omezování znečištění odpady soustředěnými mimo místa k tomu určená.
+>
+> (6) Směrná část plánu odpadového hospodářství kraje obsahuje
+>
+> - a) výčet nástrojů pro splnění cílů plánu odpadového hospodářství kraje,
+>
+> - b) kritéria hodnocení změn podmínek, na jejichž základě byl plán odpadového hospodářství kraje zpracován,
+>
+> - c) opatření pro omezování znečišťování odpady odloženými mimo místa určená,
+>
+> - d) kritéria pro typy, umístění a kapacity zařízení určených pro nakládání s odpady podporovaných z veřejných zdrojů a
+>
+> - e) záměry na uzavření stávajících zařízení určených pro nakládání s odpady a záměry na potřebná zařízení určená pro nakládání s odpady, pokud je to s ohledem na plnění stanovených cílů nezbytné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=756abffc75ae70694dcf -->
+
 ### § 101 — Procedurální pravidla zpracování POH kraje
 
 > **§ 101**
@@ -652,6 +1126,60 @@ Návrh POH kraje (a každé změny) se povinně zasílá MŽP; ministerstvo má 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=00e2388edc724c880c08 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 101
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Krajské úřady jsou povinny při zpracovávání plánů odpadového hospodářství kraje a jejich změn vzájemně spolupracovat.
+>
+> (2) Krajský úřad je povinen zpracovat a zveřejnit návrh plánu odpadového hospodářství kraje nebo jeho změny do 18 měsíců ode dne vydání závazné části Plánu odpadového hospodářství České republiky.
+>
+> (3) Plán odpadového hospodářství kraje se zpracovává na dobu nejméně 10 let a musí být změněn při každé zásadní změně podmínek, na jejichž základě byl zpracován, a to nejpozději do 18 měsíců ode dne změny podmínek.
+>
+> (4) Krajský úřad je povinen zaslat návrh plánu odpadového hospodářství kraje nebo jeho změny v elektronické podobě ministerstvu k posouzení. Ministerstvo zašle krajskému úřadu stanovisko k návrhu plánu odpadového hospodářství kraje nebo jeho změny do 2 měsíců ode dne jeho obdržení. Pokud ministerstvo nezašle stanovisko ve stanovené lhůtě, lze plán odpadového hospodářství kraje zveřejnit i bez jeho stanoviska.
+>
+> (5) V případě, že návrh plánu odpadového hospodářství kraje neobsahuje náležitosti stanovené tímto zákonem nebo není v souladu se závaznou částí Plánu odpadového hospodářství České republiky a jeho změnou, ministerstvo v rámci stanoviska podle odstavce 4 věty druhé sdělí krajskému úřadu své připomínky, v nichž upozorní na nedostatky z uvedených hledisek. Krajský úřad plán odpadového hospodářství nebo jeho změnu podle připomínek ministerstva upraví a v elektronické podobě zašle ministerstvu. V případě, že ministerstvo sdělí připomínky, lze plán odpadového hospodářství kraje zveřejnit až na základě potvrzení ministerstva o odstranění nedostatků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=00e2388edc724c880c08 -->
+
 ### § 102 — Účinky POH kraje a kontrolní mechanismus
 
 > **§ 102**
@@ -702,6 +1230,56 @@ POH kraje působí vůči ÚPD jako povinně zohledňovaný podklad: odchylka je
 **Typicky rozhodné důkazy / podklady:** POH kraje, odůvodnění ÚPD, námitky a jejich vypořádání, zprávy o plnění cílů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8701b264679d51a34198 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 102
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Plán odpadového hospodářství kraje je podkladem pro zpracovávání územně plánovací dokumentace kraje a obcí.
+>
+> (2) Krajský úřad každoročně vyhodnocuje pomocí soustavy indikátorů plnění cílů plánu odpadového hospodářství kraje a do 31. října kalendářního roku následujícího po 2 kalendářních letech, za které je vyhodnocení prováděno, zpracuje zprávu o plnění cílů plánu odpadového hospodářství kraje a tuto zprávu zašle do 15. listopadu ministerstvu.
+>
+> (3) Plán odpadového hospodářství kraje a jeho změny krajský úřad zveřejní na portálu veřejné správy a zašle ho ministerstvu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8701b264679d51a34198 -->
 
 ## ČÁST PÁTÁ — Poplatek za ukládání odpadů na skládku (§§ 103–115)
 
@@ -784,6 +1362,62 @@ Poplatníka určuje zákon trojím okruhem: pozbyvší vlastník (a), obec u sv�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7253440232b89fd48a0c generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 103 — Subjekt poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Poplatníkem poplatku za ukládání odpadů na skládku je
+>
+> - a) ten, kdo pozbývá vlastnické právo k odpadu, při jeho předání k uložení na skládku,
+>
+> - b) obec, pokud je původcem ukládaného komunálního odpadu, nebo
+>
+> - c) provozovatel skládky, pokud
+>
+> - 1. uložil odpad na jím provozovanou skládku, nebo
+>
+> - 2. určil odpad při jeho uložení na skládku jako technologický materiál pro technické zabezpečení skládky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7253440232b89fd48a0c -->
+
 ### § 104 — Předmět poplatku
 
 > **§ 104**
@@ -840,6 +1474,54 @@ Zpoplatněno je jen uložení odpadu v první fázi provozu skládky; odpad urč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bab95671ca2d1a654af7 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 104 — Předmět poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Předmětem poplatku za ukládání odpadů na skládku je uložení odpadu na jednotlivou skládku v rámci první fáze jejího provozu.
+>
+> (2) V případě uložení odpadu na skládku v rámci první fáze jejího provozu určeného provozovatelem skládky při jeho uložení jako technologický materiál pro technické zabezpečení skládky vzniká poplatková povinnost provozovateli skládky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bab95671ca2d1a654af7 -->
+
 ### § 105 — Osvobození od poplatku
 
 > **§ 105**
@@ -895,6 +1577,54 @@ Dvě osvobození: (i) odpad ukládaný v rámci řešení následků krizové si
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o krizovém stavu, potvrzení obcí o povodňovém původu odpadu, vážní lístky, evidence TZS, vyúčtování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c17d225e31e3ccb12eb5 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 105 — Osvobození od poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Od poplatku za ukládání odpadů na skládku se osvobozuje uložení odpadu na skládku v rámci řešení následků krizové situace podle [[krizového zákona|krizového zákona]].
+>
+> (2) Od poplatku za ukládání odpadů na skládku se osvobozuje uložení odpadu na skládku určeného provozovatelem skládky při jeho uložení jako technologický materiál pro technické zabezpečení skládky až do 25 % celkové hmotnosti odpadů uložených na skládku v poplatkovém období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c17d225e31e3ccb12eb5 -->
 
 ### § 106 — Základ poplatku (pět dílčích základů)
 
@@ -976,6 +1706,64 @@ Základ poplatku je součtem pěti dílčích základů; zatřídění odpadu p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3deed11588a0f89b4de4 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 106 — Základ poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Základem poplatku za ukládání odpadů na skládku je součet dílčích základů poplatku, které tvoří hmotnost
+>
+> - a) odpadů vymezených v § 40 odst. 1 v tunách v případě dílčího poplatku za ukládání využitelných odpadů,
+>
+> - b) nebezpečných odpadů, s výjimkou azbestu a odpadů podle písmene d), v tunách v případě dílčího poplatku za ukládání nebezpečných odpadů,
+>
+> - c) vybraných technologických odpadů v tunách v případě dílčího poplatku za ukládání vybraných technologických odpadů,
+>
+> - d) nebezpečných odpadů pocházejících z odstraňování nebo sanací ekologických zátěží vzniklých kontaminací horninového prostředí, podzemních nebo povrchových vod nebo stavebních konstrukcí, k níž došlo nakládáním s nebezpečnými látkami, pokud je odstranění těchto odpadů uložením na skládku hrazeno z veřejných prostředků v souladu s podmínkami, za kterých je možné tyto veřejné prostředky k tomuto účelu použít, v případě dílčího poplatku za ukládání sanačních odpadů a
+>
+> - e) odpadů neuvedených pod písmeny a) až d) a azbestu v tunách v případě dílčího poplatku za ukládání zbytkových odpadů.
+>
+> (2) Vybraným technologickým odpadem podle odstavce 1 písm. c) je odpad z průmyslové výroby, stavebnictví nebo energetiky, jehož vzniku nelze předejít, který není možné ani po úpravě využít a který stanoví vyhláškou ministerstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3deed11588a0f89b4de4 -->
+
 ### § 107 — Sazba poplatku (eskalační tabulka)
 
 > **§ 107**
@@ -1042,6 +1830,52 @@ Sazby určuje výlučně příloha č. 9: eskalace u využitelných odpadů (800
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=95e2596780c6f27d3e32 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 107 — Sazba poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Sazba poplatku za ukládání odpadů na skládku pro jednotlivé dílčí základy poplatku je stanovena v příloze č. 9 k tomuto zákonu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=95e2596780c6f27d3e32 -->
+
 ### § 108 — Výpočet poplatku
 
 > **§ 108**
@@ -1098,6 +1932,54 @@ Výpočet je dvoukrokový: dílčí základ (t) × sazba (Kč/t) za každou kate
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=06b046da3eb9d7146ae9 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 108 — Výpočet poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Poplatek za ukládání odpadů na skládku se vypočte jako součet dílčích poplatků.
+>
+> (2) Dílčí poplatek se vypočte jako součin dílčího základu poplatku a sazby pro tento dílčí základ poplatku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=06b046da3eb9d7146ae9 -->
+
 ### § 109 — Poplatkové období
 
 > **§ 109**
@@ -1144,6 +2026,52 @@ Poplatkové období je kalendářní čtvrtletí: určuje rámec vyúčtování 
 **Typicky rozhodné důkazy / podklady:** vážní lístky s datem a časem, provozní deník, čtvrtletní vyúčtování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=db3a72cd473a07f058ac generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 109 — Poplatkové období
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Poplatkovým obdobím poplatku za ukládání odpadů na skládku je kalendářní čtvrtletí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db3a72cd473a07f058ac -->
 
 ### § 110 — Rozpočtové určení poplatku
 
@@ -1217,6 +2145,56 @@ Výnos poplatku se dělí mezi SFŽP a obec (obce) podle bodu 2 přílohy č. 9;
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=02d84b6f1e4e4c09da4b generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 110 — Rozpočtové určení poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Výnos poplatku za ukládání odpadů na skládku s výjimkou výnosu podle odstavce 2 je příjmem rozpočtu Státního fondu životního prostředí České republiky a rozpočtu obce, na jejímž území se skládka nachází. Procentní podíly, kterými se tyto rozpočty podílejí na výnosu dílčích poplatků, jsou stanoveny v bodu 2 přílohy č. 9 k tomuto zákonu.
+>
+> (2) Část výnosu poplatku za ukládání odpadů na skládku ve výši dílčího poplatku za ukládání sanačních odpadů je příjmem rozpočtu obce, na jejímž území se skládka nachází.
+>
+> (3) Pokud se skládka nachází na území více obcí, část výnosu z poplatku za ukládání odpadů na skládku se mezi ně dělí podle celkové projektované kapacity skládky nacházející se na území jednotlivých obcí po odečtení zaplněné celkové projektované kapacity skládky ke dni posledního rozšíření skládky nacházející se na území těchto obcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=02d84b6f1e4e4c09da4b -->
+
 ### HLAVA II — Správce poplatku a správa poplatku
 
 ### § 111 — Obecná ustanovení o správě
@@ -1282,6 +2260,56 @@ Správa poplatku je dělená: SFŽP vyměřuje (platební výměr do 30 dnů od 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1a095a172a9e3c72ea6c generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 111 — Obecná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Správcem poplatku za ukládání odpadů na skládku je Státní fond životního prostředí České republiky.
+>
+> (2) Správu placení poplatku vykonává celní úřad. Místní příslušnost celního úřadu se řídí podle místa skládky.
+>
+> (3) Státní fond životního prostředí České republiky vydá do 30 dnů ode dne podání vyúčtování platební výměr, který zašle plátci poplatku a obci, popřípadě obcím, na jejichž území se skládka nachází.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a095a172a9e3c72ea6c -->
+
 ### § 112 — Plátce poplatku
 
 > **§ 112**
@@ -1341,6 +2369,56 @@ Provozovatel skládky je plátcem: poplatek od poplatníků vybírá (prakticky 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=435c892cb46ca33332e5 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 112 — Plátce poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Plátcem poplatku za ukládání odpadů na skládku je provozovatel skládky.
+>
+> (2) Plátce poplatku je povinen poplatek za ukládání odpadů na skládku od poplatníka vybrat.
+>
+> (3) Plátce poplatku je povinen odvést poplatek za ukládání odpadů na skládku správci poplatku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=435c892cb46ca33332e5 -->
+
 ### § 113 — Vyúčtování (čtvrtletní)
 
 > **§ 113**
@@ -1393,6 +2471,58 @@ Vyúčtování podává plátce čtvrtletně do 25 dnů po skončení období, v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=678c0019cf5074d81238 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 113 — Vyúčtování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Plátce poplatku za ukládání odpadů na skládku je povinen podat vyúčtování.
+>
+> (2) Vyúčtování se podává do 25 dnů po uplynutí poplatkového období.
+>
+> (3) Vyúčtování se podává správci poplatku prostřednictvím integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí.
+>
+> (4) Formát a strukturu vyúčtování zveřejní správce poplatku způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=678c0019cf5074d81238 -->
+
 ### § 114 — Splatnost
 
 > **§ 114**
@@ -1441,6 +2571,52 @@ Splatnost poplatku běží až od právní moci platebního výměru (30 dnů); 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3350d617668afaf87a31 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 114 — Splatnost poplatku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Poplatek za ukládání odpadů na skládku je splatný třicátý den ode dne právní moci platebního výměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3350d617668afaf87a31 -->
+
 ### § 115 — Úrok z prodlení
 
 > **§ 115**
@@ -1488,6 +2664,52 @@ Lakonické ustanovení odkazuje na **úrok z prodlení podle § 252 daňového �
 **Typicky rozhodné důkazy / podklady:** platební výměr a doklad o právní moci, doklady o platbách, předpis úroku, žádost o posečkání a rozhodnutí o ní.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e7dba2ad1792d2d582c2 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 115 — Úrok z prodlení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> U nedoplatku na poplatku za ukládání odpadů na skládku vzniká úrok z prodlení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e7dba2ad1792d2d582c2 -->
 
 ## ČÁST ŠESTÁ — Opatření k nápravě a přestupky (§§ 116–125)
 
@@ -1572,6 +2794,70 @@ Opatření k nápravě je prioritní administrativní nástroj k odstranění pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eac97cc191c0bd75eee6 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 116
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) V případě, že osoba nedodržuje povinnosti stanovené nařízením Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]], nařízením Evropského parlamentu a Rady (EU) č. [[1257/2013|1257/2013]], ve vztahu k odpadní rtuti nařízením Evropského parlamentu a Rady (EU) [[2017/852|2017/852]], tímto zákonem nebo na jejich základě, je správní orgán, který je podle tohoto zákona příslušný k projednání přestupků, oprávněn uložit této osobě provést v přiměřené lhůtě opatření k nápravě spočívající v
+>
+> - a) zajištění odpadu proti jeho úniku, znehodnocení nebo odcizení,
+>
+> - b) zajištění odpadu před únikem škodlivin z tohoto odpadu do okolního prostředí, včetně stanovení povinnosti odstranit tyto škodliviny ze soustředěného odpadu, nebo odstranit z okolního prostředí již uniklé škodliviny ze soustředěného odpadu,
+>
+> - c) povinnosti předat odpad ve stanovené přiměřené lhůtě do zařízení určeného pro nakládání s odpady,
+>
+> - d) úpravě provozu zařízení určeného pro nakládání s odpady, včetně omezení jeho provozu, nebo
+>
+> - e) jiném vhodném opatření, které by zamezilo nepříznivým dopadům na životní prostředí nebo lidské zdraví a zajistilo náležitou ochranu životního prostředí nebo zdraví lidí nebo zajistilo možnost kontroly plnění uložených opatření.
+>
+> (2) Správní orgán uvedený v odstavci 1 je oprávněn uložit opatření k nápravě právnímu nástupci právnické osoby, která závadný stav způsobila, nebo osobě, která pokračuje v podnikatelské činnosti zemřelé podnikající fyzické osoby, která závadný stav způsobila.
+>
+> (3) Povinnosti plynoucí z opatření k nápravě uložených právnické osobě přecházejí na jejího právního nástupce. Povinnosti plynoucí z opatření k nápravě uložených podnikající fyzické osobě v případě smrti této osoby přecházejí na osobu, která pokračuje v její podnikatelské činnosti.
+>
+> (4) Správní orgán, který zahájí řízení o opatření k nápravě, je povinen o této skutečnosti bez zbytečného odkladu informovat ostatní správní orgány příslušné ve stejné věci k uložení opatření k nápravě nebo k uložení správního trestu za přestupek související s opatřením k nápravě a krajský úřad příslušný k rozhodování v pochybnostech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+- akt EU 1257/2013 (výslovně uvedeno v místním znění)
+- akt EU 2017/852 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eac97cc191c0bd75eee6 -->
+
 ### HLAVA II — Přestupky
 
 ### § 117 — Přestupky fyzických osob
@@ -1636,6 +2922,131 @@ Opatření k nápravě je prioritní administrativní nástroj k odstranění pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e71f6b253064bec111da generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 117 — Přestupky fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že
+>
+> - a) nesplní povinnost zbavit se movité věci podle § 4 odst. 3,
+>
+> - b) provádí kompostování biologicky rozložitelného materiálu v rozporu s § 12 odst. 3,
+>
+> - c) nakládá s odpadem mimo zařízení určené pro nakládání s daným druhem a kategorií odpadu podle § 13 odst. 1 písm. b),
+>
+> - d) v rozporu s § 13 odst. 1 písm. c) soustřeďuje neodděleně
+>
+> - 1. nebezpečné odpady, nebo
+>
+> - 2. ostatní odpady,
+>
+> - e) nezabezpečí odpady, které soustřeďuje, před odcizením, únikem nebo znehodnocením podle § 13 odst. 1 písm. d),
+>
+> - f) nepředá odpad v souladu s hierarchií odpadového hospodářství způsobem stanoveným v § 13 odst. 1 písm. e),
+>
+> - g) převezme odpad, aniž by byla k jeho převzetí oprávněna podle § 13 odst. 2,
+>
+> - h) jako vlastník odpadu nepředá nezákonně soustředěný odpad do zařízení určeného pro nakládání s odpady nebo do dopravního prostředku provozovatele zařízení podle § 14 odst. 1,
+>
+> - i) jako vlastník pozemku neučiní oznámení o nezákonně soustředěném odpadu podle § 14 odst. 2,
+>
+> - j) v rozporu s rozhodnutím obecního úřadu obce s rozšířenou působností vydaným na základě § 14 odst. 5 písm. a) nezabezpečí místo, kde se nachází nezákonně soustředěný odpad, proti dalšímu návozu odpadu,
+>
+> - k) v rozporu s § 15 odst. 2 písm. b) neprokáže, že předala odpady, které produkuje, stanoveným způsobem,
+>
+> - l) v rozporu s § 15 odst. 2 písm. c) nemá stanoveným způsobem a v odpovídajícím množství písemnou smlouvou zajištěno předání stavebního a demoličního odpadu, které sama nezpracuje,
+>
+> - m) jako vlastník nemovité věci v rozporu § 15 odst. 4 nepředá odpady soustředěné v provozovně do zařízení určeného pro nakládání s odpady,
+>
+> - n) jako vlastník nemovité věci v rozporu s § 17 odst. 3 nepředá odpady soustředěné v zařízení do jiného zařízení určeného pro nakládání s odpady,
+>
+> - o) jako původce odpadu v rozporu s § 18 odst. 2 předá stanovený odpad do mobilního zařízení ke sběru, úpravě nebo využití odpadu,
+>
+> - p) provádí vzorkování, zkoušky nebo testy odpadů v rozporu s některou z povinností stanovených v § 29 odst. 1 až 4,
+>
+> - q) soustřeďuje odpady v rozporu s technickými podmínkami stanovenými podle § 30 odst. 1,
+>
+> - r) v rozporu s § 47 odst. 4 provádí přepravu odpadů do České republiky za účelem odstranění nebo za účelem energetického využití,
+>
+> - s) při přeshraniční přepravě odpadů neplní podmínky stanovené v rozhodnutí ministerstva vydaném podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo podle [[#§ 49|§ 49]], [[#§ 51|51]] nebo § 52 odst. 1, nebo
+>
+> - t) odkládá odpad nebo movitou věc, které předává do obecního systému, v rozporu s [[#§ 61|§ 61]].
+>
+> (2) Fyzická osoba se dále dopustí přestupku tím, že
+>
+> - a) v rozporu s § 72 odst. 1 smísí nebezpečný odpad nebo neprovede roztřídění smísených nebezpečných odpadů,
+>
+> - b) jako pověřená osoba v rozporu s § 76 odst. 2 neprovede hodnocení nebezpečných vlastností odpadu v souladu se stanovenými metodami nebo postupy,
+>
+> - c) jako pověřená osoba v rozporu s § 76 odst. 6 vydá osvědčení pro odpad, za který odpovídá jako původce odpadu nebo provozovatel zařízení,
+>
+> - d) v rozporu s § 82 odst. 1 nebo [[#§ 2|2]] nepředá polychlorované bifenyly, odpad polychlorovaných bifenylů nebo zařízení obsahující polychlorované bifenyly k odstranění nebo nedekontaminuje zařízení obsahující polychlorované bifenyly,
+>
+> - e) v rozporu s [[#§ 85|§ 85]] nesplní některou z povinností při nakládání s odpadem obsahujícím azbest,
+>
+> - f) jako pacient nakládá s odpadem v rozporu s poučením podle § 89 odst. 2,
+>
+> - g) jako chovatel zvířete nakládá s odpadem v rozporu s poučením podle § 89 odst. 4,
+>
+> - h) při přeshraniční přepravě odpadů nakládá se zadrženým odpadem nebo dopravním prostředkem v rozporu s § 138 odst. 2,
+>
+> - i) při přeshraniční přepravě odpadů provede nedovolenou přepravu odpadů podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo jinak poruší některou z povinností stanovenou nařízením Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo nařízením Evropského parlamentu a Rady (EU) [[2017/852|2017/852]], nebo
+>
+> - j) jako stavebník v rozporu s [[#§ 93a|§ 93a]] nezašle po provedení změny dokončené stavby, terénní úpravy nebo odstranění stavby příslušnému správnímu orgánu stanovené doklady.
+>
+> (3) Za přestupek lze uložit pokutu do
+>
+> - a) 10 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), i) nebo j),
+>
+> - b) 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) bodu 2 nebo písm. t) nebo odstavce 2 písm. f) nebo g),
+>
+> - c) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), písm. d) bodu 1, písm. e), f), k) nebo l) nebo odstavce 2 písm. a) až c) nebo j),
+>
+> - d) 200 000 Kč, jde-li o přestupek podle odstavce 1 písm. h), m) až q) nebo odstavce 2 písm. e) nebo h), nebo
+>
+> - e) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), g), r) nebo s) nebo odstavce 2 písm. d) nebo i).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 12, § 13, § 14, § 15, § 17, § 18, § 29, § 30, § 47, § 49, § 51, § 52, § 61, § 72, § 76, § 82, § 2, § 85, § 89, § 138, § 93a
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+- akt EU 2017/852 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e71f6b253064bec111da -->
+
 ### § 118 — Přestupky původce odpadu
 
 > **§ 118** (struktura: odst. 1 — obecní pravidla; odst. 2 — zdravotní a veterinární péče; odst. 3 — sazby)
@@ -1691,6 +3102,102 @@ Původce odpovídá objektivně za to, že s odpadem zachází podle jeho skute�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9e5cda9a9941fbc97270 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 118 — Přestupky původce odpadu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se jako původce odpadu dopustí přestupku tím, že
+>
+> - a) v rozporu s § 15 odst. 2 písm. a)
+>
+> - 1. nezařadí odpad podle druhu a kategorie, nebo
+>
+> - 2. s odpadem nenakládá podle jeho skutečných vlastností,
+>
+> - b) v rozporu s § 15 odst. 2 písm. b) neprokáže, že předala odpady, které produkuje, v odpovídajícím množství a stanoveným způsobem,
+>
+> - c) v rozporu s § 15 odst. 2 písm. c) nemá stanoveným způsobem a v odpovídajícím množství písemnou smlouvou zajištěno předání komunálního odpadu, který běžně produkuje, nebo stavebního a demoličního odpadu, které sama nezpracuje,
+>
+> - d) nepředá provozovateli zařízení nebo obchodníkovi s odpady údaje o své osobě nebo základní popis odpadu podle § 15 odst. 2 písm. d),
+>
+> - e) nepředá základní popis odpadu podle § 15 odst. 2 písm. e),
+>
+> - f) nedodrží stanovený postup pro nakládání s vybouranými stavebními materiály určenými pro opětovné použití, vedlejšími produkty a stavebními a demoličními odpady podle § 15 odst. 2 písm. f),
+>
+> - g) nepředá odpady soustředěné v provozovně do zařízení určeného pro nakládání s odpady podle § 15 odst. 3,
+>
+> - h) neuhradí vlastníkovi nemovité věci účelně vynaložené náklady spojené s předáním odpadu do zařízení určeného pro nakládání s odpady podle § 15 odst. 4, nebo
+>
+> - i) v rozporu s § 18 odst. 2 předá stanovený odpad do mobilního zařízení ke sběru, úpravě nebo využití odpadu.
+>
+> (2) Právnická nebo podnikající fyzická osoba se jako původce odpadu ze zdravotní nebo veterinární péče dopustí přestupku tím, že
+>
+> - a) v rozporu s § 89 odst. 1 nezpracuje pokyny pro nakládání s odpady ze zdravotní péče v zařízení, kde tento odpad vzniká,
+>
+> - b) v rozporu s § 89 odst. 2 nepoučí pacienta o způsobu nakládání s odpady,
+>
+> - c) v rozporu s § 89 odst. 3 nezpracuje pokyny pro nakládání s odpady z veterinární péče v hospodářství, kde tento odpad vzniká,
+>
+> - d) v rozporu s § 89 odst. 4 nepoučí chovatele o způsobu nakládání s odpady,
+>
+> - e) jako chovatel zvířete nakládá s odpadem v rozporu s poučením podle § 89 odst. 4,
+>
+> - f) v rozporu s § 90 odst. 1 nezajistí nakládání s odpady ze zdravotní nebo veterinární péče fyzickou osobou odborně způsobilou k nakládání s odpady ze zdravotní a veterinární péče, nebo
+>
+> - g) v rozporu s § 90 odst. 3 nebo [[#§ 4|4]]
+>
+> - 1. připustí, aby s odpady ze zdravotní nebo veterinární péče nakládal zaměstnanec bez příslušného proškolení, nebo
+>
+> - 2. nepořídí nebo neuchová záznam o školení zaměstnance.
+>
+> (3) Za přestupek původce odpadu lze uložit pokutu do
+>
+> - a) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) až e) nebo i) nebo odstavce 2 písm. b), d), f) nebo g),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) bodu 1, písm. f) až h) nebo odstavce 2 písm. a), c) nebo e), nebo
+>
+> - c) 25 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) bodu 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 18, § 89, § 90, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e5cda9a9941fbc97270 -->
+
 ### § 119 — Přestupky provozovatele zařízení
 
 > **§ 119** (struktura: odst. 1 — obecná pravidla; odst. 2 — zvláštní pravidla pro skladování, sběr, úpravu, využití, odstranění; odst. 3 — sazby)
@@ -1740,6 +3247,180 @@ Provozovatel zařízení nese nejpřísnější odpovědnost za integritu naklá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1010ef864d7f82853ba9 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 119 — Přestupky provozovatele zařízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel zařízení se dopustí přestupku tím, že
+>
+> - a) nevede evidenci věcí, které přestaly být odpadem podle § 9 odst. 6,
+>
+> - b) v rozporu s § 16 odst. 2 nepředá odpad do zařízení určeného pro nakládání s odpady nebo obchodníkovi s odpady,
+>
+> - c) v rozporu s § 17 odst. 1 písm. b)
+>
+> - 1. nezaznamená při převzetí odpadu ve stanoveném rozsahu uvedené údaje,
+>
+> - 2. nezváží odpad nebo neprovede jeho vizuální kontrolu,
+>
+> - 3. neověří zařazení odpadu podle druhu a kategorie,
+>
+> - 4. nezařadí odpad podle druhu a kategorie, nebo
+>
+> - 5. převezme druh nebo kategorii odpadu, k jejichž přijetí není oprávněn,
+>
+> - d) nevydá potvrzení při převzetí odpadu podle § 17 odst. 1 písm. c),
+>
+> - e) nepředá odpad obchodníkovi s odpady nebo dalšímu provozovateli zařízení s uvedenými údaji, se základním popisem odpadu nebo s informacemi o kritických ukazatelích podle § 17 odst. 1 písm. d),
+>
+> - f) nesplní povinnost oznámit příslušnému krajskému úřadu a krajské hygienické stanici údaje podle § 17 odst. 1 písm. e),
+>
+> - g) nezveřejní seznam druhů odpadu, které smí být do zařízení přijaty podle § 17 odst. 1 písm. f),
+>
+> - h) neoznámí provoz mobilního zařízení před jeho zahájením podle § 17 odst. 1 písm. g),
+>
+> - i) neoznámí obci údaje podle § 17 odst. 1 písm. h),
+>
+> - j) nevede provozní deník v rozsahu podle § 17 odst. 1 písm. i),
+>
+> - k) v rozporu s § 17 odst. 2 nepředá odpady soustředěné v zařízení do jiného zařízení určeného pro nakládání s odpady,
+>
+> - l) v rozporu s § 17 odst. 3 neuhradí vlastníkovi nemovité věci účelně vynaložené náklady spojené s předáním odpadu do zařízení určeného pro nakládání s odpady,
+>
+> - m) nesplní při převzetí kovového odpadu některou z povinností ohledně identifikace osob a přebíraných odpadů nebo vedení nebo uchování průběžné evidence stanovených v § 18 odst. 1,
+>
+> - n) v rozporu s § 18 odst. 2 převezme kovový odpad,
+>
+> - o) v rozporu s § 18 odst. 5 převezme do zařízení odpad bez zaznamenání údajů,
+>
+> - p) v rozporu s § 19 odst. 1 rozebírá, jinak pozměňuje nebo předává další osobě převzatý kovový odpad mající povahu strojního zařízení, obecně prospěšné zařízení, umělecké dílo nebo pietní a bohoslužebný předmět nebo jejich část,
+>
+> - q) v rozporu s § 19 odst. 2 poskytne úplatu za odpad přebíraný od nepodnikající fyzické osoby,
+>
+> - r) v rozporu s § 19 odst. 3 poskytne úplatu za přebíraný odpad jiným než stanoveným způsobem nebo nevede evidenci o uskutečněných platbách,
+>
+> - s) v rozporu s § 19 odst. 4
+>
+> - 1. nesleduje prostor zařízení, neuchovává záznam z kamerového systému nebo tento záznam neposkytne orgánům provádějícím kontrolu podle tohoto zákona, nebo
+>
+> - 2. neproškolí všechny pracovníky, nepořídí o školení záznam nebo záznam neuchová po stanovenou dobu,
+>
+> - t) provozuje zařízení na recyklaci lodí v rozporu s nařízením Evropského parlamentu a Rady (EU) č. [[1257/2013|1257/2013]], nebo
+>
+> - u) v rozporu s nařízením Evropského parlamentu a Rady (EU) č. [[1257/2013|1257/2013]] provede recyklaci lodi bez schváleného plánu recyklace lodi nebo v rozporu s ním.
+>
+> (2) Provozovatel zařízení se dále dopustí přestupku tím, že
+>
+> - a) v rozporu s § 31 odst. 1 skladuje odpady v zařízení, které nesplňuje stanovené podmínky, nebo neprovozuje zařízení v souladu se stanovenými technickými podmínkami,
+>
+> - b) v rozporu s § 31 odst. 2 nepostupuje stanoveným způsobem ohledně odpadů určených k využití nebo odstranění, u nichž uplynula stanovená maximální doba skladování, nebo
+>
+> - c) v rozporu s § 31 odst. 3 nepostupuje stanoveným způsobem ohledně odpadů skladovaných za účelem využití po dobu delší než 1 rok, které není možné využít,
+>
+> - d) v rozporu s § 32 odst. 1
+>
+> - 1. provádí sběr odpadu v zařízení, které nesplňuje stanovené podmínky,
+>
+> - 2. neoznačí mobilní zařízení ke sběru odpadu stanoveným způsobem, nebo
+>
+> - 3. neprovozuje zařízení ke sběru odpadu v souladu se stanovenými technickými podmínkami,
+>
+> - e) v rozporu s § 32 odst. 2 má v zařízení ke sběru odpadu uložen odpad po dobu delší než 9 měsíců,
+>
+> - f) v rozporu s § 32 odst. 3 má v mobilním zařízení ke sběru odpadu uložen odpad déle než po dobu
+>
+> - 1. přepravy do zařízení ke zpracování odpadu,
+>
+> - 2. 48 hodin, nebo
+>
+> - 3. 24 hodin, jde-li o odpad ze zdravotnické nebo veterinární péče nebo jiný biologický odpad,
+>
+> - g) v rozporu s § 32 odst. 4
+>
+> - 1. přebírá odpady do mobilního zařízení ke sběru odpadu od jiné osoby než jejich původce, nebo
+>
+> - 2. předává odpady do jiného mobilního zařízení,
+>
+> - h) v rozporu s § 32 odst. 5 přebírá do mobilního zařízení ke sběru odpadu nebo odesílá z mobilního zařízení ke sběru odpadu odpad při přeshraniční přepravě odpadů,
+>
+> - i) v rozporu s § 33 odst. 1 provádí úpravu v zařízení, které nesplňuje stanovené podmínky, nebo neprovozuje zařízení v souladu se stanovenými technickými podmínkami,
+>
+> - j) v rozporu s § 34 odst. 1 využívá odpad v zařízení, které nesplňuje stanovené podmínky, nebo neprovozuje zařízení v souladu se stanovenými technickými podmínkami,
+>
+> - k) nezajistí, aby vystupující výrobky určené k opětovnému použití splňovaly požadavky na uvádění použitého zboží na trh podle § 34 odst. 3,
+>
+> - l) v rozporu s § 34 odst. 4 neprovede využití odpadu uvedeného v rozhodnutí obecního úřadu obce s rozšířenou působností nebo krajského úřadu,
+>
+> - m) v rozporu s § 34 odst. 5 nebo § 36 odst. 3 neuskladní dočasně odpady na základě rozhodnutí krajského úřadu,
+>
+> - n) v rozporu s § 34 odst. 6 použije k zasypávání odpad, který nesplňuje stanovené podmínky,
+>
+> - o) poruší zákaz ředění nebo mísení odpadu podle § 34 odst. 6,
+>
+> - p) v rozporu s § 35 odst. 3 předá ke spálení v zařízení na energetické využití odděleně soustřeďované komunální odpady vhodné k opětovnému použití nebo recyklaci,
+>
+> - q) v rozporu s § 36 odst. 1 odstraňuje odpad v zařízení, které nesplňuje stanovené podmínky, nebo neprovozuje zařízení v souladu se stanovenými technickými podmínkami,
+>
+> - r) v rozporu s § 36 odst. 2 neprovede odstranění odpadu uvedeného v rozhodnutí obecního úřadu obce s rozšířenou působností nebo krajského úřadu,
+>
+> - s) jako provozovatel zařízení určeného pro nakládání s biologicky rozložitelným odpadem nesplní některou z povinností stanovených v § 63 odst. 2 nebo [[#§ 4|4]],
+>
+> - t) v rozporu s § 64 odst. 1 zpracovává stanovené biologicky rozložitelné odpady v malém zařízení, které nesplňuje stanovené požadavky,
+>
+> - u) provozuje malé zařízení bez souhlasu podle § 64 odst. 2 nebo v rozporu s ním, nebo
+>
+> - v) jako provozovatel malého zařízení nesplní některou z povinností podle § 64 odst. 4.
+>
+> (3) Za přestupek provozovatele zařízení lze uložit pokutu do
+>
+> - a) 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. g),
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) bodu 1 nebo 2, písm. d) až f), h) až j) nebo m) až s) nebo odstavce 2 písm. l) nebo r),
+>
+> - c) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), písm. c) bodu 3, písm. k), l), t) nebo u) nebo odstavce 2 písm. a) až k), m), n), p), q), s) až v), nebo
+>
+> - d) 25 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) bodu 4 nebo [[#§ 5|5]] nebo odstavce 2 písm. o).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 16, § 17, § 18, § 19, § 31, § 32, § 33, § 34, § 36, § 35, § 63, § 4, § 64, § 5
+
+##### Souvisící předpisy
+
+- akt EU 1257/2013 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1010ef864d7f82853ba9 -->
+
 ### § 120 — Přestupky provozovatele skládky
 
 > **§ 120** (struktura: odst. 1 — taxativní katalog; odst. 2 — sazby)
@@ -1788,6 +3469,100 @@ Skutkové podstaty § 120 chrání fyzickou i fiskální integritu skládky: nad
 **Typicky rozhodné důkazy / podklady:** provozní řád a integrované povolení, projektová dokumentace skládky, vážní lístky a průběžná evidence, monitorovací zprávy, vyúčtování poplatku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=357766157ad1d7a0981b generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 120 — Přestupky provozovatele skládky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel skládky se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 37 odst. 1
+>
+> - 1. provádí skládkování odpadu ve skládce, které nesplňuje stanovené podmínky,
+>
+> - 2. provádí skládkování odpadu na pozemku, který není evidován stanoveným způsobem, nebo
+>
+> - 3. neprovozuje skládku v souladu se stanovenými technickými podmínkami,
+>
+> - b) v rozporu s § 37 odst. 3
+>
+> - 1. uloží na skládku v rámci první fáze movité věci, které nejsou odpadem,
+>
+> - 2. uloží na skládku odpad jako technologický materiál na technické zabezpečení skládky a nesplní podmínky stanovené prováděcím právním předpisem, nebo
+>
+> - 3. používá na technické zabezpečení skládky jiné než stanovené odpady,
+>
+> - c) v rozporu s § 37 odst. 4
+>
+> - 1. k uzávěrce a rekultivaci skládky využívá jiný než stanovený odpad, nebo
+>
+> - 2. nesplní stanovené podmínky využití odpadu,
+>
+> - d) v rozporu s § 38 odst. 1 provozuje druhou nebo třetí fázi skládky bez rozhodnutí o změně povolení provozu skládky,
+>
+> - e) nesplní některou z povinností stanovených v § 39 odst. 1,
+>
+> - f) poruší zákaz ukládat na skládku odpady podle § 40 odst. 1 nebo [[#§ 4|4]] nebo § 41 odst. 1 nebo [[#§ 3|3]],
+>
+> - g) provozuje skládku v rozporu se stanovenými technickými podmínkami podle § 41 odst. 1,
+>
+> - h) poruší zákaz ředění nebo mísení odpadu podle § 41 odst. 2,
+>
+> - i) neprovádí monitorování provozu skládky podle § 41 odst. 4,
+>
+> - j) nesplní povinnost proškolit zaměstnance podle § 41 odst. 5,
+>
+> - k) nesplní některou z povinností týkajících se vytváření rezervy a čerpání jejích prostředků podle § 42 odst. 1 až 5 nebo § 43 odst. 1, nebo
+>
+> - l) v rozporu s § 95 odst. 2 nezašle ve stanovené lhůtě a ve stanoveném rozsahu údaje týkající se provozu skládky.
+>
+> (2) Za přestupek provozovatele skládky lze uložit pokutu do
+>
+> - a) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. j) nebo l),
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), c), d) až h) nebo k), nebo
+>
+> - c) 25 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo i).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37, § 38, § 39, § 40, § 4, § 41, § 3, § 42, § 43, § 95
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=357766157ad1d7a0981b -->
 
 ### § 121 — Další přestupky právnických a podnikajících fyzických osob
 
@@ -1843,6 +3618,261 @@ Nejvyšší sazba 25 mil. Kč se aplikuje zejména na:
 **Typicky rozhodné důkazy / podklady:** přepravní a celní doklady, formuláře dle nařízení (ES) č. 1013/2006, rozbory a fotodokumentace nákladu, smlouvy s odesílatelem a příjemcem, protokoly z kontroly.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=63f5c0cc505f8a5a3eeb generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 121 — Další přestupky právnických a podnikajících fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) nesplní povinnost zbavit se movité věci podle § 4 odst. 3,
+>
+> - b) v rozporu s § 8 odst. 3 nepředá vedlejší produkt s průvodní dokumentací,
+>
+> - c) v rozporu s § 9 odst. 5 nepředá věc s průvodní dokumentací,
+>
+> - d) jako osoba, která vyrábí výrobky, nezabezpečí vývoj, výrobu nebo využití těchto výrobků způsobem stanoveným v § 12 odst. 2,
+>
+> - e) provádí kompostování biologicky rozložitelného materiálu v rozporu s § 12 odst. 3,
+>
+> - f) nakládá s odpadem mimo zařízení určené pro nakládání s daným druhem a kategorií odpadu podle § 13 odst. 1 písm. b),
+>
+> - g) v rozporu s § 13 odst. 1 písm. c) soustřeďuje neodděleně
+>
+> - 1. nebezpečné odpady, nebo
+>
+> - 2. ostatní odpady,
+>
+> - h) nezabezpečí odpady, které soustřeďuje, před odcizením, únikem nebo znehodnocením podle § 13 odst. 1 písm. d),
+>
+> - i) nepředá odpad v souladu s hierarchií odpadového hospodářství způsobem stanoveným v § 13 odst. 1 písm. e),
+>
+> - j) převezme odpad, aniž by byla k jeho převzetí oprávněna podle § 13 odst. 2,
+>
+> - k) jako vlastník odpadu nepředá nezákonně soustředěný odpad do zařízení určeného pro nakládání s odpady, do dopravního prostředku provozovatele zařízení nebo obchodníkovi s odpady podle § 14 odst. 1,
+>
+> - l) jako vlastník pozemku neučiní oznámení o nezákonně soustředěném odpadu podle § 14 odst. 2,
+>
+> - m) v rozporu s rozhodnutím obecního úřadu obce s rozšířenou působností vydaným na základě § 14 odst. 5 písm. a) nezabezpečí místo, kde se nachází nezákonně soustředěný odpad, proti dalšímu návozu odpadu,
+>
+> - n) jako vlastník nemovité věci v rozporu s § 15 odst. 4 nepředá odpady soustředěné v provozovně do zařízení určeného pro nakládání s odpady,
+>
+> - o) provozuje zařízení určené pro nakládání s odpady bez povolení provozu zařízení podle § 17 odst. 1 písm. a) nebo v rozporu s ním,
+>
+> - p) jako vlastník nemovité věci v rozporu s § 17 odst. 3 nepředá odpady soustředěné v zařízení do jiného zařízení určeného pro nakládání s odpady,
+>
+> - q) jako škola nepředá do 15. ledna obci údaje o školním sběru podle § 20 odst. 5,
+>
+> - r) jako právní nástupce provozovatele zařízení nesplní některou z povinností podle [[#§ 24|§ 24]],
+>
+> - s) obchoduje s odpady bez povolení podle § 26 odst. 1 nebo v rozporu s ním,
+>
+> - t) provádí vzorkování, zkoušky nebo testy odpadů v rozporu s některou z povinností stanovených v § 29 odst. 1 až 4,
+>
+> - u) v rozporu s § 29 odst. 5 neuchovává protokol o vzorkování a zkouškách odpadů, nebo
+>
+> - v) soustřeďuje odpady v rozporu s technickými podmínkami stanovenými podle § 30 odst. 1.
+>
+> (2) Právnická nebo podnikající fyzická osoba se dále dopustí přestupku tím, že
+>
+> - a) v rozporu s § 34 odst. 4 nebo § 36 odst. 2 neuhradí obecnímu úřadu obce s rozšířenou působností nebo krajskému úřadu vynaložené náklady,
+>
+> - b) v rozporu s § 36 odst. 5 předá k odstranění odděleně soustřeďované komunální odpady vhodné k opětovnému použití nebo recyklaci,
+>
+> - c) jako obchodník s odpady nesplní některou z povinností stanovených v § 44 odst. 2,
+>
+> - d) jako obchodník s odpady v rozporu s § 44 odst. 3 nakládá s odpady jiným než stanoveným způsobem nebo přebere odpad od nepodnikající fyzické osoby,
+>
+> - e) v rozporu s § 44 odst. 4
+>
+> - 1. jako obchodník s odpady neposkytne za odpad úplatu, nebo
+>
+> - 2. poskytne obchodníkovi s odpady úplatu za převzetí odpadu,
+>
+> - f) jako obchodník s odpady neověří správnost zařazení odpadu podle § 44 odst. 5 písm. a) nebo nepředá provozovateli zařízení informace podle § 44 odst. 5 písm. b),
+>
+> - g) zprostředkovává nakládání s odpady bez ohlášení podle § 45 odst. 1,
+>
+> - h) neuchová doklady související s přepravou odpadu podle § 46 odst. 1 písm. c),
+>
+> - i) v rozporu s § 46 odst. 1 písm. d) neohlásí přepravu nebezpečného odpadu,
+>
+> - j) jako osoba, která přepravuje odpad, nesplní některou z povinností podle § 46 odst. 2,
+>
+> - k) v rozporu s § 46 odst. 3 provádí přepravu odpadu, která přesáhne dobu 48 hodin nebo dobu 24 hodin, jde-li o odpad ze zdravotnické nebo veterinární péče nebo jiný biologický odpad,
+>
+> - l) v rozporu s § 47 odst. 4 provádí přeshraniční přepravu odpadů do České republiky za účelem odstranění nebo za účelem energetického využití,
+>
+> - m) při přeshraniční přepravě odpadů neplní podmínky stanovené v rozhodnutí ministerstva vydaném podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo podle [[#§ 49|§ 49]], [[#§ 51|51]] nebo § 52 odst. 1,
+>
+> - n) nezajistí místa pro oddělené soustřeďování odpadu podle § 62 odst. 1,
+>
+> - o) využívá obecní systém v rozporu s § 62 odst. 2,
+>
+> - p) v rozporu s § 63 odst. 1 nezajistí přednostní zpracování biologicky rozložitelných odpadů stanoveným způsobem,
+>
+> - q) v rozporu s § 63 odst. 5 nezajistí soustřeďování biologicky rozložitelných odpadů mimo technologii zpracování stanoveným způsobem,
+>
+> - r) jako provozovatel komunitní kompostárny
+>
+> - 1. provozuje komunitní kompostárnu v rozporu s § 66 odst. 1 písm. a),
+>
+> - 2. nevede provozní deník podle § 66 odst. 1 písm. b),
+>
+> - 3. nevede průběžnou evidenci podle § 66 odst. 1 písm. c), nebo
+>
+> - 4. nesplní ohlašovací povinnost podle § 66 odst. 1 písm. d),
+>
+> - s) v rozporu s § 67 odst. 2 nesplní povinnosti související s přepravou neupraveného kalu nebo nezajistí označení kalu,
+>
+> - t) provádí úpravu kalů nebo používá technologii úpravy kalů v rozporu s § 67 odst. 3,
+>
+> - u) jako provozovatel čistírny odpadních vod nepředá kaly do zařízení na úpravu kalů podle § 68 odst. 1,
+>
+> - v) jako osoba, která provedla úpravu kalů,
+>
+> - 1. v rozporu s § 68 odst. 2 nebo [[#§ 3|3]] nevypracuje program použití kalů nebo jej nepředloží ke schválení Ústředním kontrolnímu a zkušebnímu ústavu zemědělskému,
+>
+> - 2. smísí kal v rozporu s některou z povinností stanovených v § 68 odst. 3, nebo
+>
+> - 3. nepředá upravený kal podle § 68 odst. 4,
+>
+> - w) v rozporu s § 68 odst. 5 nepředá upravený kal uvedené osobě podle § 68 odst. 5 nebo jej skladuje nebo dočasně ukládá jiným než stanoveným způsobem,
+>
+> - x) v rozporu s § 69 odst. 1 používá
+>
+> - 1. neupravené kaly na zemědělské půdě, nebo
+>
+> - 2. upravené kaly v rozporu s programem použití kalů,
+>
+> - y) použije upravené kaly na zemědělské půdě v rozporu s některou z podmínek stanovených v § 69 odst. 2, nebo
+>
+> - z) poruší některý ze zákazů pro použití kalů podle § 69 odst. 3.
+>
+> (3) Právnická nebo podnikající fyzická osoba se dále dopustí přestupku tím, že
+>
+> - a) nezajistí označení nebezpečných odpadů způsobem stanoveným v § 71 odst. 2,
+>
+> - b) v rozporu s § 71 odst. 3 nezpracuje identifikační list nebezpečného odpadu nebo jím nevybaví místa nakládání s nebezpečným odpadem,
+>
+> - c) v rozporu s § 72 odst. 1
+>
+> - 1. mísí nebezpečné odpady bez povolení k mísení nebezpečných odpadů,
+>
+> - 2. neprovede roztřídění smísených nebezpečných odpadů, nebo
+>
+> - 3. nezařazuje odpad v souladu s povolením k mísení nebezpečných odpadů,
+>
+> - d) jako pověřená osoba v rozporu s § 76 odst. 2 neprovede hodnocení nebezpečných vlastností odpadu v souladu se stanovenými metodami nebo postupy,
+>
+> - e) jako pověřená osoba v rozporu s § 76 odst. 6 vydá osvědčení pro odpad, za který odpovídá jako původce odpadu nebo provozovatel zařízení,
+>
+> - f) jako odesilatel nebo příjemce nesplní některou z povinností při ohlašování přepravy nebezpečných odpadů stanovenou v § 78 odst. 1 nebo [[#§ 3|3]] nebo § 79 odst. 3,
+>
+> - g) jako osoba zajišťující přepravu odpadu nepředá stanovený doklad příjemci podle § 78 odst. 6,
+>
+> - h) jako odesilatel v rozporu s § 79 odst. 4 nedokončí přepravu nebezpečných odpadů do 48 hodin od jejího zahájení,
+>
+> - i) v rozporu s [[#§ 80|§ 80]] odstraní umístěním do vodního útvaru některý z uvedených odpadů pocházejících z výroby oxidu titaničitého,
+>
+> - j) v rozporu s § 82 odst. 1 nebo [[#§ 2|2]] nepředá polychlorované bifenyly, odpad polychlorovaných bifenylů nebo zařízení obsahující polychlorované bifenyly k odstranění nebo nedekontaminuje zařízení obsahující polychlorované bifenyly,
+>
+> - k) v rozporu s § 82 odst. 3 neodstraní zařízení obsahující polychlorované bifenyly ve stanovené lhůtě,
+>
+> - l) v rozporu s § 82 odst. 4 neodstraní polychlorované bifenyly v zařízeních k tomu určených stanovenými způsoby,
+>
+> - m) jako vlastník nebo provozovatel dekontaminovaného zařízení nebo lehce kontaminovaného zařízení neoznačí toto zařízení podle § 82 odst. 5,
+>
+> - n) jako vlastník nebo provozovatel lehce kontaminovaného zařízení nesplní povinnost údržby podle § 82 odst. 6,
+>
+> - o) jako vlastník nebo provozovatel lehce kontaminovaného zařízení v rozporu s § 83 odst. 1 nevede pro toto zařízení samostatně průběžnou evidenci nebo neohlásí ministerstvu změny v evidovaných skutečnostech neprodleně poté, co ke změně došlo,
+>
+> - p) v rozporu s § 83 odst. 3 neohlásí přijetí zařízení obsahující polychlorované bifenyly nad 5 litrů náplně,
+>
+> - q) nakládá s odpady perzistentních organických znečišťujících látek bez splnění požadavků podle § 84 odst. 2,
+>
+> - r) v rozporu s [[#§ 85|§ 85]] nesplní některou z povinností při nakládání s odpadem obsahujícím azbest,
+>
+> - s) v rozporu s [[#§ 87|§ 87]] nepředá jako součást informací o odpadu a základního popisu odpadu údaj o tom, že se jedná o látku s obsahem radionuklidů, údaje o pracovišti, kde odpad vznikl, nebo údaje o skutečnostech, na základě kterých mohl být odpad z pracoviště uvolněn,
+>
+> - t) jako provozovatel lékárny v rozporu s § 91 odst. 1 nesoustřeďuje odpad léčiv z domácností převzatý od fyzických osob odděleně nebo pro něj nevede samostatnou průběžnou evidenci,
+>
+> - u) jako provozovatel lékárny v rozporu s § 91 odst. 2 nepředá stanoveným způsobem údaje o množství odpadu léčiv z domácností krajskému úřadu, nebo
+>
+> - v) nesplní při nakládání s odpadním olejem některou z povinností stanovených v § 92 odst. 3.
+>
+> (4) Právnická nebo podnikající fyzická osoba se dále dopustí přestupku tím, že
+>
+> - a) nevede průběžnou evidenci podle § 94 odst. 1,
+>
+> - b) v rozporu s § 94 odst. 3 neuchovává průběžnou evidenci po dobu nejméně 5 let,
+>
+> - c) neohlásí údaje o zařízení nebo činnosti nebo údaje o zahájení, ukončení, přerušení nebo obnovení provozu zařízení nebo činnosti podle § 95 odst. 1,
+>
+> - d) v rozporu s § 95 odst. 3 nezašle ve stanovené lhůtě a ve stanoveném rozsahu hlášení souhrnných údajů z průběžné evidence,
+>
+> - e) v rozporu s § 95 odst. 4 nezašle ve stanovené lhůtě a ve stanoveném rozsahu hlášení souhrnných údajů z průběžné evidence,
+>
+> - f) při přeshraniční přepravě odpadů nakládá se zadrženým odpadem nebo dopravním prostředkem v rozporu s § 138 odst. 2,
+>
+> - g) při přeshraniční přepravě odpadů provede nedovolenou přepravu odpadů podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo jinak poruší některou z povinností stanovených nařízením Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo nařízením Evropského parlamentu a Rady (EU) [[2017/852|2017/852]],
+>
+> - h) prozatímně uloží nebo trvale odstraní odpadní rtuť v rozporu s čl. 13 odst. 1 nebo 3 nařízení Evropského parlamentu a Rady (EU) [[2017/852|2017/852]],
+>
+> - i) nesplní povinnost uvedenou v čl. 12 nebo 14 nařízení Evropského parlamentu a Rady (EU) [[2017/852|2017/852]] nebo ji splní v rozporu s § 86 odst. 2 nebo [[#§ 3|3]], nebo
+>
+> - j) jako stavebník v rozporu s [[#§ 93a|§ 93a]] nezašle po provedení změny dokončené stavby, terénní úpravy nebo odstranění stavby příslušnému správnímu orgánu stanovené doklady.
+>
+> (5) Za přestupek právnické osoby nebo podnikající fyzické osoby lze uložit pokutu do
+>
+> - a) 10 000 Kč, jde-li o přestupek podle odstavce 1 písm. e), l) nebo m),
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d), h), q), r), t) nebo u), odstavce 2 písm. a), písm. e) bodu 2, písm. f), h) až k), r) nebo s), odstavce 3 písm. a), b), f), g), m), p), s) až u) nebo odstavce 4 písm. b) až e) nebo j),
+>
+> - c) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) až c), písm. g) bodu 2, písm. i) až k), n) až p), s) nebo v), odstavce 2 písm. b) až d), písm. e) bodu 1, písm. g), l), n) až q) nebo t) až z), odstavce 3 písm. d), e), h) až l), n), o), r) nebo v) nebo odstavce 4 písm. a) nebo f), nebo
+>
+> - d) 25 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. f) nebo písm. g) bodu 1, odstavce 2 písm. m), odstavce 3 písm. c) nebo q) nebo odstavce 4 písm. g), h) nebo i).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 8, § 9, § 12, § 13, § 14, § 15, § 17, § 20, § 24, § 26, § 29, § 30, § 34, § 36, § 44, § 45, § 46, § 47, § 49, § 51, § 52, § 62, § 63, § 66, § 67, § 68, § 3, § 69, § 71, § 72, § 76, § 78, § 79, § 80, § 82, § 2, § 83, § 84, § 85, § 87, § 91, § 92, § 94, § 95, § 138, § 86, § 93a
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+- akt EU 2017/852 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=63f5c0cc505f8a5a3eeb -->
 
 ### § 122 — Přestupky obce
 
@@ -1920,6 +3950,74 @@ Obec odpovídá za funkční obecní systém: nepřevzetí KO a neurčení míst
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8a2aed08ab82341d35fc generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 122 — Přestupky obce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Obec se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 59 odst. 1 nepřebere komunální odpad,
+>
+> - b) v rozporu s § 59 odst. 2 neurčí místa pro oddělené soustřeďování komunálního odpadu,
+>
+> - c) v rozporu s § 59 odst. 3 nezajistí splnění stanoveného podílu odděleně soustřeďované recyklovatelné složky z celkového množství komunálních odpadů,
+>
+> - d) nesplní některou z informačních povinností podle § 60 odst. 4,
+>
+> - e) v rozporu s § 65 odst. 2 využívá kompost vzniklý komunitním kompostováním jiným než stanoveným způsobem,
+>
+> - f) nezašle hlášení o komunitních kompostárnách provozovaných na jejím území podle § 66 odst. 2, nebo
+>
+> - g) v rozporu s § 95 odst. 5 nezašle ve stanovené lhůtě a ve stanoveném rozsahu hlášení o obecním systému.
+>
+> (2) Za přestupek obce lze uložit pokutu do
+>
+> - a) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. d),
+>
+> - b) 200 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo e) až g), nebo
+>
+> - c) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 59, § 60, § 65, § 66, § 95
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a2aed08ab82341d35fc -->
+
 ### § 123 — Příslušnost k projednání přestupků
 
 > **§ 123**
@@ -1989,6 +4087,66 @@ Příslušnost se určuje podle katalogu § 123 odst. 1; u alternativní přísl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=73a64445d90137dd48e1 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 123
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Přestupky podle tohoto zákona projednává
+>
+> - a) obecní úřad obce s rozšířenou působností, jde-li o přestupky podle § 117 odst. 1 písm. a) až j), m), n), o) a q) a § 117 odst. 2 písm. a), d) až g) a j),
+>
+> - b) obecní úřad, jde-li o přestupky podle § 117 odst. 1 písm. k), l) a t) a § 121 odst. 2 písm. o),
+>
+> - c) inspekce, jde-li o přestupky podle § 117 odst. 1 písm. p), r) a s), § 117 odst. 2 písm. b), c), h) a i), § 118 odst. 1 písm. a), d) a e), § 118 odst. 2, § 119 odst. 1 písm. a) až h), t) a u), § 119 odst. 2 písm. a) až k), m), n), p) a q), § 120 odst. 1 a § 121 odst. 1 písm. b) až d) a r) až u), § 121 odst. 2 písm. b) až m), t), u) a písm. v) bodu 2, § 121 odst. 3 písm. d), e), i) až l), q) a s) až u), § 121 odst. 4 písm. f) až i),
+>
+> - d) inspekce nebo obecní úřad obce s rozšířenou působností, jde-li o přestupky podle § 118 odst. 1 písm. f) až i), § 119 odst. 1 písm. i) až s), § 119 odst. 2 písm. l), o), r) až v), § 121 odst. 1 písm. a), e) až q) a v), § 121 odst. 2 písm. a), n), p), q), r) a s), § 121 odst. 3 písm. a), b), c), f), g), h), m) až p), r) a v), § 121 odst. 4 písm. a) až e) a j) a § 122 odst. 1,
+>
+> - e) inspekce, obecní úřad nebo obecní úřad obce s rozšířenou působností, jde-li o přestupky podle § 118 odst. 1 písm. b) a c), a
+>
+> - f) Ústřední kontrolní a zkušební ústav zemědělský, jde-li o přestupky podle § 121 odst. 2 písm. v) bodů 1 a [[#§ 3|3]] a písm. w) až z).
+>
+> (2) Správní orgán, který zahájí řízení, informuje o této skutečnosti ostatní příslušné správní orgány a krajský úřad příslušný k rozhodování v pochybnostech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 117, § 121, § 118, § 119, § 120, § 122, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=73a64445d90137dd48e1 -->
+
 ### § 124 — Rozpočtové určení pokut
 
 > **§ 124**
@@ -2042,6 +4200,58 @@ Výnos pokut sleduje ukládající orgán: ČIŽP 50/50 (obec/SFŽP), ORP 50/50 
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o pokutě, doklady o úhradě a převodech výnosu, vymezení místa porušení v rozhodnutí, korespondence se SFŽP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6addd3861b6a3f597eda generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 124
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Ústřední kontrolní a zkušební ústav zemědělský vybírá pokutu, kterou uložil.
+>
+> (2) Pokuty uložené inspekcí jsou z 50 % příjmem rozpočtu obce, na jejímž území došlo k porušení povinnosti, a z 50 % příjmem rozpočtu Státního fondu životního prostředí České republiky. Pokud došlo k porušení povinnosti na území více obcí, podíl na pokutě se mezi jednotlivé obce rozdělí stejným dílem. Pokuta uložená inspekcí obci, která na svém území porušila povinnost, je příjmem rozpočtu Státního fondu životního prostředí České republiky.
+>
+> (3) Pokuty uložené obecním úřadem obce s rozšířenou působností jsou z 50 % příjmem rozpočtu obce, na jejímž území došlo k porušení povinnosti, a z 50 % příjmem obce s rozšířenou působností, jejíž úřad pokutu uložil. Pokud došlo k porušení povinnosti na území více obcí, podíl na pokutě se mezi jednotlivé obce rozdělí stejným dílem. Pokuta uložená obecním úřadem obce s rozšířenou působností obci, která na svém území porušila povinnost, je z 50 % příjmem rozpočtu Státního fondu životního prostředí České republiky a z 50 % příjmem rozpočtu obce s rozšířenou působností, jejíž úřad pokutu uložil.
+>
+> (4) Pokuty uložené Ústředním kontrolním a zkušebním ústavem zemědělským jsou příjmem rozpočtu Státního fondu životního prostředí České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6addd3861b6a3f597eda -->
 
 ### § 125 — Upuštění od správního trestu
 
@@ -2099,6 +4309,52 @@ Tento institut podporuje **kooperativní compliance** — pachatel je motivován
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=264d4e6a63ede130f994 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 125
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Od uložení správního trestu lze upustit také tehdy, jestliže pachatel přestupku zajistí odstranění následků porušení povinnosti, přijme faktická opatření zamezující dalšímu trvání nebo obnově protiprávního stavu a uložení správního trestu by vzhledem k nákladům na učiněná opatření vedlo k nepřiměřené tvrdosti. Z důvodu provádění opatření zamezujících vzniku dalších nepříznivých následků lze řízení o přestupku přerušit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=264d4e6a63ede130f994 -->
+
 ## ČÁST SEDMÁ — Výkon státní správy (§§ 126–150)
 
 ### § 126 — Soustava správních orgánů
@@ -2155,6 +4411,80 @@ Tato složitost je důsledkem multidisciplinárního charakteru odpadové proble
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=50a45f1852ebf65a570f generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 126 — Správní orgány vykonávající státní správu v oblasti odpadového hospodářství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Státní správu na úseku odpadového hospodářství vykonávají
+>
+> - a) ministerstvo,
+>
+> - b) Ministerstvo průmyslu a obchodu,
+>
+> - c) Ministerstvo zemědělství,
+>
+> - d) Ústřední kontrolní a zkušební ústav zemědělský,
+>
+> - e) Ministerstvo zdravotnictví,
+>
+> - f) krajské hygienické stanice,
+>
+> - g) inspekce,
+>
+> - h) celní úřady a Generální ředitelství cel,
+>
+> - i) Policie České republiky,
+>
+> - j) krajské úřady,
+>
+> - k) obecní úřady obcí s rozšířenou působností,
+>
+> - l) obecní úřady,
+>
+> - m) újezdní úřady a
+>
+> - n) Státní fond životního prostředí České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=50a45f1852ebf65a570f -->
+
 ### § 127 — Ministerstvo (MŽP) — gestor
 
 **Výklad:**
@@ -2197,6 +4527,74 @@ MŽP je gestorem soustavy: metodicky řídí, spravuje ISOH, rozhoduje o přeshr
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ČIŽP/KÚ s poučením, podané odvolání/rozklad, doklady o organizačním oddělení agend, korespondence s MŽP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7ea2feb932714a6f40d4 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 127 — Ministerstvo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Ministerstvo
+>
+> - a) vykonává kontrolu na úseku státní správy vykonávané podle tohoto zákona a přímo použitelných předpisů Evropské unie, s výjimkou ochrany veřejného zdraví, při nakládání s odpady; kontroluje, jak správní orgány vykonávající státní správu na úseku odpadového hospodářství dodržují ustanovení tohoto zákona a předpisů vydaných k jeho provedení,
+>
+> - b) vykonává funkci kontaktního místa pro Basilejskou úmluvu23),
+>
+> - c) vykonává funkci příslušného orgánu a kontaktního subjektu pro přeshraniční přepravu odpadů, funkci příslušného orgánu pro zařízení na recyklaci lodí a funkci kontaktního subjektu pro odpady perzistentních organických znečišťujících látek,
+>
+> - d) vydává rozhodnutí podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] a podle [[#§ 49|§ 49]], [[#§ 51|51]] a § 52 odst. 1 a [[#§ 2|2]],
+>
+> - e) shromažďuje a zpracovává údaje vložené do Informačního systému odpadového hospodářství,
+>
+> - f) zveřejňuje v rozsahu a způsobem stanoveným tímto zákonem Informační systém odpadového hospodářství,
+>
+> - g) poskytuje orgánům Evropské unie a orgánům zřízeným na základě mezinárodních smluv v oblasti odpadového hospodářství, jimiž je Česká republika vázána, v požadovaném rozsahu a formátu a v požadovaných intervalech informace o stavu odpadového hospodářství v České republice,
+>
+> - h) rozhoduje o odvolání proti rozhodnutí inspekce a krajského úřadu,
+>
+> - i) vydává stanovisko k územnímu rozvojovému plánu podle [[stavebního zákona|stavebního zákona]] z hlediska odpadového hospodářství,
+>
+> - j) schvaluje plány kontrol přepravy odpadů podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] a
+>
+> - k) zpřístupňuje Českému statistickému úřadu údaje ohlášené podle tohoto zákona a poskytuje mu součinnost pro vyhodnocení kvality zpřístupněných údajů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49, § 51, § 52, § 2
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ea2feb932714a6f40d4 -->
 
 ### § 128 — Informační systém odpadového hospodářství (ISOH)
 
@@ -2301,6 +4699,90 @@ ISOH je centrální datový uzel odpadového hospodářství: veřejné jsou sou
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=25b1ac386d3652209007 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 128 — Informační systém odpadového hospodářství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Informační systém odpadového hospodářství je informačním systémem veřejné správy, který spravuje a provozuje ministerstvo.
+>
+> (2) V Informačním systému odpadového hospodářství se shromažďují údaje
+>
+> - a) o ohlašovaných odpadech a způsobech nakládání s nimi,
+>
+> - b) o přepravě nebezpečných odpadů,
+>
+> - c) o zařízeních určených pro nakládání s odpady,
+>
+> - d) o osobách, které podávají hlášení podle tohoto zákona, a o původcích odpadu,
+>
+> - e) o obchodnících s odpady, zprostředkovatelích a dopravcích odpadu,
+>
+> - f) o evidenci polychlorovaných bifenylů, odpadů polychlorovaných bifenylů, zařízení obsahujících polychlorované bifenyly a podléhajících evidenci, zařízeních, která mohou obsahovat polychlorované bifenyly a podléhají evidenci, a odpadů perzistentních organických znečišťujících látek,
+>
+> - g) o stavu rezervy, volné kapacitě skládek, poplatcích za ukládání odpadů na skládky včetně vyúčtování,
+>
+> - h) o přeshraniční přepravě odpadů,
+>
+> - i) o rozhodnutích vydaných krajskými úřady a obecními úřady obcí s rozšířenou působností podle tohoto zákona,
+>
+> - j) podle zákona [[o výrobcích s ukončenou životností|o výrobcích s ukončenou životností]] a
+>
+> - k) o provedených hodnoceních nebezpečných vlastností odpadů.
+>
+> (3) Informační systém odpadového hospodářství je veřejně přístupný, pokud jde o
+>
+> - a) souhrnné informace o odpadech a způsobech nakládání s nimi,
+>
+> - b) seznam zařízení určených pro nakládání s odpady, obchodníků s odpady, zprostředkovatelů a dopravců odpadu,
+>
+> - c) aktuální informace o provozu zařízení určených pro nakládání s odpady a činnosti obchodníků s odpady, zprostředkovatelů a dopravců odpadu,
+>
+> - d) informace podle zákona [[o výrobcích s ukončenou životností|o výrobcích s ukončenou životností]] a
+>
+> - e) seznam osob pověřených k hodnocení nebezpečných vlastností odpadů.
+>
+> (4) Informace shromažďované v Informačním systému odpadového hospodářství slouží jako podklad k vyhodnocování odpadového hospodářství v České republice a k výkonu kontrolní činnosti a s výjimkou údajů podle odstavce 3 se poskytují pouze orgánům veřejné správy a složkám integrovaného záchranného systému při řešení krizových situací nebo mimořádných událostí podle jiných právních předpisů18).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25b1ac386d3652209007 -->
+
 ### § 129 — Ministerstvo průmyslu a obchodu
 
 MPO vydává vyjádření v řízení o vydání povolení, že věc přestává být odpadem (§ 10 odst. 1) — koordinuje politiku **end-of-waste** s průmyslovou politikou (zájem podniků na získání druhotných surovin).
@@ -2342,6 +4824,52 @@ Vyjádření MPO dle § 129 je nezávazný odborný podklad koordinující end-o
 **Typicky rozhodné důkazy / podklady:** žádost o povolení s technickou dokumentací, vyjádření MPO, podklady o splnění podmínek § 10 (normy, existence trhu, způsoby využití), rozhodnutí krajského úřadu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=58db87f0ae5d6b5dd1f9 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 129 — Ministerstvo průmyslu a obchodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Ministerstvo průmyslu a obchodu vydává vyjádření v řízení o vydání povolení, že věc přestává být odpadem, podle § 10 odst. 1 a v řízení o změně nebo zrušení tohoto povolení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=58db87f0ae5d6b5dd1f9 -->
 
 ### § 130, § 131 — Ministerstvo zemědělství, ÚKZÚZ
 
@@ -2385,6 +4913,106 @@ U kalů na zemědělské půdě platí zvláštní linie: program schvaluje a ko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3d636b27339659bc1cdf generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 130 — Ministerstvo zemědělství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Ministerstvo zemědělství
+>
+> - a) koordinuje provádění kontrol dodržování povinností při používání upravených kalů na zemědělské půdě a
+>
+> - b) rozhoduje o odvolání proti rozhodnutí Ústředního kontrolního a zkušebního ústavu zemědělského.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d636b27339659bc1cdf -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2f323921d91615760a20 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 131 — Ústřední kontrolní a zkušební ústav zemědělský
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Ústřední kontrolní a zkušební ústav zemědělský
+>
+> - a) rozhoduje o schválení programu použití kalů a kontroluje, zda jsou kaly používány na základě schváleného programu použití kalů a v souladu s ním, a
+>
+> - b) kontroluje, jak jsou zemědělskými podnikateli dodržovány povinnosti podle § 68 odst. 2, [[#§ 4|4]] a [[#§ 5|5]] a § 69 odst. 1 až 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 68, § 4, § 5, § 69
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f323921d91615760a20 -->
+
 ### § 132, § 133 — Ministerstvo zdravotnictví, krajská hygienická stanice
 
 MZ kontroluje hygienické aspekty odpadové správy. **KHS** vydává **závazná stanoviska** v řízeních o povolení podle § 10 (end-of-waste), § 21 odst. 2 (povolení provozu zařízení) — zejména pokud se týkají ochrany veřejného zdraví.
@@ -2426,6 +5054,106 @@ Hygienická větev vstupuje do povolování zařízení závaznými stanovisky K
 **Typicky rozhodné důkazy / podklady:** žádost s technickou dokumentací, závazné stanovisko KHS, odborné studie (hluk, emise, bioaerosol), rozhodnutí krajského úřadu, potvrzení/změna stanoviska MZdr.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ac0fba89fcdf7f1a0742 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 132 — Ministerstvo zdravotnictví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Ministerstvo zdravotnictví vykonává kontrolu na úseku státní správy vykonávané podle tohoto zákona v oblasti ochrany veřejného zdraví při nakládání s odpady; kontroluje, jak správní orgány vykonávající státní správu na úseku odpadového hospodářství dodržují ustanovení tohoto zákona a předpisů vydaných k jeho provedení v oblasti ochrany veřejného zdraví při nakládání s odpady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac0fba89fcdf7f1a0742 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=dfaaf924b0f9bb62fbb5 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 133 — Krajská hygienická stanice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Krajská hygienická stanice
+>
+> - a) vydává závazné stanovisko v řízení o vydání povolení, že movitá věc přestává být odpadem podle § 10 odst. 1, a v řízení o změně nebo zrušení tohoto povolení, vždy když se změna nebo důvod zrušení týkají oblastí ochrany veřejného zdraví; v závazném stanovisku může stanovit podmínky k zajištění ochrany zdraví lidí,
+>
+> - b) vydává závazné stanovisko v řízení o vydání povolení provozu zařízení podle § 21 odst. 2 a v řízení o změně nebo zrušení tohoto povolení, vždy když se změna nebo důvod zrušení týkají oblasti ochrany veřejného zdraví; v závazném stanovisku může stanovit podmínky k zajištění ochrany zdraví lidí,
+>
+> - c) spolupracuje s ostatními správními úřady v oblasti ochrany veřejného zdraví při nakládání s odpady a
+>
+> - d) provádí kontrolu provozu zařízení určených pro nakládání s odpady z hlediska dodržování podmínek provozu vázaných na ochranu zdraví lidí a minimalizaci zdravotních rizik uvedených v provozním řádu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dfaaf924b0f9bb62fbb5 -->
 
 ### § 134 — Inspekce (ČIŽP)
 
@@ -2512,6 +5240,70 @@ Hygienická větev vstupuje do povolování zařízení závaznými stanovisky K
 **Typicky rozhodné důkazy / podklady:** přepravní a průvodní doklady (formulář dle čl. 18 / oznámení), kontrolní protokol, protokoly o odběru a analýze vzorků, fotodokumentace nákladu, korespondence s MŽP a celním úřadem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d5b4066eac49c4ddc978 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 134 — Inspekce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Inspekce
+>
+> - a) kontroluje, jak jsou právnickými osobami, podnikajícími fyzickými osobami a obcemi dodržována ustanovení právních předpisů včetně přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů ve všech oblastech působnosti tohoto zákona, s výjimkou oblastí, v nichž je podle [[#§ 147|§ 147]] odst. 1 písm. a) ke kontrole příslušný obecní úřad, a zda pověřené osoby dodržují stanovený způsob hodnocení nebezpečných vlastností odpadů,
+>
+> - b) nejméně jednou ročně kontroluje, jak původce odpadu z výroby oxidu titaničitého dodržuje ustanovení právních předpisů a rozhodnutí ministerstva a jiných správních orgánů v oblasti odpadového hospodářství,
+>
+> - c) zpracovává plány kontrol přepravy odpadů podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]],
+>
+> - d) kontroluje, zda je s odpady perzistentních organických znečišťujících látek nakládáno v souladu s nařízením Evropského parlamentu a Rady (EU) [[2019/1021|2019/1021]] a tímto zákonem,
+>
+> - e) kontroluje, zda jsou zařízení na recyklaci lodí provozována v souladu s nařízením Evropského parlamentu a Rady (EU) č. [[1257/2013|1257/2013]] a tímto zákonem, a
+>
+> - f) kontroluje dodržování podmínek při přeshraniční přepravě odpadů stanovených nařízením Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] a tímto zákonem.
+>
+> (2) V rámci přeshraniční přepravy odpadů inspekce může provádět kontroly na místě vzniku odpadu, u oznamovatele a příjemce a během přepravy ve spolupráci s celními úřady nebo Policií České republiky. Inspekce může též provádět kontrolu dokladů podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] a podle tohoto zákona, fyzickou kontrolu odpadů a odebírat a analyzovat vzorky. Inspekce může ke kontrole prováděné v rámci přeshraniční přepravy odpadů přizvat ministerstvo.
+>
+> (3) Inspekce spolupracuje s obecními úřady, orgány ochrany veřejného zdraví, celními úřady, Státním fondem životního prostředí České republiky, Hasičským záchranným sborem České republiky a Policií České republiky, popřípadě dalšími správními úřady, kraji a obcemi a poskytuje jim odbornou pomoc.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 147
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+- akt EU 2019/1021 (výslovně uvedeno v místním znění)
+- akt EU 1257/2013 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d5b4066eac49c4ddc978 -->
 
 ### § 135–142 — Celní úřady a Generální ředitelství cel
 
@@ -2726,6 +5518,288 @@ Celní správa tvoří fyzickou bariéru nelegálních toků odpadů: kontroluje
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=91565a55e378071d6d37 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 135 — Celní úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Celní úřad
+>
+> - a) kontroluje přepravu odpadů v rozsahu stanoveném tímto zákonem a
+>
+> - b) předává podněty ministerstvu k dalšímu postupu podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]].
+>
+> (2) Při přepravě odpadů celní úřad kontroluje, zda je vozidlo označeno podle tohoto zákona.
+>
+> (3) Při přepravě nebezpečných odpadů celní úřad kontroluje také, zda
+>
+> - a) odpad je doprovázen dokladem podle tohoto zákona a
+>
+> - b) odpad odpovídá údajům uvedeným v dokladu podle písmene a).
+>
+> (4) Při přeshraniční přepravě odpadů celní úřad kontroluje také, zda
+>
+> - a) odpad je doprovázen dokladem podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo podle tohoto zákona,
+>
+> - b) odpad odpovídá údajům uvedeným v dokladu podle písmene a),
+>
+> - c) přepravované zboží, které není doprovázeno dokladem podle písmene a), není odpadem a
+>
+> - d) přeshraniční přeprava odpadu není v rozporu s nařízením Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo tímto zákonem.
+>
+> (5) Celní úřad při dovozu, vývozu a tranzitu odpadu nepropustí do navrženého celního režimu
+>
+> - a) zboží, které není deklarováno jako odpad, a je odpadem,
+>
+> - b) odpad, který není doprovázen dokladem podle odstavce 4 písm. a),
+>
+> - c) odpad, jehož přeprava je v rozporu s nařízením Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo tímto zákonem,
+>
+> - d) odpad, který neodpovídá údajům uvedeným v dokladu podle odstavce 4 písm. a), a
+>
+> - e) odpad, jehož přeprava do nebo ze států, které nejsou členskými státy Evropské unie, je zakázána.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=91565a55e378071d6d37 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ec6dde424a08ce1211b3 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 136 — Provádění kontroly přepravy odpadů celním úřadem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Při kontrole přepravy odpadů může celní úřad odebírat a analyzovat vzorky. Za odběr vzorků nenáleží náhrada.
+>
+> (2) V případě, že celní úřad zjistí skutečnosti nasvědčující porušení nařízení Evropského parlamentu a Rady (ES) č. 1013/2006 nebo tohoto zákona, může provést šetření také na místě vzniku odpadů u původce odpadu, držitele odpadu nebo oznamovatele a na místě určení u příjemce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ec6dde424a08ce1211b3 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=aba351f669b914ab8189 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 137 — Zadržení odpadu celním úřadem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Celní úřad zadrží odpad, obal nebo dopravní prostředek, který je dopravuje, postupem podle zákona upravujícího Celní správu České republiky v případě důvodného podezření, že došlo k závažnému porušení nařízení Evropského parlamentu a Rady (ES) č. 1013/2006 nebo tohoto zákona a důvodného podezření, že přeprava odpadu je
+>
+> - a) nedovolenou přeshraniční přepravou odpadů podle nařízení Evropského parlamentu a Rady (ES) č. 1013/2006 nebo podle tohoto zákona nebo
+>
+> - b) uskutečňována v rozporu se souhlasem ministerstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aba351f669b914ab8189 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2965044755ed105983ae generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 140 — Vrácení zadrženého odpadu a dopravního prostředku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Celní úřad vrátí zadržený odpad, obal nebo dopravní prostředek také pokud ministerstvo nestanovilo další postup podle nařízení Evropského parlamentu a Rady (ES) č. 1013/2006 nebo tohoto zákona, který vrácení odpadu, obalu nebo dopravního prostředku vylučuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2965044755ed105983ae -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f79a01ea69b9fe1565e1 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 142 — Součinnost celního úřadu s jinými orgány
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Celní úřad si při provádění kontroly přepravy odpadů může vyžádat odbornou pomoc inspekce a ministerstva.
+>
+> (2) V případě pochybností o tom, zda přepravované zboží je odpadem, požádá celní úřad o vydání odborného stanoviska inspekci. Inspekce vydá odborné stanovisko ve lhůtě 3 pracovních dnů ode dne doručení žádosti inspekci, neprodlouží-li celní úřad tuto lhůtu na žádost inspekce.
+>
+> (3) Neobdrží-li celní úřad ve lhůtě 5 dnů od odeslání žádosti od inspekce odborné stanovisko, má se za to, že zboží není odpadem.
+>
+> (4) Celní úřad bez zbytečného odkladu informuje ministerstvo a inspekci o
+>
+> - a) zjištěném porušení nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo tohoto zákona,
+>
+> - b) nepropuštění zboží nebo odpadu do celního režimu v souvislosti s prováděním kontroly přepravy odpadů a
+>
+> - c) zadržení odpadu nebo dopravního prostředku, který jej dopravuje, v případě podezření, že přeshraniční přeprava tohoto odpadu je nedovolenou přepravou odpadů podle nařízení Evropského parlamentu a Rady (ES) č. [[1013/2006|1013/2006]] nebo že přeshraniční přeprava odpadu je uskutečňována v rozporu se souhlasem ministerstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1013/2006 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f79a01ea69b9fe1565e1 -->
+
 ### § 144 — Policie České republiky
 
 Policie **zaznamenává a dokumentuje** podezřelé jevy nasvědčující nedovolené přeshraniční přepravě a poskytuje odbornou pomoc ČIŽP, krajským úřadům a celním úřadům. Tato role je nutná pro vyšetřování trestných činů podle § 298 trestního zákoníku (Neoprávněné nakládání s odpady — sazba až 8 let odnětí svobody).
@@ -2767,6 +5841,60 @@ Policie **zaznamenává a dokumentuje** podezřelé jevy nasvědčující nedovo
 **Typicky rozhodné důkazy / podklady:** úřední záznam a fotodokumentace policie, přepravní a celní doklady, výpověď řidiče, protokol o zadržení a vzorkování, evidence dopravce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c09f9df79713b838f47e generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 144 — Policie České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Policie České republiky
+>
+> - a) zaznamenává a dokumentuje podezřelé jevy a okolnosti nasvědčující nedovolené přeshraniční přepravě odpadů a
+>
+> - b) spolupracuje a v rámci součinnosti poskytuje odbornou pomoc a přiměřené podmínky pro výkon působnosti podle tohoto zákona inspekci, krajským úřadům a celním úřadům.
+>
+> (2) Policie České republiky v rámci spolupůsobení a při získávání informací potřebných pro plnění úkolů podle odstavce 1 postupuje a využívá oprávnění podle příslušných právních předpisů24).
+>
+> (3) Policie České republiky si při plnění úkolů podle odstavce 1 může vyžádat odbornou pomoc orgánů inspekce nebo celních úřadů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c09f9df79713b838f47e -->
 
 ### § 145 — Krajský úřad
 
@@ -2844,6 +5972,68 @@ Krajský úřad je hlavním licenčním a dozorovým orgánem běžného provozu
 **Typicky rozhodné důkazy / podklady:** povolení provozu a provozní řád, kontrolní protokoly, provozní deník a evidence přijatých odpadů, rozbory vod a znalecké posudky, výzvy k nápravě a reakce provozovatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=943d18c56248d1a5a3f1 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 145 — Krajský úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Krajský úřad
+>
+> - a) kontroluje, jak jsou právnickými osobami a podnikajícími fyzickými osobami dodržována ustanovení právních předpisů a rozhodnutí správních orgánů ve všech oblastech působnosti tohoto zákona, s výjimkou oblastí, v nichž je podle § 147 odst. 1 písm. a) ke kontrole příslušný obecní úřad, a zda pověřené osoby dodržují stanovený způsob hodnocení nebezpečných vlastností odpadů,
+>
+> - b) zpracovává a průběžně vede evidenci jím vydaných povolení a dalších rozhodnutí podle tohoto zákona,
+>
+> - c) může zastavit nebo omezit provoz zařízení ke skladování, sběru, úpravě, využití nebo odstranění odpadů, pokud provozovatel tohoto zařízení neplní povinnosti stanovené tímto zákonem nebo rozhodnutím vydaným na základě tohoto zákona, a mohlo-li by v důsledku toho dojít k závažným nepříznivým dopadům na životní prostředí nebo zdraví lidí,
+>
+> - d) může omezit nebo zakázat provoz zařízení určeného pro nakládání s odpady z výroby oxidu titaničitého, pokud monitorování složek životního prostředí prokáže akutní toxicitu přesahující mezní hodnoty stanovené prováděcím právním předpisem nebo jiné, stejně závažné zhoršení stavu životního prostředí,
+>
+> - e) vydává stanovisko k zásadám územního rozvoje podle [[stavebního zákona|stavebního zákona]] z hlediska odpadového hospodářství,
+>
+> - f) rozhoduje podle čl. 7 odst. 4 písm. b) nařízení Evropského parlamentu a Rady (ES) č. [[850/2004|850/2004]], v rozhodnutí může stanovit podmínky; o vydaných rozhodnutích informuje ministerstvo každoročně do 30. dubna následujícího kalendářního roku, a
+>
+> - g) schvaluje plán recyklace lodi podle čl. 7 nařízení Evropského parlamentu a Rady (EU) č. [[1257/2013|1257/2013]].
+>
+> (2) Pokud tímto zákonem nebo jiným právním předpisem není stanoveno jinak, je k rozhodování, provádění kontroly a vydávání stanoviska podle odstavce 1 místně příslušný krajský úřad, v jehož správním obvodu je provozováno zařízení nebo činnost nebo se nachází movitá věc, které se rozhodnutí týká. V případě mobilního zařízení je k vedení řízení o vydání povolení provozu zařízení, jeho změně nebo zrušení příslušný krajský úřad, v jehož správním obvodu má sídlo provozovatel zařízení v okamžiku podání žádosti o povolení provozu zařízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 147
+
+##### Souvisící předpisy
+
+- akt EU 1257/2013 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=943d18c56248d1a5a3f1 -->
 
 ### § 146 — Obecní úřad obce s rozšířenou působností (ORP)
 
@@ -2932,6 +6122,76 @@ ORP je základní výkonnou úrovní odpadové správy: eviduje a kontroluje, p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=82b94beaa911f7629caa generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 146 — Obecní úřad obce s rozšířenou působností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Obecní úřad obce s rozšířenou působností
+>
+> - a) vede a zpracovává evidenci jím vydaných souhlasů a dalších rozhodnutí podle tohoto zákona,
+>
+> - b) kontroluje, jak jsou dodržována ustanovení právních předpisů a rozhodnutí správních orgánů ve všech oblastech působnosti tohoto zákona, s výjimkou oblastí, v nichž je podle § 147 odst. 1 písm. a) ke kontrole příslušný obecní úřad, a zda pověřené osoby dodržují stanovený způsob hodnocení nebezpečných vlastností odpadů,
+>
+> - c) může zabezpečit odpad, který ohrožuje nebo poškozuje zdraví lidí nebo životní prostředí, před únikem škodlivin do okolního prostředí nebo zajistit odklizení takového odpadu včetně jeho předání do zařízení určeného pro nakládání s odpady, a to na náklady odpovědné osoby; při správě placení těchto nákladů se postupuje podle [[daňového řádu|daňového řádu]],
+>
+> - d) může zakázat původci odpadů činnost, která způsobuje vznik odpadů, pokud původce odpadu nemá zajištěno převzetí odpadů, které produkuje, osobou oprávněnou k převzetí daného druhu a kategorie odpadu, a pokud by odpady vzniklé v důsledku pokračování této činnosti mohly způsobit škodu na životním prostředí nebo zdraví lidí, a
+>
+> - e) vydává stanovisko k územním plánům a regulačním plánům podle [[stavebního zákona|stavebního zákona]] z hlediska odpadového hospodářství.
+>
+> (2) Pokud tímto zákonem nebo jiným právním předpisem není stanoveno jinak, je k rozhodování podle odstavce 1 místně příslušný obecní úřad obce s rozšířenou působností, v jehož správním obvodu je provozována činnost nebo se nachází movitá věc, které se rozhodnutí týká.
+>
+> (3) Obecní úřad obce s rozšířenou působností vydává
+>
+> - a) závazné stanovisko k terénním úpravám a k odstranění stavby podléhajícím povolení podle [[stavebního zákona|stavebního zákona]] z hlediska nakládání s odpady, vedlejšími produkty, stavebními výrobky, které přestaly být odpadem, nebo stavebními výrobky určenými k opětovnému použití; v závazném stanovisku může stanovit podmínky, které zajistí ochranu zdraví a životního prostředí a dodržení hierarchie odpadového hospodářství,
+>
+> - b) vyjádření ke změně dokončené stavby podléhající povolení podle [[stavebního zákona|stavebního zákona]] z hlediska nakládání s odpady, vedlejšími produkty, stavebními výrobky, které přestaly být odpadem, nebo stavebními výrobky určenými k opětovnému použití,
+>
+> - c) vyjádření ke zřízení zařízení určeného pro nakládání s odpady a k zavedení nebo rozšíření výroby oxidu titaničitého.
+>
+> (4) Závazné stanovisko a vyjádření podle odstavce 3 obsahuje posouzení žádosti z hlediska jejího souladu s povinnostmi vyplývajícími z tohoto zákona a prováděcích právních předpisů.
+>
+> (5) Vyjádření a závazné stanovisko podle odstavce 3 vydává obecní úřad obce s rozšířenou působností, v jehož správním obvodu má být realizován příslušný záměr.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 147
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82b94beaa911f7629caa -->
+
 ### § 147 — Obecní úřad
 
 Obecní úřad má omezenou působnost:
@@ -2980,6 +6240,56 @@ Toto je úroveň **lokálního dohledu** nad provozem obecního systému (§ 59 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dda7b9aea155c485f6e3 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 147 — Obecní úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Obecní úřad kontroluje, zda právnické a podnikající fyzické osoby
+>
+> - a) využívají obecní systém pouze na základě písemné smlouvy s obcí a v souladu s ní a zda nepodnikající fyzické osoby nakládají s komunálním odpadem v souladu s tímto zákonem, a
+>
+> - b) mají zajištěno převzetí odpadu, který samy nezpracují v souladu s tímto zákonem, osobou oprávněnou k převzetí daného druhu a kategorie odpadu podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dda7b9aea155c485f6e3 -->
+
 ### § 148 — Újezdní úřad
 
 Újezdní úřady (na území vojenských újezdů) plní pro účely obrany státu **kombinovanou působnost** krajského úřadu, ORP a obecního úřadu — adekvátně potřebám výcviku ozbrojených sil. § 59 až 61 (obecní systém) se na újezdní úřady **nepoužijí** — vojenský újezd nemá komunální odpadové hospodářství v běžném smyslu.
@@ -3020,6 +6330,60 @@ Na území vojenských újezdů je jediným adresátem odpadové agendy újezdn�
 **Typicky rozhodné důkazy / podklady:** vymezení hranic újezdu, žádost o povolení provozu, doklady o předávání odpadů oprávněným osobám.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=62408083666e82c84c8a generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 148 — Újezdní úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Újezdní úřad vykonává pro potřeby zajišťování obrany státu a výcviku ozbrojených sil na území vojenského újezdu podle zákona [[o zajišťování obrany České republiky|o zajišťování obrany České republiky]] státní správu v rozsahu působnosti
+>
+> - a) krajského úřadu podle § 21 odst. 2, § 30 odst. 3, § 34 odst. 4, § 36 odst. 2, § 72 odst. 3 a [[#§ 4|4]], § 96 odst. 1, [[#§ 3|3]] a [[#§ 4|4]] a § 145 odst. 1 písm. a), b), d) a e),
+>
+> - b) obecního úřadu obce s rozšířenou působností podle § 30 odst. 3, § 34 odst. 4, § 36 odst. 2, § 96 odst. 2 a [[#§ 3|3]], § 146 odst. 1 písm. d) a e) a § 146 odst. 2 až 5 a
+>
+> - c) obecního úřadu podle [[#§ 147|§ 147]].
+>
+> (2) Ustanovení § 59 až 61 se na újezdní úřad nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 30, § 34, § 36, § 72, § 4, § 96, § 3, § 145, § 146, § 147, § 59
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=62408083666e82c84c8a -->
 
 ### § 149 — Součinnost stavebního úřadu
 
@@ -3063,6 +6427,52 @@ Při kontrolních prohlídkách postupuje stavební úřad **v součinnosti s OR
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1c46d6313cddd91d26e7 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 149 — Součinnost stavebního úřadu se správními orgány vykonávajícími státní správu v oblasti odpadového hospodářství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Při provádění kontrolních prohlídek, závěrečných kontrolních prohlídek a při provádění kontroly ve věcech stavebního řádu postupuje stavební úřad v součinnosti s obecním úřadem obce s rozšířenou působností. Jde-li o záměr vyžadující jednotné environmentální stanovisko26), postupuje stavební úřad v součinnosti s orgánem vykonávajícím státní správu v oblasti odpadového hospodářství příslušným k vydání jednotného environmentálního stanoviska.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c46d6313cddd91d26e7 -->
+
 ### § 150 — Průkaz inspektorů a pověřených zaměstnanců
 
 Pověření zaměstnanci a inspektoři se prokazují **průkazem** vydaným příslušným orgánem — průkaz současně osvědčuje totožnost, příslušnost k orgánu a pověření ke kontrole. Pravidlo je ustanovením o **identifikaci výkonných orgánů** v terénu (obdoba § 9 zákona č. 255/2012 Sb. o kontrole).
@@ -3103,6 +6513,52 @@ Průkaz podle § 150 je univerzálním dokladem kontrolní legitimace v odpadov�
 **Typicky rozhodné důkazy / podklady:** služební průkaz (číslo v protokolu), protokol o kontrole, záznam o odepření vstupu, oznámení předmětu kontroly.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=27ad4aba90ea7949c52a generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 150 — Kontrola v oblasti odpadového hospodářství a nakládání s odpady
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Inspektoři a pověření zaměstnanci správních orgánů vykonávajících kontrolu v oblasti odpadového hospodářství a nakládání s odpady podle tohoto zákona se při výkonu své činnosti prokazují průkazem vydaným příslušným orgánem, který je současně jejich pověřením ke kontrole, osvědčuje, že jeho držitel je zaměstnancem příslušného orgánu a držitel průkazu a příslušný orgán jsou v něm dostatečně identifikováni.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=27ad4aba90ea7949c52a -->
 
 ## ČÁST OSMÁ — Společná, přechodná a zrušovací ustanovení (§§ 151–158)
 
@@ -3162,6 +6618,54 @@ Tato integrace odpovídá **principu „one stop shop"** v environmentálním po
 **Typicky rozhodné důkazy / podklady:** projektová dokumentace s kapacitními údaji, integrované povolení nebo žádost o ně, JES, korespondence s krajským úřadem a ORP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f6ecc2d4f4ff1f78413b generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 151
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Povolení podle § 21 odst. 2 a § 30 odst. 2 a souhlas podle § 42 odst. 3 a § 43 odst. 1 se nevydají podle tohoto zákona, pokud je jejich vydání nahrazeno postupem v řízení o vydání integrovaného povolení podle zákona [[o integrované prevenci|o integrované prevenci]]. Ustanovení [[#§ 23|§ 23]] se nepoužije na zařízení, která mají integrované povolení.
+>
+> (2) Jedná-li se o záměr vyžadující jednotné environmentální stanovisko26), závazné stanovisko podle § 146 odst. 3 písm. a) a vyjádření podle § 146 odst. 3 písm. b) a c) se nevydávají.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 30, § 42, § 43, § 23, § 146
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f6ecc2d4f4ff1f78413b -->
 
 ### § 152 — Přenesená působnost; výkon správy daní
 
@@ -3224,6 +6728,54 @@ Veškerá rozhodovací a kontrolní agenda obcí a krajů podle tohoto zákona j
 **Typicky rozhodné důkazy / podklady:** spisová dokumentace řízení, usnesení orgánů obce, žádost o informace a předávací protokol mezi orgány, vymezení účelu poskytnutí informací.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=68836df866c46b6a7399 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 152
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Působnosti stanovené krajskému úřadu, obecnímu úřadu obce s rozšířenou působností nebo obecnímu úřadu podle tohoto zákona jsou výkonem přenesené působnosti.
+>
+> (2) Výkon působnosti celních úřadů a Generálního ředitelství cel podle tohoto zákona se považuje za výkon správy daní. Poskytnutí informací získaných při výkonu působnosti podle tohoto zákona jinému orgánu veřejné moci pro účely výkonu jeho působnosti podle tohoto zákona není porušením mlčenlivosti podle [[daňového řádu|daňového řádu]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=68836df866c46b6a7399 -->
 
 ### § 153 — Přechodná ustanovení k povolením a zařízením
 
@@ -3302,6 +6854,62 @@ Toto pravidlo zajišťuje **plynulý přechod** bez kolapsu infrastruktury — p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=998da11238370a7127f1 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 153
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Řízení zahájená podle [[zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů|zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, se dokončí podle [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (2) Zařízení k využití, odstranění, sběru nebo výkupu odpadů provozovaná přede dnem nabytí účinnosti tohoto zákona na základě souhlasu krajského úřadu podle [[§ 14 odst. 1|§ 14 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považují za zařízení určená pro nakládání s odpady podle tohoto zákona, a to do uplynutí doby platnosti souhlasu, na základě kterého jsou provozována, nejdéle však do 1 roku ode dne nabytí účinnosti tohoto zákona v případě mobilních zařízení ke sběru a výkupu odpadu, do 2 let ode dne nabytí účinnosti tohoto zákona v případě ostatních zařízení ke sběru nebo výkupu odpadu a do 3 let ode dne nabytí účinnosti tohoto zákona v případě zařízení k využití nebo odstranění odpadu. Pokud provozovatel takového zařízení požádá o vydání povolení podle § 21 odst. 2 nejpozději 6 měsíců před uplynutím doby platnosti souhlasu podle [[§ 14 odst. 1|§ 14 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, nejdéle však 6 měsíců před uplynutím lhůt podle věty první, smí být zařízení provozováno na základě tohoto souhlasu do dne, kdy bude o jeho žádosti pravomocně rozhodnuto.
+>
+> (3) Zařízení, která přede dnem nabytí účinnosti tohoto zákona nebyla určena pro nakládání s odpady, přijímala odpady na základě [[§ 14 odst. 2|§ 14 odst. 2]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, a nesplňují podmínky uvedené v § 21 odst. 3, smí přijímat odpady bez povolení podle § 21 odst. 2 po dobu 1 roku ode dne nabytí účinnosti tohoto zákona. Pokud provozovatel takového zařízení požádá o vydání povolení podle § 21 odst. 2 do 6 měsíců ode dne nabytí účinnosti tohoto zákona, smí přijímat odpady bez povolení podle § 21 odst. 2 do dne, kdy bude o jeho žádosti pravomocně rozhodnuto. Po dobu, kdy lze podle věty první nebo druhé přijímat do zařízení odpady bez povolení podle § 21 odst. 2, se použije obdobně § 9 odst. 4.
+>
+> (4) Sklady odpadu provozované přede dnem nabytí účinnosti tohoto zákona bez souhlasu podle [[§ 14 odst. 1|§ 14 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, smí být provozovány bez povolení podle § 21 odst. 2 po dobu 1 roku ode dne nabytí účinnosti tohoto zákona. Pokud provozovatel takového skladu požádá o vydání povolení podle § 21 odst. 2 do 6 měsíců ode dne nabytí účinnosti tohoto zákona, smí být sklad odpadu provozován bez povolení podle § 21 odst. 2 do dne, kdy bude o jeho žádosti pravomocně rozhodnuto.
+>
+> (5) Zařízení provozované přede dnem nabytí účinnosti tohoto zákona jako malé zařízení podle [[§ 33b odst. 1 písm. a)|§ 33b odst. 1 písm. a)]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považuje za malé zařízení provozované na základě souhlasu podle § 64 odst. 2, a to do uplynutí doby platnosti kladného vyjádření podle [[§ 79 odst. 4 písm. d)|§ 79 odst. 4 písm. d)]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, na základě kterého jsou provozována, nejdéle však 2 roky ode dne nabytí účinnosti tohoto zákona. Pokud provozovatel takového zařízení požádá o souhlas s provozem zařízení podle § 64 odst. 2 nejpozději 6 měsíců před koncem platnosti kladného vyjádření podle [[§ 79 odst. 4 písm. d)|§ 79 odst. 4 písm. d)]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, nejdéle však 2 roky ode dne nabytí účinnosti tohoto zákona, smí být zařízení provozováno na základě tohoto vyjádření do dne, kdy rozhodnutí o jeho žádosti nabude právní moci.
+>
+> (6) Komunitní kompostárna provozovaná přede dnem nabytí účinnosti tohoto zákona podle [[§ 10a|§ 10a]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, nemusí po dobu 1 roku ode dne nabytí účinnosti tohoto zákona splňovat technické požadavky na vybavení a provoz zařízení komunitní kompostárny, technologické požadavky na úpravu rostlinných zbytků z údržby zeleně, zahrad a domácností v komunitní kompostárně stanovené podle § 66 odst. 1 písm. a), pokud splňuje ostatní požadavky [[#§ 65|§ 65]] a [[#§ 66|66]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14, § 21, § 9, § 33b, § 64, § 79, § 10a, § 66, § 65
+
+##### Souvisící předpisy
+
+- zákon č. 185/2001 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=998da11238370a7127f1 -->
+
 ### § 154 — Přechodná ustanovení k evidenci a osvědčením
 
 Hlavní pravidla:
@@ -3348,6 +6956,62 @@ Princip: evidence a hlášení „za starý rok postaru" — nový režim § 95 
 **Typicky rozhodné důkazy / podklady:** podaná hlášení (ISPOP), osvědčení a pověření s daty platnosti, doklady o statusu neodpadu, průběžná evidence odpadů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=73d24f6ba3a603092e51 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 154
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Ohlašování odpadů za rok 2020 se provádí podle [[§ 39 odst. 2|§ 39 odst. 2]] a [[4 až 7|4 až 7]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona. Ohlašování podle § 95 odst. 3 až 5 se poprvé provádí za rok 2021.
+>
+> (2) Plány odpadového hospodářství vydané podle [[§ 42 až 44|§ 42 až 44]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zůstávají v platnosti do uplynutí doby, na kterou byly vydány. Na změny těchto plánů odpadového hospodářství se vztahují ustanovení [[§ 42 až 44|§ 42 až 44]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, do uplynutí doby, na kterou byly vydány. Plán odpadového hospodářství podle § 98 až 101 nemusí být vydán do uplynutí doby, na kterou byl vydán odpovídající plán odpadového hospodářství podle věty první.
+>
+> (3) Osoby pověřené k hodnocení nebezpečných vlastností odpadů podle [[§ 7 odst. 1|§ 7 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považují za osoby pověřené k hodnocení nebezpečných odpadů podle § 73 odst. 1 do uplynutí doby platnosti vydaného pověření k hodnocení nebezpečných vlastností odpadů podle [[§ 7 odst. 2|§ 7 odst. 2]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (4) Osvědčení o vyloučení nebezpečných vlastností odpadu vydaná přede dnem nabytí účinnosti tohoto zákona podle [[§ 9 odst. 1|§ 9 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považují za osvědčení podle § 76 odst. 3 do uplynutí doby, na kterou byla vydána.
+>
+> (5) Odpady, které přestaly být odpadem v souladu s [[§ 3 odst. 6|§ 3 odst. 6]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, a v souladu se souhlasem s provozem zařízení, ze kterého vystoupily, včetně provozního řádu, se považují za věci, které přestávají být odpadem podle [[#§ 10|§ 10]]; to se nepoužije na odpady, pro které byla vydána doplňující kritéria prováděcím právním předpisem nebo přímo použitelným předpisem Evropské unie.
+>
+> (6) Povinnost podle § 15 odst. 2 písm. c) se po dobu jednoho roku ode dne účinnosti tohoto zákona nevztahuje na nepodnikající fyzické osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39, § 95, § 42, § 98, § 7, § 73, § 9, § 76, § 3, § 10, § 15
+
+##### Souvisící předpisy
+
+- zákon č. 185/2001 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=73d24f6ba3a603092e51 -->
 
 ### § 155 — Přechodná ustanovení k poplatkům a opuštěným zařízením
 
@@ -3406,6 +7070,73 @@ Staré poplatkové povinnosti „dojíždějí" podle zákona č. 185/2001 Sb., 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5f5faeddc47e1922b684 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 155
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Pokud původce odpadu ukončil činnost provozovny před nabytím účinnosti tohoto zákona a současně před nabytím účinnosti tohoto zákona nepředal odpady soustředěné v provozovně oprávněné osobě podle [[§ 4 odst. 1 písm. y)|§ 4 odst. 1 písm. y)]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, je povinen tak učinit do 60 dnů ode dne nabytí účinnosti tohoto zákona. Po uplynutí této lhůty se na vlastníka nemovité věci, která byla provozovnou původce odpadu, a kde jsou odpady soustředěny, vztahují povinnosti vlastníka nemovité věci podle § 15 odst. 4.
+>
+> (2) Pokud provozovatel zařízení ukončil provoz zařízení před nabytím účinnosti tohoto zákona a současně před nabytím účinnosti tohoto zákona nepředal odpady soustředěné v zařízení oprávněné osobě podle [[§ 4 odst. 1 písm. y)|§ 4 odst. 1 písm. y)]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, je povinen tak učinit do 60 dnů ode dne nabytí účinnosti tohoto zákona. Po uplynutí této lhůty se na vlastníka nemovité věci, která byla zařízením určeným pro nakládání s odpady, a kde jsou odpady soustředěny, vztahují povinnosti vlastníka nemovité věci podle § 17 odst. 3.
+>
+> (3) Pro poplatkové povinnosti u poplatku za ukládání odpadů na skládky podle [[§ 45 až 48|§ 45 až 48]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, vzniklé přede dnem nabytí účinnosti tohoto zákona, jakož i pro práva a povinnosti s nimi související se použije [[zákon č. 185/2001 Sb|zákon č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (4) Za odpady určené k využití na skládce v první fázi provozu skládky a k výrobě výrobků podle [[§ 3 odst. 6|§ 3 odst. 6]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, určených k využití na skládce v první fázi provozu skládky, se kterými je nakládáno v souladu s podmínkami právních předpisů25) na základě integrovaného povolení vydaného podle [[zákona č. 76/2002 Sb., o integrované prevenci a o omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů|zákona č. 76/2002 Sb., o integrované prevenci a o omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů]] (zákon o integrované prevenci), ve znění [[zákona č. 69/2013 Sb|zákona č. 69/2013 Sb.]], a se kterými bylo na skládce nakládáno po nabytí účinnosti [[zákona č. 229/2014 Sb|zákona č. 229/2014 Sb.]], kterým se mění [[zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů|zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů]], původce odpadu neplatí poplatek za ukládání odpadu podle [[§ 45 odst. 1|§ 45 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (5) Za odpady podle předchozího odstavce provozovatel skládky nevytváří finanční rezervu na rekultivaci, zajištění péče o skládku a asanaci po ukončení jejího provozu podle [[§ 49 odst. 1|§ 49 odst. 1]] a [[§ 51 odst. 4|§ 51 odst. 4]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (6) Původce odpadu může upustit od odděleného soustřeďování odpadů, na základě souhlasu vydaného podle [[§ 16 odst. 2|§ 16 odst. 2]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, do konce doby, na kterou byl tento souhlas vydán, nejdéle však do doby 2 let ode dne nabytí účinnosti tohoto zákona. Provozovatel zařízení může upustit od odděleného soustřeďování odpadů, na základě souhlasu vydaného podle [[§ 18 odst. 2|§ 18 odst. 2]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, do konce doby, na kterou byl tento souhlas vydán, nejdéle však do doby konce platnosti souhlasu podle [[§ 14 odst. 1|§ 14 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, vydaného pro zařízení, ke kterému se vztahuje souhlas podle [[§ 18 odst. 2|§ 18 odst. 2]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (7) Ustanovení § 110 odst. 3 se nepoužije na skládku, jejíž provoz byl zahájen přede dnem nabytí účinnosti tohoto zákona, pokud obce, na jejichž území se skládka nachází, uzavřou smlouvu, že poplatek se mezi ně dělí podle [[§ 48 odst. 1|§ 48 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (8) Právnická nebo podnikající fyzická osoba je povinna zpracovat pokyny podle § 89 odst. 1 nebo [[#§ 2|2]] do dvou let ode dne nabytí účinnosti tohoto zákona.
+>
+> (9) Poskytovatel zdravotních služeb není povinen poučit pacienta v souladu s § 89 odst. 2 po dobu jednoho roku ode dne nabytí účinnosti tohoto zákona.
+>
+> (10) Poskytovatel veterinární péče není povinen poučit chovatele v souladu s § 89 odst. 4 po dobu jednoho roku ode dne nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 15, § 17, § 45, § 3, § 49, § 51, § 16, § 18, § 14, § 110, § 48, § 89, § 2
+
+##### Souvisící předpisy
+
+- zákon č. 185/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 76/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 69/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 229/2014 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5f5faeddc47e1922b684 -->
+
 ### § 156 — Přechodná ustanovení k obecním systémům
 
 #### Úhrada podle staré úpravy do konce 2021
@@ -3453,6 +7184,60 @@ Obec mohla **za poplatkové období 2021** vybírat poplatek podle staré úprav
 **Typicky rozhodné důkazy / podklady:** stará OZV a smlouvy o úhradě, nová OZV (datum schválení a účinnosti), doklady o výběru plateb v letech 2021–2022, zápisy ze zastupitelstva, metodická stanoviska MV/MF.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c517948e59ccfb92ec68 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 156
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) Pokud obec přede dnem nabytí účinnosti tohoto zákona vybírá úhradu za shromažďování, sběr, přepravu, třídění, využití a odstranění komunálních odpadů od fyzických osob na základě smlouvy podle [[§ 17|§ 17]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, může tuto úhradu vybírat do 31. prosince 2021. Vybrané prostředky musí použít na financování obecního systému podle tohoto zákona.
+>
+> (2) Pro poplatkové povinnosti u poplatku za komunální odpad, jakož i pro práva a povinnosti s nimi související, vzniklé přede dnem nabytí účinnosti tohoto zákona, se použije [[zákon č. 185/2001 Sb|zákon č. 185/2001 Sb.]] a obecně závazné vyhlášky vydané na základě jeho zmocnění, ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+>
+> (3) Obec může za poplatkové období 2021 vybírat poplatek za komunální odpad, který zavedla přede dnem nabytí účinnosti tohoto zákona. Pro poplatkové povinnosti u tohoto poplatku, jakož i pro práva a povinnosti s nimi související, vzniklé v poplatkovém období 2021, se použije [[zákon č. 185/2001 Sb|zákon č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, a obecně závazné vyhlášky vydané na základě jeho zmocnění, účinné ke dni nabytí účinnosti tohoto zákona. Obecně závazná vyhláška, kterou obec zavedla tento poplatek, pozbývá platnosti nejpozději 31. prosince 2021.
+>
+> (4) Vzorkování a zkoušení odpadu nebo vedlejšího produktu provedené před účinností tohoto zákona v souladu se [[zákonem č. 185/2001 Sb|zákonem č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se po dobu 3 let od nabytí účinnosti tohoto zákona považuje za vzorkování a zkoušení odpadu nebo vedlejšího produktu provedené v souladu s tímto zákonem.
+>
+> (5) Souhlas s provozem zařízení na využití odpadu podle [[§ 14 odst. 1|§ 14 odst. 1]] [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], ve znění účinném přede dnem nabytí účinnosti tohoto zákona, a jím schválený provozní řád zařízení, na základě kterého přestával být na výstupu takového zařízení odpad odpadem v souladu se zněním [[zákona č. 185/2001 Sb|zákona č. 185/2001 Sb.]], účinným přede dnem nabytí účinnosti tohoto zákona, se považuje po dobu 3 let ode dne nabytí účinnosti tohoto zákona za povolení podle § 10 odst. 1. To se netýká odpadů, pro které byla stanovena doplňující kritéria podle § 9 odst. 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17, § 14, § 10, § 9
+
+##### Souvisící předpisy
+
+- zákon č. 185/2001 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c517948e59ccfb92ec68 -->
 
 ### § 157 — Třídicí sleva (zvýhodněná sazba pro obce)
 
@@ -3541,6 +7326,60 @@ Třídicí sleva umožňuje obcím do roku 2029 ukládat využitelný komunáln�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=910f3ccc40cad30246d6 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 157
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> (1) V poplatkovém období do roku 2029 se komunální odpad splňující podmínky podle § 40 odst. 1 s výjimkou nebezpečných odpadů, jehož původcem je obec, zahrne namísto dílčího základu poplatku za ukládání využitelných odpadů do dílčího základu poplatku za ukládání komunálního odpadu, pokud celková hmotnost takového odpadu uloženého na libovolnou skládku od prvního dne kalendářního roku, ve kterém nastane toto poplatkové období, ve vztahu ke kterému uplatní obec nárok podle odstavce 2, nepřesáhne množství vypočtené podle přílohy č. 12 k tomuto zákonu. Pokud se v poplatkovém období toto množství přesáhne, zahrne se do dílčího základu poplatku za ukládání komunálního odpadu pouze část odpadu do jeho dosažení.
+>
+> (2) Plátce poplatku zahrne odpad do dílčího základu poplatku za ukládání komunálního odpadu pouze tehdy, pokud u něj obec uplatní nárok na toto zahrnutí a současně mu sdělí rozhodné údaje, ze kterých vyplývá, zda jí na toto zahrnutí vznikl nárok. Plátce poplatku vede evidenci o uplatněných nárocích na zahrnutí odpadu do dílčího základu poplatku za ukládání komunálního odpadu, ve které současně uchovává tyto sdělené údaje.
+>
+> (3) Dílčí základ poplatku za ukládání komunálního odpadu je dílčím základem poplatku za ukládání odpadů na skládku.
+>
+> (4) Sazba poplatku za ukládání odpadů na skládku pro dílčí základ poplatku za ukládání komunálního odpadu činí 500 Kč za tunu.
+>
+> (5) Pro dílčí poplatek za ukládání komunálního odpadu se použijí obdobně ustanovení o rozpočtovém určení dílčího poplatku za ukládání zbytkového odpadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=910f3ccc40cad30246d6 -->
+
 ### § 158 — Zrušovací ustanovení
 
 § 158 ruší **67 právních předpisů**, z nichž nejvýznamnější je:
@@ -3588,6 +7427,332 @@ Tímto kompletním přepsáním zákonodárce zajistil **úplnou rekodifikaci** 
 **Typicky rozhodné důkazy / podklady:** datace skutku, srovnání staré a nové úpravy (znaky, sazby), stará povolení a souhlasy, přechodná ustanovení, spisová dokumentace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a334d09588d05b50a52d generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 158 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Zrušují se:
+>
+> - 1. [[Zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů|Zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů]].
+>
+> - 2. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 477/2001 Sb., o obalech a o změně některých zákonů|zákona č. 477/2001 Sb., o obalech a o změně některých zákonů]] (zákon [[o obalech|o obalech]]).
+>
+> - 3. [[Část sedmá|Část sedmá]] [[zákona č. 76/2002 Sb|zákona č. 76/2002 Sb.]], o integrované prevenci a omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů (zákon [[o integrované prevenci|o integrované prevenci]]).
+>
+> - 4. [[Zákon č. 275/2002 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 275/2002 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 5. [[Část sto šestá|Část sto šestá]] [[zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů|zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů]].
+>
+> - 6. [[Část šestá|Část šestá]] [[zákona č. 167/2004 Sb., kterým se mění zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a některé související zákony|zákona č. 167/2004 Sb., kterým se mění zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a některé související zákony]].
+>
+> - 7. [[Zákon č. 188/2004 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 188/2004 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 8. [[Část druhá|Část druhá]] [[zákona č. 317/2004 Sb., kterým se mění zákon č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění pozdějších předpisů, zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých dalších zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském), ve znění pozdějších předpisů, a zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů|zákona č. 317/2004 Sb., kterým se mění zákon č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění pozdějších předpisů, zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých dalších zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském), ve znění pozdějších předpisů, a zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů]].
+>
+> - 9. [[Zákon č. 7/2005 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 7/2005 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 10. [[Část čtyřicátá|Část čtyřicátá]] [[zákona č. 444/2005 Sb., kterým se mění zákon č. 531/1990 Sb., o územních finančních orgánech, ve znění pozdějších předpisů, a některé další zákony|zákona č. 444/2005 Sb., kterým se mění zákon č. 531/1990 Sb., o územních finančních orgánech, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 11. [[Část dvacátá čtvrtá|Část dvacátá čtvrtá]] [[zákona č. 186/2006 Sb., o změně některých zákonů souvisejících s přijetím stavebního zákona a zákona o vyvlastnění|zákona č. 186/2006 Sb., o změně některých zákonů souvisejících s přijetím stavebního zákona a zákona o vyvlastnění]].
+>
+> - 12. [[Část osmá|Část osmá]] [[zákona č. 222/2006 Sb., kterým se mění zákon č. 76/2002 Sb., o integrované prevenci a omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů (zákon o integrované prevenci), ve znění pozdějších předpisů, a některé další zákony|zákona č. 222/2006 Sb., kterým se mění zákon č. 76/2002 Sb., o integrované prevenci a omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů (zákon o integrované prevenci), ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 13. [[Zákon č. 314/2006 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů|Zákon č. 314/2006 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů]].
+>
+> - 14. [[Část sedmdesátá třetí|Část sedmdesátá třetí]] [[zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím|zákona č. 296/2007 Sb., kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, a některé zákony v souvislosti s jeho přijetím]].
+>
+> - 15. [[Část pátá|Část pátá]] [[zákona č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů|zákona č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů]].
+>
+> - 16. [[Zákon č. 34/2008 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 34/2008 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 17. [[Část první|Část první]] [[zákona č. 383/2008 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů|zákona č. 383/2008 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů]].
+>
+> - 18. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 9/2009 Sb., kterým se mění zákon č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění pozdějších předpisů, a další související zákony|zákona č. 9/2009 Sb., kterým se mění zákon č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 19. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 157/2009 Sb., o nakládání s těžebním odpadem a o změně některých zákonů|zákona č. 157/2009 Sb., o nakládání s těžebním odpadem a o změně některých zákonů]].
+>
+> - 20. [[Část dvacátá druhá|Část dvacátá druhá]] [[zákona č. 223/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o volném pohybu služeb|zákona č. 223/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o volném pohybu služeb]].
+>
+> - 21. [[Část sto osmnáctá|Část sto osmnáctá]] [[zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech|zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech]].
+>
+> - 22. [[Část devadesátá sedmá|Část devadesátá sedmá]] [[zákona č. 281/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím daňového řádu|zákona č. 281/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím daňového řádu]].
+>
+> - 23. [[Část osmá|Část osmá]] [[zákona č. 291/2009 Sb., kterým se mění zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů, a další související zákony|zákona č. 291/2009 Sb., kterým se mění zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 24. [[Část první|Část první]] [[zákona č. 297/2009 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb|zákona č. 297/2009 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb.]]
+>
+> - 25. [[Část třináctá|Část třináctá]] [[zákona č. 326/2009 Sb., o podpoře hospodářského růstu a sociální stability|zákona č. 326/2009 Sb., o podpoře hospodářského růstu a sociální stability]].
+>
+> - 26. [[Zákon č. 154/2010 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 154/2010 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 27. [[Zákon č. 31/2011 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 31/2011 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 28. [[Část třetí|Část třetí]] [[zákona č. 77/2011 Sb., kterým se mění zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony|zákona č. 77/2011 Sb., kterým se mění zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 29. [[Zákon č. 264/2011 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 264/2011 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 30. [[Část osmnáctá|Část osmnáctá]] [[zákona č. 457/2011 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Finanční správě České republiky|zákona č. 457/2011 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Finanční správě České republiky]].
+>
+> - 31. [[Část dvacátá pátá|Část dvacátá pátá]] [[zákona č. 18/2012 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Celní správě České republiky|zákona č. 18/2012 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Celní správě České republiky]].
+>
+> - 32. [[Část pátá|Část pátá]] [[zákona č. 85/2012 Sb., o ukládání oxidu uhličitého do přírodních horninových struktur a o změně některých zákonů|zákona č. 85/2012 Sb., o ukládání oxidu uhličitého do přírodních horninových struktur a o změně některých zákonů]].
+>
+> - 33. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 165/2012 Sb., o podporovaných zdrojích energie a o změně některých zákonů|zákona č. 165/2012 Sb., o podporovaných zdrojích energie a o změně některých zákonů]].
+>
+> - 34. [[Část devatenáctá|Část devatenáctá]] [[zákona č. 167/2012 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a další související zákony|zákona č. 167/2012 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 35. [[Část druhá|Část druhá]] [[zákona č. 69/2013 Sb|zákona č. 69/2013 Sb.]], kterým se mění [[zákon č. 76/2002 Sb., o integrované prevenci a o omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů|zákon č. 76/2002 Sb., o integrované prevenci a o omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů]] (zákon [[o integrované prevenci|o integrované prevenci]]), ve znění pozdějších předpisů, a některé další zákony.
+>
+> - 36. [[Část první|Část první]] [[zákona č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů|zákona č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů]].
+>
+> - 37. [[Část třicátá čtvrtá|Část třicátá čtvrtá]] [[zákonného opatření Senátu č. 344/2013 Sb., o změně daňových zákonů v souvislosti s rekodifikací soukromého práva a o změně některých zákonů|zákonného opatření Senátu č. 344/2013 Sb., o změně daňových zákonů v souvislosti s rekodifikací soukromého práva a o změně některých zákonů]].
+>
+> - 38. [[Část čtyřicátá osmá|Část čtyřicátá osmá]] [[zákona č. 64/2014 Sb., kterým se mění některé zákony v souvislosti s přijetím kontrolního řádu|zákona č. 64/2014 Sb., kterým se mění některé zákony v souvislosti s přijetím kontrolního řádu]].
+>
+> - 39. [[Část první|Část první]] [[zákona č. 184/2014 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů|zákona č. 184/2014 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů]].
+>
+> - 40. [[Zákon č. 229/2014 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů|Zákon č. 229/2014 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů]].
+>
+> - 41. [[Zákon č. 223/2015 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů|Zákon č. 223/2015 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů]].
+>
+> - 42. [[Část dvacátá|Část dvacátá]] [[zákona č. 243/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím celního zákona|zákona č. 243/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím celního zákona]].
+>
+> - 43. [[Část třicátá druhá|Část třicátá druhá]] [[zákona č. 298/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o službách vytvářejících důvěru pro elektronické transakce, zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, a zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů|zákona č. 298/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o službách vytvářejících důvěru pro elektronické transakce, zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, a zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů]].
+>
+> - 44. [[Část sto patnáctá|Část sto patnáctá]] [[zákona č. 183/2017 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o odpovědnosti za přestupky a řízení o nich a zákona o některých přestupcích|zákona č. 183/2017 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o odpovědnosti za přestupky a řízení o nich a zákona o některých přestupcích]].
+>
+> - 45. [[Část dvacátá pátá|Část dvacátá pátá]] [[zákona č. 225/2017 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony|zákona č. 225/2017 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 46. [[Část druhá|Část druhá]] [[zákona č. 45/2019 Sb., kterým se mění některé zákony v souvislosti s přijetím nařízení Evropského parlamentu a Rady o rtuti|zákona č. 45/2019 Sb., kterým se mění některé zákony v souvislosti s přijetím nařízení Evropského parlamentu a Rady o rtuti]].
+>
+> - 47. [[Vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady|Vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady]].
+>
+> - 48. [[Vyhláška č. 384/2001 Sb., o nakládání s polychlorovanými bifenyly, polychlorovanými terfenyly, monometyltetrachlordifenylmetanem, monometyldichlordifenylmetanem, monometyldibromdifenylmetanem a veškerými směsmi obsahujícími kteroukoliv z těchto látek v koncentraci větší než 50 mg/kg|Vyhláška č. 384/2001 Sb., o nakládání s polychlorovanými bifenyly, polychlorovanými terfenyly, monometyltetrachlordifenylmetanem, monometyldichlordifenylmetanem, monometyldibromdifenylmetanem a veškerými směsmi obsahujícími kteroukoliv z těchto látek v koncentraci větší než 50 mg/kg]] ([[o nakládání s PCB|o nakládání s PCB]]).
+>
+> - 49. [[Vyhláška č. 237/2002 Sb., o podrobnostech způsobu provedení zpětného odběru některých výrobků|Vyhláška č. 237/2002 Sb., o podrobnostech způsobu provedení zpětného odběru některých výrobků]].
+>
+> - 50. [[Vyhláška č. 505/2004 Sb., kterou se mění vyhláška Ministerstva životního prostředí č. 237/2002 Sb., o podrobnostech způsobu provedení zpětného odběru některých výrobků|Vyhláška č. 505/2004 Sb., kterou se mění vyhláška Ministerstva životního prostředí č. 237/2002 Sb., o podrobnostech způsobu provedení zpětného odběru některých výrobků]].
+>
+> - 51. [[Vyhláška č. 41/2005 Sb., kterou se mění vyhláška Ministerstva životního prostředí č. 383/2001 Sb., o podrobnostech nakládání s odpady|Vyhláška č. 41/2005 Sb., kterou se mění vyhláška Ministerstva životního prostředí č. 383/2001 Sb., o podrobnostech nakládání s odpady]].
+>
+> - 52. [[Vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady|Vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady]].
+>
+> - 53. [[Vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi|Vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi]] (vyhláška [[o nakládání s elektrozařízeními a elektroodpady|o nakládání s elektrozařízeními a elektroodpady]]).
+>
+> - 54. [[Vyhláška č. 353/2005 Sb., kterou se mění vyhláška č. 237/2002 Sb., o podrobnostech způsobu provedení zpětného odběru některých výrobků, ve znění vyhlášky č. 505/2004 Sb., a vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 353/2005 Sb., kterou se mění vyhláška č. 237/2002 Sb., o podrobnostech způsobu provedení zpětného odběru některých výrobků, ve znění vyhlášky č. 505/2004 Sb., a vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 55. [[Vyhláška č. 124/2006 Sb., kterou se zrušuje vyhláška č. 95/2006 Sb., kterou se stanoví seznam odpadů, na které se vztahuje postup podle § 55 odst. 2 zákona č. 185/2001 Sb|Vyhláška č. 124/2006 Sb., kterou se zrušuje vyhláška č. 95/2006 Sb., kterou se stanoví seznam odpadů, na které se vztahuje postup podle § 55 odst. 2 zákona č. 185/2001 Sb.]]
+>
+> - 56. [[Vyhláška č. 341/2008 Sb|Vyhláška č. 341/2008 Sb.]], o podrobnostech nakládání s biologicky rozložitelnými odpady a o změně [[vyhlášky č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady|vyhlášky č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady]] (vyhláška [[o podrobnostech nakládání s biologicky rozložitelnými odpady|o podrobnostech nakládání s biologicky rozložitelnými odpady]]).
+>
+> - 57. [[Vyhláška č. 351/2008 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 351/2008 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 58. [[Vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků|Vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků]] ([[o podrobnostech nakládání s autovraky|o podrobnostech nakládání s autovraky]]).
+>
+> - 59. [[Vyhláška č. 374/2008 Sb., o přepravě odpadů a o změně vyhlášky č. 381/2001 Sb., kterou se stanoví Katalog odpadů, Seznam nebezpečných odpadů a seznamy odpadů a států pro účely vývozu, dovozu a tranzitu odpadů a postup při udělování souhlasu k vývozu, dovozu a tranzitu odpadů (Katalog odpadů), ve znění pozdějších předpisů|Vyhláška č. 374/2008 Sb., o přepravě odpadů a o změně vyhlášky č. 381/2001 Sb., kterou se stanoví Katalog odpadů, Seznam nebezpečných odpadů a seznamy odpadů a států pro účely vývozu, dovozu a tranzitu odpadů a postup při udělování souhlasu k vývozu, dovozu a tranzitu odpadů (Katalog odpadů), ve znění pozdějších předpisů]].
+>
+> - 60. [[Vyhláška č. 478/2008 Sb., kterou se mění vyhláška Ministerstva životního prostředí č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 478/2008 Sb., kterou se mění vyhláška Ministerstva životního prostředí č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 61. [[Vyhláška č. 54/2010 Sb., kterou se mění vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků (o podrobnostech nakládání s autovraky)|Vyhláška č. 54/2010 Sb., kterou se mění vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků (o podrobnostech nakládání s autovraky)]].
+>
+> - 62. [[Vyhláška č. 61/2010 Sb., kterou se mění vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění vyhlášky č. 341/2008 Sb., a vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 61/2010 Sb., kterou se mění vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění vyhlášky č. 341/2008 Sb., a vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 63. [[Vyhláška č. 65/2010 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady)|Vyhláška č. 65/2010 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady)]].
+>
+> - 64. [[Vyhláška č. 170/2010 Sb., o bateriích a akumulátorech a o změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 170/2010 Sb., o bateriích a akumulátorech a o změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 65. [[Vyhláška č. 285/2010 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění vyhlášky č. 65/2010 Sb|Vyhláška č. 285/2010 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění vyhlášky č. 65/2010 Sb.]]
+>
+> - 66. [[Vyhláška č. 158/2011 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů|Vyhláška č. 158/2011 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů]].
+>
+> - 67. [[Vyhláška č. 249/2012 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů|Vyhláška č. 249/2012 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů]].
+>
+> - 68. [[Vyhláška č. 93/2013 Sb., kterou se mění vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 93/2013 Sb., kterou se mění vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 69. [[Vyhláška č. 178/2013 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů|Vyhláška č. 178/2013 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů]].
+>
+> - 70. [[Vyhláška č. 35/2014 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 35/2014 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 71. [[Vyhláška č. 105/2014 Sb., kterou se mění vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků (o podrobnostech nakládání s autovraky), ve znění vyhlášky č. 54/2010 Sb|Vyhláška č. 105/2014 Sb., kterou se mění vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků (o podrobnostech nakládání s autovraky), ve znění vyhlášky č. 54/2010 Sb.]]
+>
+> - 72. [[Vyhláška č. 200/2014 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů|Vyhláška č. 200/2014 Sb., kterou se mění vyhláška č. 352/2005 Sb., o podrobnostech nakládání s elektrozařízeními a elektroodpady a o bližších podmínkách financování nakládání s nimi (vyhláška o nakládání s elektrozařízeními a elektroodpady), ve znění pozdějších předpisů]].
+>
+> - 73. [[Vyhláška č. 321/2014 Sb., o rozsahu a způsobu zajištění odděleného soustřeďování složek komunálních odpadů|Vyhláška č. 321/2014 Sb., o rozsahu a způsobu zajištění odděleného soustřeďování složek komunálních odpadů]].
+>
+> - 74. [[Nařízení vlády č. 352/2014 Sb|Nařízení vlády č. 352/2014 Sb.]], o Plánu odpadového hospodářství České republiky pro období 2015-2024.
+>
+> - 75. [[Vyhláška č. 27/2015 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 27/2015 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 76. [[Vyhláška č. 212/2015 Sb., kterou se mění vyhláška č. 170/2010 Sb., o bateriích a akumulátorech a o změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 212/2015 Sb., kterou se mění vyhláška č. 170/2010 Sb., o bateriích a akumulátorech a o změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 77. [[Vyhláška č. 248/2015 Sb., o podrobnostech provádění zpětného odběru pneumatik|Vyhláška č. 248/2015 Sb., o podrobnostech provádění zpětného odběru pneumatik]].
+>
+> - 78. [[Vyhláška č. 270/2015 Sb|Vyhláška č. 270/2015 Sb.]], kterou se mění [[vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků|vyhláška č. 352/2008 Sb., o podrobnostech nakládání s odpady z autovraků, vybraných autovraků, o způsobu vedení jejich evidence a evidence odpadů vznikajících v zařízeních ke sběru a zpracování autovraků a o informačním systému sledování toků vybraných autovraků]] ([[o podrobnostech nakládání s autovraky|o podrobnostech nakládání s autovraky]]), ve znění pozdějších předpisů.
+>
+> - 79. [[Vyhláška č. 83/2016 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 83/2016 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 80. [[Vyhláška č. 93/2016 Sb., o Katalogu odpadů|Vyhláška č. 93/2016 Sb., o Katalogu odpadů]].
+>
+> - 81. [[Vyhláška č. 94/2016 Sb., o hodnocení nebezpečných vlastností odpadů|Vyhláška č. 94/2016 Sb., o hodnocení nebezpečných vlastností odpadů]].
+>
+> - 82. [[Vyhláška č. 387/2016 Sb|Vyhláška č. 387/2016 Sb.]], kterou se mění [[vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady|vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady]], ve znění pozdějších předpisů.
+>
+> - 83. [[Vyhláška č. 437/2016 Sb., o podmínkách použití upravených kalů na zemědělské půdě a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady a změně vyhlášky č. 341/2008 Sb., o podrobnostech nakládání s biologicky rozložitelnými odpady a o změně vyhlášky č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady|Vyhláška č. 437/2016 Sb., o podmínkách použití upravených kalů na zemědělské půdě a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady a změně vyhlášky č. 341/2008 Sb., o podrobnostech nakládání s biologicky rozložitelnými odpady a o změně vyhlášky č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady]] (vyhláška [[o podrobnostech nakládání s biologicky rozložitelnými odpady|o podrobnostech nakládání s biologicky rozložitelnými odpady]]).
+>
+> - 84. [[Vyhláška č. 210/2018 Sb., kterou se mění vyhláška č. 321/2014 Sb., o rozsahu a způsobu zajištění odděleného soustřeďování složek komunálních odpadů|Vyhláška č. 210/2018 Sb., kterou se mění vyhláška č. 321/2014 Sb., o rozsahu a způsobu zajištění odděleného soustřeďování složek komunálních odpadů]].
+>
+> - 85. [[Vyhláška č. 130/2019 Sb., o kritériích, při jejichž splnění je asfaltová směs vedlejším produktem nebo přestává být odpadem|Vyhláška č. 130/2019 Sb., o kritériích, při jejichž splnění je asfaltová směs vedlejším produktem nebo přestává být odpadem]].
+>
+> - 86. [[Vyhláška č. 199/2019 Sb., kterou se mění vyhláška č. 94/2016 Sb., o hodnocení nebezpečných vlastností odpadů|Vyhláška č. 199/2019 Sb., kterou se mění vyhláška č. 94/2016 Sb., o hodnocení nebezpečných vlastností odpadů]].
+>
+> - 87. [[Vyhláška č. 200/2019 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů, a vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů|Vyhláška č. 200/2019 Sb., kterou se mění vyhláška č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů, a vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady, ve znění pozdějších předpisů]].
+>
+> - 88. [[Vyhláška č. 305/2019 Sb., kterou se mění vyhláška č. 437/2016 Sb., o podmínkách použití upravených kalů na zemědělské půdě a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady a změně vyhlášky č. 341/2008 Sb., o podrobnostech nakládání s biologicky rozložitelnými odpady a o změně vyhlášky č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady (vyhláška o podrobnostech nakládání s biologicky rozložitelnými odpady)|Vyhláška č. 305/2019 Sb., kterou se mění vyhláška č. 437/2016 Sb., o podmínkách použití upravených kalů na zemědělské půdě a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady a změně vyhlášky č. 341/2008 Sb., o podrobnostech nakládání s biologicky rozložitelnými odpady a o změně vyhlášky č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady (vyhláška o podrobnostech nakládání s biologicky rozložitelnými odpady)]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 55
+
+##### Souvisící předpisy
+
+- zákon č. 185/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 477/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 76/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 275/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 320/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 167/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 455/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 188/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 317/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 156/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 147/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 252/1997 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 7/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 444/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 531/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 186/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 222/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 314/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 140/1961 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 296/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 182/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 25/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 34/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 383/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 283/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 56/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 168/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 9/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 157/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 223/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 227/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 281/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 291/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 297/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 307/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 326/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 154/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 31/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 77/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 264/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 457/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 18/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 85/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 165/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 167/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 499/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 227/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 69/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 169/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 64/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 184/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 229/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 223/2015 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 243/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 298/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 106/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 121/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 183/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 225/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 183/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 45/2019 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 383/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 384/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 237/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 505/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 41/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 294/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 352/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 353/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 124/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 95/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 341/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 351/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 352/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 374/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 381/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 478/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 54/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 61/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 65/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 170/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 285/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 158/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 249/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 93/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 178/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 35/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 105/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 200/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 321/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 352/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 27/2015 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 212/2015 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 248/2015 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 270/2015 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 83/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 93/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 94/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 387/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 437/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 210/2018 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 130/2019 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 199/2019 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 200/2019 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 305/2019 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a334d09588d05b50a52d -->
 
 ## ČÁST DEVÁTÁ — Účinnost
 
@@ -3645,6 +7810,52 @@ Tato **balíčková rekodifikace** představuje **největší zásah do odpadov�
 **Typicky rozhodné důkazy / podklady:** doklady a evidence prokazující datum jednání (předávací protokoly, průběžná evidence odpadů), kontrolní protokol, znění obou úprav v rozhodném znění, přechodná ustanovení, vyhlášení zákona ve Sbírce zákonů (částka, datum).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a7ec2cbf0fd92bb2acf0 generator=2026-07-17.4 source_sha256=a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03 -->
+#### Revizní doplnění k § 159
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2020/541-2020 Zákon o odpadech.md`; identifikátor verze: `SB-2020-00541_2025-07-01`; SHA-256: `a965fa0da3052a1ae1e3706333f8d43d2f4fd7f30b549d5113efbc38f8d1db03`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2021.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7ec2cbf0fd92bb2acf0 -->
 
 ## Syntéza: Strategická logika části třetí až deváté
 
